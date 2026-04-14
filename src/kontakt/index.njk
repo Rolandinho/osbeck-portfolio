@@ -5,11 +5,10 @@ title: Kontakt
 <section class="contact-page">
   <h1>Kontakt</h1>
   <p>Vill du boka en fotograf, köpa ett print eller bara säga hej?</p>
-  <form name="kontakt" method="POST" data-netlify="true" class="contact-form">
-    <input type="hidden" name="form-name" value="kontakt">
-    <label>Namn<input type="text" name="name" required></label>
-    <label>E-post<input type="email" name="email" required></label>
-    <label>Meddelande<textarea name="message" rows="5" required></textarea></label>
-    <button type="submit" class="btn btn--primary">Skicka</button>
-  </form>
+  <form action="https://formspree.io/f/xvzdgbvq" method="POST" class="contact-form">
+  <label>Namn<input type="text" name="name" required></label>
+  <label>E-post<input type="email" name="email" required></label>
+  <label>Meddelande<textarea name="message" rows="5" required></textarea></label>
+  <button type="submit" class="btn btn--primary">Skicka</button>
+</form>
 </section>
