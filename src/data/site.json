@@ -5,14 +5,14 @@
   "description": "Fotograf baserad i Stockholm. Sport, People, Cityscape.",
   "url": "https://www.osbeck.org",
   "heroImages": [
-  "/images/portratt/WillyoSally2025-10.jpg",
-  "/images/birds/Kungsfiskare.jpg",
-  "/images/fotboll/Simone Boye Sørensen.jpg",
-  "/images/innebandy/Valdemar Ahlrot.jpg",
-  "/images/pride/Pride style..jpg",
-  "/images/birds/Gråhäger fight.jpg",
-  "/images/innebandy/Goal.jpg"
-],
+    "/images/portratt/WillyoSally2025-10.jpg",
+    "/images/birds/Kungsfiskare.jpg",
+    "/images/fotboll/Simone Boye Sørensen.jpg",
+    "/images/innebandy/Valdemar Ahlrot.jpg",
+    "/images/pride/Pride style..jpg",
+    "/images/birds/Gråhäger fight.jpg",
+    "/images/innebandy/Goal.jpg"
+  ],
   "logoImage": "/images/_assets/logga.png",
   "nav": [
     { "label": "Sport",        "href": "/kategorier/sport/" },
@@ -20,9 +20,9 @@
     { "label": "Natur & stad", "href": "/kategorier/natur-stad/" },
     { "label": "Om mig",       "href": "/om/" },
     { "label": "Kontakt",      "href": "/kontakt/" }
-  ]
+  ],
   "social": {
-  "instagram": "https://www.instagram.com/sportphoto.wiki",
-  "facebook": "https://www.facebook.com/Roland Osbeck"
-}
+    "instagram": "https://www.instagram.com/sportphoto.wiki",
+    "facebook": "https://www.facebook.com/Roland Osbeck"
+  }
 }
