@@ -11,12 +11,18 @@
 
 <header class="site-header">
   <a href="/" class="site-logo">
-  <img src="{{ site.logoImage }}" alt="{{ site.title }}">
-</a>
+    <img src="{{ site.logoImage }}" alt="{{ site.title }}">
+  </a>
   <nav class="site-nav">
     {% for item in site.nav %}
       <a href="{{ item.href }}"{% if page.url == item.href %} class="active"{% endif %}>{{ item.label }}</a>
     {% endfor %}
+    {% if site.social.instagram %}
+      <a href="{{ site.social.instagram }}" target="_blank" rel="noopener" class="social-icon">IG</a>
+    {% endif %}
+    {% if site.social.facebook %}
+      <a href="{{ site.social.facebook }}" target="_blank" rel="noopener" class="social-icon">FB</a>
+    {% endif %}
   </nav>
 </header>
 
