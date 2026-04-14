@@ -21,4 +21,8 @@
     { "label": "Om mig",       "href": "/om/" },
     { "label": "Kontakt",      "href": "/kontakt/" }
   ]
+  "social": {
+  "instagram": "https://www.instagram.com/sportphoto.wiki",
+  "facebook": "https://www.facebook.com/Roland Osbeck"
+}
 }

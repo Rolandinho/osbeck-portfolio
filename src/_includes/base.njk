@@ -24,6 +24,14 @@
 
 <footer class="site-footer">
   <span>© 2026 {{ site.title }}</span>
+  <div class="social-links">
+    {% if site.social.instagram %}
+      <a href="{{ site.social.instagram }}" target="_blank" rel="noopener">Instagram</a>
+    {% endif %}
+    {% if site.social.facebook %}
+      <a href="{{ site.social.facebook }}" target="_blank" rel="noopener">Facebook</a>
+    {% endif %}
+  </div>
   <span>{{ site.url }}</span>
 </footer>
 
