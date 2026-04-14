@@ -1,0 +1,13 @@
+[
+  { "slug": "innebandy", "label": "Innebandy", "group": "sport" },
+  { "slug": "fotboll",   "label": "Fotboll",   "group": "sport" },
+  { "slug": "basket",    "label": "Basket",    "group": "sport" },
+  { "slug": "alpint",    "label": "Alpint",    "group": "sport" },
+  { "slug": "pride",     "label": "Pride",     "group": "people" },
+  { "slug": "brollop",   "label": "Bröllop",   "group": "people" },
+  { "slug": "portratt",  "label": "Porträtt",  "group": "people" },
+  { "slug": "cityscape", "label": "Cityscape", "group": "natur-stad" },
+  { "slug": "birds",     "label": "Birds",     "group": "natur-stad" },
+  { "slug": "macro",     "label": "Macro",     "group": "natur-stad" },
+  { "slug": "abstrakt",  "label": "Abstrakt",  "group": "natur-stad" }
+]

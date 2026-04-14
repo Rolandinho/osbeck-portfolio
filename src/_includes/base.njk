@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{% if title %}{{ title }} · {% endif %}{{ site.title }}</title>
+  <meta name="description" content="{{ description or site.description }}">
+  <link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+
+<header class="site-header">
+  <a href="/" class="site-logo">
+  <img src="{{ site.logoImage }}" alt="{{ site.title }}">
+</a>
+  <nav class="site-nav">
+    {% for item in site.nav %}
+      <a href="{{ item.href }}"{% if page.url == item.href %} class="active"{% endif %}>{{ item.label }}</a>
+    {% endfor %}
+  </nav>
+</header>
+
+<main>{{ content | safe }}</main>
+
+<footer class="site-footer">
+  <span>© 2026 {{ site.title }}</span>
+  <span>{{ site.url }}</span>
+</footer>
+
+<script src="/js/main.js"></script>
+</body>
+</html>

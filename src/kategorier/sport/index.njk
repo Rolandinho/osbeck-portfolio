@@ -1,0 +1,20 @@
+---
+layout: base.njk
+title: Sport
+---
+<section class="cat-header">
+  <h1 class="cat-title">Sport</h1>
+</section>
+
+<div class="gallery" id="gallery">
+  {% for photo in photos %}
+    {% if photo.category == "innebandy" or photo.category == "fotboll" or photo.category == "basket" or photo.category == "alpint" %}
+      <a href="/foto/{{ photo.slug }}/"
+         class="gallery-item{% if photo.featured %} gallery-item--featured{% endif %}"
+         data-category="{{ photo.category }}">
+        <img src="{{ photo.src }}" alt="{{ photo.title }}" loading="lazy">
+        <span class="gallery-caption">{{ photo.title }}</span>
+      </a>
+    {% endif %}
+  {% endfor %}
+</div>

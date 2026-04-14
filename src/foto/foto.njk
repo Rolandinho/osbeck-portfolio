@@ -1,0 +1,42 @@
+---
+layout: base.njk
+pagination:
+  data: photos
+  size: 1
+  alias: photo
+permalink: "/foto/{{ photo.slug }}/"
+---
+<div class="photo-detail">
+  <div class="photo-main">
+    <img src="{{ photo.src }}" alt="{{ photo.title }}" class="photo-full">
+    <div class="photo-nav">
+      {% set prevPhoto = photos | adjacent(photo.slug, "prev") %}
+      {% set nextPhoto = photos | adjacent(photo.slug, "next") %}
+      {% if prevPhoto %}<a href="/foto/{{ prevPhoto.slug }}/" class="photo-nav-btn">← Föregående</a>{% else %}<span></span>{% endif %}
+      {% if nextPhoto %}<a href="/foto/{{ nextPhoto.slug }}/" class="photo-nav-btn">Nästa →</a>{% endif %}
+    </div>
+  </div>
+  <aside class="photo-sidebar">
+    <div class="sidebar-section">
+      <h1 class="photo-title">{{ photo.title }}</h1>
+      <span class="photo-cat-badge">{{ photo.category }}</span>
+    </div>
+    {% if photo.exif %}
+    <div class="sidebar-section">
+      <p class="sidebar-label">Exponering</p>
+      <div class="exif-grid">
+        {% if photo.exif.camera %}<span class="exif-key">Kamera</span><span class="exif-val">{{ photo.exif.camera }}</span>{% endif %}
+        {% if photo.exif.lens %}<span class="exif-key">Objektiv</span><span class="exif-val">{{ photo.exif.lens }}</span>{% endif %}
+        {% if photo.exif.date %}<span class="exif-key">Datum</span><span class="exif-val">{{ photo.exif.date }}</span>{% endif %}
+        {% if photo.exif.shutterSpeed %}<span class="exif-key">Slutartid</span><span class="exif-val">{{ photo.exif.shutterSpeed }}</span>{% endif %}
+        {% if photo.exif.aperture %}<span class="exif-key">Bländare</span><span class="exif-val">{{ photo.exif.aperture }}</span>{% endif %}
+        {% if photo.exif.iso %}<span class="exif-key">ISO</span><span class="exif-val">{{ photo.exif.iso }}</span>{% endif %}
+        {% if photo.exif.focalLength %}<span class="exif-key">Brännvidd</span><span class="exif-val">{{ photo.exif.focalLength }}</span>{% endif %}
+      </div>
+    </div>
+    {% endif %}
+    <div class="sidebar-section sidebar-section--cta">
+      <a href="/kontakt/" class="btn btn--primary">Kontakta mig</a>
+    </div>
+  </aside>
+</div>

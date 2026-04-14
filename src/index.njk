@@ -1,0 +1,50 @@
+---
+layout: base.njk
+title: Portfölj
+---
+<section class="hero">
+  <div class="hero-image" id="hero-image"></div>
+  <div class="hero-content">
+    <h1 class="hero-title">{{ site.tagline }}</h1>
+    <p class="hero-text">{{ site.heroText }}</p>
+    <p class="hero-sub">Sport · People · Cityscape · Nature</p>
+  </div>
+  
+</section>
+
+<div class="filter-bar">
+  <button class="filter-btn active" data-filter="alla">Alla</button>
+  {% for cat in categories %}
+    <button class="filter-btn" data-filter="{{ cat.slug }}">{{ cat.label }}</button>
+  {% endfor %}
+</div>
+
+<div class="gallery" id="gallery">
+  {% for photo in photos %}
+    <a href="/foto/{{ photo.slug }}/"
+       class="gallery-item{% if photo.featured %} gallery-item--featured{% endif %}"
+       data-category="{{ photo.category }}">
+      <img src="{{ photo.src }}" alt="{{ photo.title }}" loading="lazy">
+      <span class="gallery-caption">{{ photo.title }}</span>
+    </a>
+  {% endfor %}
+</div>
+<script>
+const heroImages = {{ site.heroImages | dump | safe }};
+const heroEl = document.getElementById("hero-image");
+
+if (heroEl && heroImages.length) {
+  let current = 0;
+  heroEl.style.backgroundImage = `url('${heroImages[0]}')`;
+
+  setInterval(() => {
+    current = (current + 1) % heroImages.length;
+    heroEl.style.transition = "opacity 1s ease";
+    heroEl.style.opacity = "0";
+    setTimeout(() => {
+      heroEl.style.backgroundImage = `url('${heroImages[current]}')`;
+      heroEl.style.opacity = "1";
+    }, 1000);
+  }, 5000);
+}
+</script>

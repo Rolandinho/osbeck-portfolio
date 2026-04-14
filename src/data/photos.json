@@ -1,0 +1,6122 @@
+[
+  {
+    "filename": "abstrakt-1.jpg",
+    "slug": "abstrakt-1",
+    "title": "abstrakt-1",
+    "category": "abstrakt",
+    "featured": false,
+    "src": "/images/abstrakt/abstrakt-1.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D610",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/22",
+      "shutterSpeed": "1/0 s",
+      "iso": 100
+    }
+  },
+  {
+    "filename": "abstrakt-3.jpg",
+    "slug": "abstrakt-3",
+    "title": "abstrakt-3",
+    "category": "abstrakt",
+    "featured": false,
+    "src": "/images/abstrakt/abstrakt-3.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D500",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/4",
+      "shutterSpeed": "1/3200 s",
+      "iso": 320
+    }
+  },
+  {
+    "filename": "abstrakt-5.jpg",
+    "slug": "abstrakt-5",
+    "title": "abstrakt-5",
+    "category": "abstrakt",
+    "featured": false,
+    "src": "/images/abstrakt/abstrakt-5.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "abstrakt-7.png",
+    "slug": "abstrakt-7",
+    "title": "abstrakt-7",
+    "category": "abstrakt",
+    "featured": false,
+    "src": "/images/abstrakt/abstrakt-7.png",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "abstrakt-9.jpg",
+    "slug": "abstrakt-9",
+    "title": "abstrakt-9",
+    "category": "abstrakt",
+    "featured": false,
+    "src": "/images/abstrakt/abstrakt-9.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "alpint-11.jpg",
+    "slug": "alpint-11",
+    "title": "alpint-11",
+    "category": "alpint",
+    "featured": false,
+    "src": "/images/alpint/alpint-11.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D500",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/8",
+      "shutterSpeed": "1/500 s",
+      "iso": 500
+    }
+  },
+  {
+    "filename": "alpint-13.jpg",
+    "slug": "alpint-13",
+    "title": "alpint-13",
+    "category": "alpint",
+    "featured": false,
+    "src": "/images/alpint/alpint-13.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D500",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/6.3",
+      "shutterSpeed": "1/500 s",
+      "iso": 500
+    }
+  },
+  {
+    "filename": "alpint-15.jpg",
+    "slug": "alpint-15",
+    "title": "alpint-15",
+    "category": "alpint",
+    "featured": false,
+    "src": "/images/alpint/alpint-15.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D500",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/2.8",
+      "shutterSpeed": "1/500 s",
+      "iso": 1000
+    }
+  },
+  {
+    "filename": "alpint-17.jpg",
+    "slug": "alpint-17",
+    "title": "alpint-17",
+    "category": "alpint",
+    "featured": false,
+    "src": "/images/alpint/alpint-17.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D500",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/3.2",
+      "shutterSpeed": "1/800 s",
+      "iso": 1600
+    }
+  },
+  {
+    "filename": "alpint-19.jpg",
+    "slug": "alpint-19",
+    "title": "alpint-19",
+    "category": "alpint",
+    "featured": false,
+    "src": "/images/alpint/alpint-19.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D500",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/3.2",
+      "shutterSpeed": "1/1000 s",
+      "iso": 1600
+    }
+  },
+  {
+    "filename": "alpint-2.jpg",
+    "slug": "alpint-2",
+    "title": "alpint-2",
+    "category": "alpint",
+    "featured": false,
+    "src": "/images/alpint/alpint-2.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D800",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/4",
+      "shutterSpeed": "1/250 s",
+      "iso": 800
+    }
+  },
+  {
+    "filename": "alpint-21.jpg",
+    "slug": "alpint-21",
+    "title": "alpint-21",
+    "category": "alpint",
+    "featured": false,
+    "src": "/images/alpint/alpint-21.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D500",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/3.2",
+      "shutterSpeed": "1/1000 s",
+      "iso": 3200
+    }
+  },
+  {
+    "filename": "alpint-23.jpg",
+    "slug": "alpint-23",
+    "title": "alpint-23",
+    "category": "alpint",
+    "featured": false,
+    "src": "/images/alpint/alpint-23.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D500",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/3.2",
+      "shutterSpeed": "1/1000 s",
+      "iso": 3200
+    }
+  },
+  {
+    "filename": "alpint-25.jpg",
+    "slug": "alpint-25",
+    "title": "alpint-25",
+    "category": "alpint",
+    "featured": false,
+    "src": "/images/alpint/alpint-25.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D500",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/3.2",
+      "shutterSpeed": "1/1000 s",
+      "iso": 2000
+    }
+  },
+  {
+    "filename": "alpint-27.jpg",
+    "slug": "alpint-27",
+    "title": "alpint-27",
+    "category": "alpint",
+    "featured": false,
+    "src": "/images/alpint/alpint-27.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D500",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/3.2",
+      "shutterSpeed": "1/1000 s",
+      "iso": 3200
+    }
+  },
+  {
+    "filename": "alpint-29.jpg",
+    "slug": "alpint-29",
+    "title": "alpint-29",
+    "category": "alpint",
+    "featured": false,
+    "src": "/images/alpint/alpint-29.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D500",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/3.2",
+      "shutterSpeed": "1/1000 s",
+      "iso": 2200
+    }
+  },
+  {
+    "filename": "alpint-31.jpg",
+    "slug": "alpint-31",
+    "title": "alpint-31",
+    "category": "alpint",
+    "featured": false,
+    "src": "/images/alpint/alpint-31.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D500",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/3.2",
+      "shutterSpeed": "1/1000 s",
+      "iso": 1600
+    }
+  },
+  {
+    "filename": "alpint-33.jpg",
+    "slug": "alpint-33",
+    "title": "alpint-33",
+    "category": "alpint",
+    "featured": false,
+    "src": "/images/alpint/alpint-33.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D500",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/3.2",
+      "shutterSpeed": "1/1000 s",
+      "iso": 1100
+    }
+  },
+  {
+    "filename": "alpint-35.jpg",
+    "slug": "alpint-35",
+    "title": "alpint-35",
+    "category": "alpint",
+    "featured": false,
+    "src": "/images/alpint/alpint-35.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D500",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/3.2",
+      "shutterSpeed": "1/1000 s",
+      "iso": 280
+    }
+  },
+  {
+    "filename": "alpint-37.jpg",
+    "slug": "alpint-37",
+    "title": "alpint-37",
+    "category": "alpint",
+    "featured": false,
+    "src": "/images/alpint/alpint-37.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D500",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/3.2",
+      "shutterSpeed": "1/1000 s",
+      "iso": 320
+    }
+  },
+  {
+    "filename": "alpint-39.jpg",
+    "slug": "alpint-39",
+    "title": "alpint-39",
+    "category": "alpint",
+    "featured": false,
+    "src": "/images/alpint/alpint-39.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D500",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/3.2",
+      "shutterSpeed": "1/1000 s",
+      "iso": 320
+    }
+  },
+  {
+    "filename": "alpint-4.jpg",
+    "slug": "alpint-4",
+    "title": "alpint-4",
+    "category": "alpint",
+    "featured": false,
+    "src": "/images/alpint/alpint-4.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D800",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/4",
+      "shutterSpeed": "1/250 s",
+      "iso": 800
+    }
+  },
+  {
+    "filename": "alpint-41.jpg",
+    "slug": "alpint-41",
+    "title": "alpint-41",
+    "category": "alpint",
+    "featured": false,
+    "src": "/images/alpint/alpint-41.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D500",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/3.2",
+      "shutterSpeed": "1/1000 s",
+      "iso": 320
+    }
+  },
+  {
+    "filename": "alpint-43.jpg",
+    "slug": "alpint-43",
+    "title": "alpint-43",
+    "category": "alpint",
+    "featured": false,
+    "src": "/images/alpint/alpint-43.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D500",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/3.2",
+      "shutterSpeed": "1/1000 s",
+      "iso": 200
+    }
+  },
+  {
+    "filename": "alpint-45.jpg",
+    "slug": "alpint-45",
+    "title": "alpint-45",
+    "category": "alpint",
+    "featured": false,
+    "src": "/images/alpint/alpint-45.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D500",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/3.2",
+      "shutterSpeed": "1/1000 s",
+      "iso": 280
+    }
+  },
+  {
+    "filename": "alpint-6.jpg",
+    "slug": "alpint-6",
+    "title": "alpint-6",
+    "category": "alpint",
+    "featured": false,
+    "src": "/images/alpint/alpint-6.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D800",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/4.5",
+      "shutterSpeed": "1/250 s",
+      "iso": 800
+    }
+  },
+  {
+    "filename": "alpint-7.jpg",
+    "slug": "alpint-7",
+    "title": "alpint-7",
+    "category": "alpint",
+    "featured": false,
+    "src": "/images/alpint/alpint-7.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D500",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/10",
+      "shutterSpeed": "1/500 s",
+      "iso": 800
+    }
+  },
+  {
+    "filename": "alpint-9.jpg",
+    "slug": "alpint-9",
+    "title": "alpint-9",
+    "category": "alpint",
+    "featured": false,
+    "src": "/images/alpint/alpint-9.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D500",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/9",
+      "shutterSpeed": "1/500 s",
+      "iso": 800
+    }
+  },
+  {
+    "filename": "SBBK-Lule RIG-44.jpg",
+    "slug": "sbbk-lule-rig-44",
+    "title": "SBBK-Lule RIG-44",
+    "category": "basket",
+    "featured": false,
+    "src": "/images/basket/SBBK-Lule RIG-44.jpg",
+    "exif": {
+      "date": "2025-11-08",
+      "camera": "NIKON Z 9",
+      "lens": "VR 70-200mm f/2.8E",
+      "focalLength": "200 mm",
+      "aperture": "f/2.8",
+      "shutterSpeed": "1/1000 s",
+      "iso": 6400
+    }
+  },
+  {
+    "filename": "basket-11.jpg",
+    "slug": "basket-11",
+    "title": "basket-11",
+    "category": "basket",
+    "featured": false,
+    "src": "/images/basket/basket-11.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "basket-13.jpg",
+    "slug": "basket-13",
+    "title": "basket-13",
+    "category": "basket",
+    "featured": false,
+    "src": "/images/basket/basket-13.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "basket-15.jpg",
+    "slug": "basket-15",
+    "title": "basket-15",
+    "category": "basket",
+    "featured": false,
+    "src": "/images/basket/basket-15.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "basket-17.jpg",
+    "slug": "basket-17",
+    "title": "basket-17",
+    "category": "basket",
+    "featured": false,
+    "src": "/images/basket/basket-17.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "basket-19.jpg",
+    "slug": "basket-19",
+    "title": "basket-19",
+    "category": "basket",
+    "featured": false,
+    "src": "/images/basket/basket-19.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D500",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/4",
+      "shutterSpeed": "1/640 s",
+      "iso": 3200
+    }
+  },
+  {
+    "filename": "basket-2.jpg",
+    "slug": "basket-2",
+    "title": "basket-2",
+    "category": "basket",
+    "featured": false,
+    "src": "/images/basket/basket-2.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "basket-21.jpg",
+    "slug": "basket-21",
+    "title": "basket-21",
+    "category": "basket",
+    "featured": false,
+    "src": "/images/basket/basket-21.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D500",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/3.2",
+      "shutterSpeed": "1/500 s",
+      "iso": 1250
+    }
+  },
+  {
+    "filename": "basket-23.jpg",
+    "slug": "basket-23",
+    "title": "basket-23",
+    "category": "basket",
+    "featured": false,
+    "src": "/images/basket/basket-23.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D500",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/2.8",
+      "shutterSpeed": "1/500 s",
+      "iso": 1600
+    }
+  },
+  {
+    "filename": "basket-25.jpg",
+    "slug": "basket-25",
+    "title": "basket-25",
+    "category": "basket",
+    "featured": false,
+    "src": "/images/basket/basket-25.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D500",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/2.8",
+      "shutterSpeed": "1/500 s",
+      "iso": 1600
+    }
+  },
+  {
+    "filename": "basket-27.jpg",
+    "slug": "basket-27",
+    "title": "basket-27",
+    "category": "basket",
+    "featured": false,
+    "src": "/images/basket/basket-27.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D500",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/3.2",
+      "shutterSpeed": "1/500 s",
+      "iso": 1250
+    }
+  },
+  {
+    "filename": "basket-29.jpg",
+    "slug": "basket-29",
+    "title": "basket-29",
+    "category": "basket",
+    "featured": false,
+    "src": "/images/basket/basket-29.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D500",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/2.8",
+      "shutterSpeed": "1/500 s",
+      "iso": 1250
+    }
+  },
+  {
+    "filename": "basket-31.jpg",
+    "slug": "basket-31",
+    "title": "basket-31",
+    "category": "basket",
+    "featured": false,
+    "src": "/images/basket/basket-31.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D500",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/2.8",
+      "shutterSpeed": "1/500 s",
+      "iso": 1250
+    }
+  },
+  {
+    "filename": "basket-33.jpg",
+    "slug": "basket-33",
+    "title": "basket-33",
+    "category": "basket",
+    "featured": false,
+    "src": "/images/basket/basket-33.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D500",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/2.8",
+      "shutterSpeed": "1/500 s",
+      "iso": 1250
+    }
+  },
+  {
+    "filename": "basket-35.jpg",
+    "slug": "basket-35",
+    "title": "basket-35",
+    "category": "basket",
+    "featured": false,
+    "src": "/images/basket/basket-35.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D500",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/3.2",
+      "shutterSpeed": "1/500 s",
+      "iso": 1250
+    }
+  },
+  {
+    "filename": "basket-37.jpg",
+    "slug": "basket-37",
+    "title": "basket-37",
+    "category": "basket",
+    "featured": false,
+    "src": "/images/basket/basket-37.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D500",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/3.5",
+      "shutterSpeed": "1/500 s",
+      "iso": 1250
+    }
+  },
+  {
+    "filename": "basket-39.jpg",
+    "slug": "basket-39",
+    "title": "basket-39",
+    "category": "basket",
+    "featured": false,
+    "src": "/images/basket/basket-39.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D500",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/2.8",
+      "shutterSpeed": "1/500 s",
+      "iso": 1250
+    }
+  },
+  {
+    "filename": "basket-4.jpg",
+    "slug": "basket-4",
+    "title": "basket-4",
+    "category": "basket",
+    "featured": false,
+    "src": "/images/basket/basket-4.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "basket-41.jpg",
+    "slug": "basket-41",
+    "title": "basket-41",
+    "category": "basket",
+    "featured": false,
+    "src": "/images/basket/basket-41.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D500",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/2.8",
+      "shutterSpeed": "1/500 s",
+      "iso": 1250
+    }
+  },
+  {
+    "filename": "basket-43.jpg",
+    "slug": "basket-43",
+    "title": "basket-43",
+    "category": "basket",
+    "featured": false,
+    "src": "/images/basket/basket-43.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D500",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/2.8",
+      "shutterSpeed": "1/500 s",
+      "iso": 1250
+    }
+  },
+  {
+    "filename": "basket-45.jpg",
+    "slug": "basket-45",
+    "title": "basket-45",
+    "category": "basket",
+    "featured": false,
+    "src": "/images/basket/basket-45.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D500",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/2.8",
+      "shutterSpeed": "1/500 s",
+      "iso": 1250
+    }
+  },
+  {
+    "filename": "basket-47.jpg",
+    "slug": "basket-47",
+    "title": "basket-47",
+    "category": "basket",
+    "featured": false,
+    "src": "/images/basket/basket-47.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D500",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/2.8",
+      "shutterSpeed": "1/500 s",
+      "iso": 1250
+    }
+  },
+  {
+    "filename": "basket-49.jpg",
+    "slug": "basket-49",
+    "title": "basket-49",
+    "category": "basket",
+    "featured": false,
+    "src": "/images/basket/basket-49.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D500",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/2.8",
+      "shutterSpeed": "1/500 s",
+      "iso": 1250
+    }
+  },
+  {
+    "filename": "basket-5.jpg",
+    "slug": "basket-5",
+    "title": "basket-5",
+    "category": "basket",
+    "featured": false,
+    "src": "/images/basket/basket-5.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "basket-51.jpg",
+    "slug": "basket-51",
+    "title": "basket-51",
+    "category": "basket",
+    "featured": false,
+    "src": "/images/basket/basket-51.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D500",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/3.2",
+      "shutterSpeed": "1/500 s",
+      "iso": 1250
+    }
+  },
+  {
+    "filename": "basket-53.jpg",
+    "slug": "basket-53",
+    "title": "basket-53",
+    "category": "basket",
+    "featured": false,
+    "src": "/images/basket/basket-53.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D500",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/2.8",
+      "shutterSpeed": "1/500 s",
+      "iso": 1250
+    }
+  },
+  {
+    "filename": "basket-55.jpg",
+    "slug": "basket-55",
+    "title": "basket-55",
+    "category": "basket",
+    "featured": false,
+    "src": "/images/basket/basket-55.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D610",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/2.8",
+      "shutterSpeed": "1/400 s",
+      "iso": 640
+    }
+  },
+  {
+    "filename": "basket-57.jpg",
+    "slug": "basket-57",
+    "title": "basket-57",
+    "category": "basket",
+    "featured": false,
+    "src": "/images/basket/basket-57.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D850",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/2.8",
+      "shutterSpeed": "1/500 s",
+      "iso": 1000
+    }
+  },
+  {
+    "filename": "basket-59.jpg",
+    "slug": "basket-59",
+    "title": "basket-59",
+    "category": "basket",
+    "featured": false,
+    "src": "/images/basket/basket-59.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D850",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/2.8",
+      "shutterSpeed": "1/500 s",
+      "iso": 1250
+    }
+  },
+  {
+    "filename": "basket-7.jpg",
+    "slug": "basket-7",
+    "title": "basket-7",
+    "category": "basket",
+    "featured": false,
+    "src": "/images/basket/basket-7.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D500",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/2.8",
+      "shutterSpeed": "1/640 s",
+      "iso": 1000
+    }
+  },
+  {
+    "filename": "basket-9.jpg",
+    "slug": "basket-9",
+    "title": "basket-9",
+    "category": "basket",
+    "featured": false,
+    "src": "/images/basket/basket-9.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Gråhäger fight.jpg",
+    "slug": "gra-ha-ger-fight",
+    "title": "Gråhäger fight",
+    "category": "birds",
+    "featured": false,
+    "src": "/images/birds/Gråhäger fight.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D500",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/2.8",
+      "shutterSpeed": "1/2500 s",
+      "iso": 200
+    }
+  },
+  {
+    "filename": "Kungsfiskare.jpg",
+    "slug": "kungsfiskare",
+    "title": "Kungsfiskare",
+    "category": "birds",
+    "featured": false,
+    "src": "/images/birds/Kungsfiskare.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D610",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/6.3",
+      "shutterSpeed": "1/500 s",
+      "iso": 200
+    }
+  },
+  {
+    "filename": "birds-1.jpg",
+    "slug": "birds-1",
+    "title": "birds-1",
+    "category": "birds",
+    "featured": false,
+    "src": "/images/birds/birds-1.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D850",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/2.8",
+      "shutterSpeed": "1/1600 s",
+      "iso": 800
+    }
+  },
+  {
+    "filename": "birds-11.jpg",
+    "slug": "birds-11",
+    "title": "birds-11",
+    "category": "birds",
+    "featured": false,
+    "src": "/images/birds/birds-11.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D500",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/2.8",
+      "shutterSpeed": "1/400 s",
+      "iso": 200
+    }
+  },
+  {
+    "filename": "birds-13.jpg",
+    "slug": "birds-13",
+    "title": "birds-13",
+    "category": "birds",
+    "featured": false,
+    "src": "/images/birds/birds-13.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D500",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/2.8",
+      "shutterSpeed": "1/500 s",
+      "iso": 200
+    }
+  },
+  {
+    "filename": "birds-15.jpg",
+    "slug": "birds-15",
+    "title": "birds-15",
+    "category": "birds",
+    "featured": false,
+    "src": "/images/birds/birds-15.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D500",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/2.8",
+      "shutterSpeed": "1/400 s",
+      "iso": 200
+    }
+  },
+  {
+    "filename": "birds-17.jpg",
+    "slug": "birds-17",
+    "title": "birds-17",
+    "category": "birds",
+    "featured": false,
+    "src": "/images/birds/birds-17.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D500",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/2.8",
+      "shutterSpeed": "1/1000 s",
+      "iso": 100
+    }
+  },
+  {
+    "filename": "birds-19.jpg",
+    "slug": "birds-19",
+    "title": "birds-19",
+    "category": "birds",
+    "featured": false,
+    "src": "/images/birds/birds-19.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D500",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/2.8",
+      "shutterSpeed": "1/200 s",
+      "iso": 100
+    }
+  },
+  {
+    "filename": "birds-2.jpg",
+    "slug": "birds-2",
+    "title": "birds-2",
+    "category": "birds",
+    "featured": false,
+    "src": "/images/birds/birds-2.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D500",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/2.8",
+      "shutterSpeed": "1/5000 s",
+      "iso": 200
+    }
+  },
+  {
+    "filename": "birds-21.jpg",
+    "slug": "birds-21",
+    "title": "birds-21",
+    "category": "birds",
+    "featured": false,
+    "src": "/images/birds/birds-21.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D500",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/2.8",
+      "shutterSpeed": "1/1600 s",
+      "iso": 100
+    }
+  },
+  {
+    "filename": "birds-23.jpg",
+    "slug": "birds-23",
+    "title": "birds-23",
+    "category": "birds",
+    "featured": false,
+    "src": "/images/birds/birds-23.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D500",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/2.8",
+      "shutterSpeed": "1/640 s",
+      "iso": 200
+    }
+  },
+  {
+    "filename": "birds-25.jpg",
+    "slug": "birds-25",
+    "title": "birds-25",
+    "category": "birds",
+    "featured": false,
+    "src": "/images/birds/birds-25.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D500",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/2.8",
+      "shutterSpeed": "1/500 s",
+      "iso": 200
+    }
+  },
+  {
+    "filename": "birds-27.jpg",
+    "slug": "birds-27",
+    "title": "birds-27",
+    "category": "birds",
+    "featured": false,
+    "src": "/images/birds/birds-27.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D500",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/2.8",
+      "shutterSpeed": "1/640 s",
+      "iso": 200
+    }
+  },
+  {
+    "filename": "birds-29.jpg",
+    "slug": "birds-29",
+    "title": "birds-29",
+    "category": "birds",
+    "featured": false,
+    "src": "/images/birds/birds-29.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D500",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/2.8",
+      "shutterSpeed": "1/2000 s",
+      "iso": 200
+    }
+  },
+  {
+    "filename": "birds-31.jpg",
+    "slug": "birds-31",
+    "title": "birds-31",
+    "category": "birds",
+    "featured": false,
+    "src": "/images/birds/birds-31.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D500",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/2.8",
+      "shutterSpeed": "1/2000 s",
+      "iso": 200
+    }
+  },
+  {
+    "filename": "birds-33.jpg",
+    "slug": "birds-33",
+    "title": "birds-33",
+    "category": "birds",
+    "featured": false,
+    "src": "/images/birds/birds-33.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D500",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/2.8",
+      "shutterSpeed": "1/2500 s",
+      "iso": 200
+    }
+  },
+  {
+    "filename": "birds-35.jpg",
+    "slug": "birds-35",
+    "title": "birds-35",
+    "category": "birds",
+    "featured": false,
+    "src": "/images/birds/birds-35.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D500",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/2.8",
+      "shutterSpeed": "1/2000 s",
+      "iso": 200
+    }
+  },
+  {
+    "filename": "birds-37.jpg",
+    "slug": "birds-37",
+    "title": "birds-37",
+    "category": "birds",
+    "featured": false,
+    "src": "/images/birds/birds-37.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D500",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/2.8",
+      "shutterSpeed": "1/2500 s",
+      "iso": 200
+    }
+  },
+  {
+    "filename": "birds-39.jpg",
+    "slug": "birds-39",
+    "title": "birds-39",
+    "category": "birds",
+    "featured": false,
+    "src": "/images/birds/birds-39.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D500",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/2.8",
+      "shutterSpeed": "1/2500 s",
+      "iso": 200
+    }
+  },
+  {
+    "filename": "birds-41.jpg",
+    "slug": "birds-41",
+    "title": "birds-41",
+    "category": "birds",
+    "featured": false,
+    "src": "/images/birds/birds-41.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D500",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/2.8",
+      "shutterSpeed": "1/2500 s",
+      "iso": 200
+    }
+  },
+  {
+    "filename": "birds-43.jpg",
+    "slug": "birds-43",
+    "title": "birds-43",
+    "category": "birds",
+    "featured": false,
+    "src": "/images/birds/birds-43.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D500",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/2.8",
+      "shutterSpeed": "1/2000 s",
+      "iso": 200
+    }
+  },
+  {
+    "filename": "birds-45.jpg",
+    "slug": "birds-45",
+    "title": "birds-45",
+    "category": "birds",
+    "featured": false,
+    "src": "/images/birds/birds-45.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D500",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/2.8",
+      "shutterSpeed": "1/2500 s",
+      "iso": 200
+    }
+  },
+  {
+    "filename": "birds-47.jpg",
+    "slug": "birds-47",
+    "title": "birds-47",
+    "category": "birds",
+    "featured": false,
+    "src": "/images/birds/birds-47.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D500",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/2.8",
+      "shutterSpeed": "1/3200 s",
+      "iso": 200
+    }
+  },
+  {
+    "filename": "birds-49.jpg",
+    "slug": "birds-49",
+    "title": "birds-49",
+    "category": "birds",
+    "featured": false,
+    "src": "/images/birds/birds-49.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D500",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/2.8",
+      "shutterSpeed": "1/2000 s",
+      "iso": 200
+    }
+  },
+  {
+    "filename": "birds-5.jpg",
+    "slug": "birds-5",
+    "title": "birds-5",
+    "category": "birds",
+    "featured": false,
+    "src": "/images/birds/birds-5.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D850",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/2.8",
+      "shutterSpeed": "1/1000 s",
+      "iso": 320
+    }
+  },
+  {
+    "filename": "birds-51.jpg",
+    "slug": "birds-51",
+    "title": "birds-51",
+    "category": "birds",
+    "featured": false,
+    "src": "/images/birds/birds-51.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D500",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/2.8",
+      "shutterSpeed": "1/2000 s",
+      "iso": 200
+    }
+  },
+  {
+    "filename": "birds-53.jpg",
+    "slug": "birds-53",
+    "title": "birds-53",
+    "category": "birds",
+    "featured": false,
+    "src": "/images/birds/birds-53.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D500",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/2.8",
+      "shutterSpeed": "1/2000 s",
+      "iso": 200
+    }
+  },
+  {
+    "filename": "birds-55.jpg",
+    "slug": "birds-55",
+    "title": "birds-55",
+    "category": "birds",
+    "featured": false,
+    "src": "/images/birds/birds-55.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D500",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/2.8",
+      "shutterSpeed": "1/2000 s",
+      "iso": 200
+    }
+  },
+  {
+    "filename": "birds-57.jpg",
+    "slug": "birds-57",
+    "title": "birds-57",
+    "category": "birds",
+    "featured": false,
+    "src": "/images/birds/birds-57.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D500",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/2.8",
+      "shutterSpeed": "1/2000 s",
+      "iso": 200
+    }
+  },
+  {
+    "filename": "birds-59.jpg",
+    "slug": "birds-59",
+    "title": "birds-59",
+    "category": "birds",
+    "featured": false,
+    "src": "/images/birds/birds-59.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D500",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/2.8",
+      "shutterSpeed": "1/2000 s",
+      "iso": 200
+    }
+  },
+  {
+    "filename": "birds-61.jpg",
+    "slug": "birds-61",
+    "title": "birds-61",
+    "category": "birds",
+    "featured": false,
+    "src": "/images/birds/birds-61.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D500",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/2.8",
+      "shutterSpeed": "1/2000 s",
+      "iso": 200
+    }
+  },
+  {
+    "filename": "birds-63.jpg",
+    "slug": "birds-63",
+    "title": "birds-63",
+    "category": "birds",
+    "featured": false,
+    "src": "/images/birds/birds-63.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D500",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/2.8",
+      "shutterSpeed": "1/2500 s",
+      "iso": 200
+    }
+  },
+  {
+    "filename": "birds-65.jpg",
+    "slug": "birds-65",
+    "title": "birds-65",
+    "category": "birds",
+    "featured": false,
+    "src": "/images/birds/birds-65.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D610",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/6.3",
+      "shutterSpeed": "1/500 s",
+      "iso": 200
+    }
+  },
+  {
+    "filename": "birds-67.jpg",
+    "slug": "birds-67",
+    "title": "birds-67",
+    "category": "birds",
+    "featured": false,
+    "src": "/images/birds/birds-67.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D610",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/6.3",
+      "shutterSpeed": "1/80 s",
+      "iso": 100
+    }
+  },
+  {
+    "filename": "birds-69.jpg",
+    "slug": "birds-69",
+    "title": "birds-69",
+    "category": "birds",
+    "featured": false,
+    "src": "/images/birds/birds-69.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D610",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/6.3",
+      "shutterSpeed": "1/100 s",
+      "iso": 100
+    }
+  },
+  {
+    "filename": "birds-7.jpg",
+    "slug": "birds-7",
+    "title": "birds-7",
+    "category": "birds",
+    "featured": false,
+    "src": "/images/birds/birds-7.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D850",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/2.8",
+      "shutterSpeed": "1/5000 s",
+      "iso": 200
+    }
+  },
+  {
+    "filename": "birds-71.jpg",
+    "slug": "birds-71",
+    "title": "birds-71",
+    "category": "birds",
+    "featured": false,
+    "src": "/images/birds/birds-71.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D500",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/2.8",
+      "shutterSpeed": "1/5000 s",
+      "iso": 200
+    }
+  },
+  {
+    "filename": "birds-73.jpg",
+    "slug": "birds-73",
+    "title": "birds-73",
+    "category": "birds",
+    "featured": false,
+    "src": "/images/birds/birds-73.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D500",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/2.8",
+      "shutterSpeed": "1/8000 s",
+      "iso": 200
+    }
+  },
+  {
+    "filename": "birds-75.jpg",
+    "slug": "birds-75",
+    "title": "birds-75",
+    "category": "birds",
+    "featured": false,
+    "src": "/images/birds/birds-75.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D500",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/6.3",
+      "shutterSpeed": "1/1000 s",
+      "iso": 2500
+    }
+  },
+  {
+    "filename": "birds-77.jpg",
+    "slug": "birds-77",
+    "title": "birds-77",
+    "category": "birds",
+    "featured": false,
+    "src": "/images/birds/birds-77.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D500",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/6.3",
+      "shutterSpeed": "1/1000 s",
+      "iso": 4000
+    }
+  },
+  {
+    "filename": "birds-79.jpg",
+    "slug": "birds-79",
+    "title": "birds-79",
+    "category": "birds",
+    "featured": false,
+    "src": "/images/birds/birds-79.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D500",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/6.3",
+      "shutterSpeed": "1/1000 s",
+      "iso": 4500
+    }
+  },
+  {
+    "filename": "birds-81.jpg",
+    "slug": "birds-81",
+    "title": "birds-81",
+    "category": "birds",
+    "featured": false,
+    "src": "/images/birds/birds-81.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D500",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/6.3",
+      "shutterSpeed": "1/1000 s",
+      "iso": 3200
+    }
+  },
+  {
+    "filename": "birds-83.jpg",
+    "slug": "birds-83",
+    "title": "birds-83",
+    "category": "birds",
+    "featured": false,
+    "src": "/images/birds/birds-83.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D500",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/6.3",
+      "shutterSpeed": "1/1000 s",
+      "iso": 1600
+    }
+  },
+  {
+    "filename": "birds-85.jpg",
+    "slug": "birds-85",
+    "title": "birds-85",
+    "category": "birds",
+    "featured": false,
+    "src": "/images/birds/birds-85.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D500",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/6.3",
+      "shutterSpeed": "1/1000 s",
+      "iso": 1600
+    }
+  },
+  {
+    "filename": "birds-87.jpg",
+    "slug": "birds-87",
+    "title": "birds-87",
+    "category": "birds",
+    "featured": false,
+    "src": "/images/birds/birds-87.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D500",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/6.3",
+      "shutterSpeed": "1/2000 s",
+      "iso": 5000
+    }
+  },
+  {
+    "filename": "birds-9.jpg",
+    "slug": "birds-9",
+    "title": "birds-9",
+    "category": "birds",
+    "featured": false,
+    "src": "/images/birds/birds-9.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D500",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/2.8",
+      "shutterSpeed": "1/500 s",
+      "iso": 200
+    }
+  },
+  {
+    "filename": "Henke-Sue-2.jpg",
+    "slug": "henke-sue-2",
+    "title": "Henke-Sue-2",
+    "category": "brollop",
+    "featured": false,
+    "src": "/images/brollop/Henke-Sue-2.jpg",
+    "exif": {
+      "date": "2024-09-14",
+      "camera": "NIKON Z 9",
+      "lens": "VR 24-70mm f/2.8E",
+      "focalLength": "24 mm",
+      "aperture": "f/7.1",
+      "shutterSpeed": "1/400 s",
+      "iso": 450
+    }
+  },
+  {
+    "filename": "Henke-Sue-3.jpg",
+    "slug": "henke-sue-3",
+    "title": "Henke-Sue-3",
+    "category": "brollop",
+    "featured": false,
+    "src": "/images/brollop/Henke-Sue-3.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "wedding-1.jpg",
+    "slug": "wedding-1",
+    "title": "wedding-1",
+    "category": "brollop",
+    "featured": false,
+    "src": "/images/brollop/wedding-1.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D500",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/4",
+      "shutterSpeed": "1/200 s",
+      "iso": 25600
+    }
+  },
+  {
+    "filename": "wedding-11.jpg",
+    "slug": "wedding-11",
+    "title": "wedding-11",
+    "category": "brollop",
+    "featured": false,
+    "src": "/images/brollop/wedding-11.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D850",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/4",
+      "shutterSpeed": "1/250 s",
+      "iso": 64
+    }
+  },
+  {
+    "filename": "wedding-13.jpg",
+    "slug": "wedding-13",
+    "title": "wedding-13",
+    "category": "brollop",
+    "featured": false,
+    "src": "/images/brollop/wedding-13.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D850",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/3.5",
+      "shutterSpeed": "1/250 s",
+      "iso": 64
+    }
+  },
+  {
+    "filename": "wedding-15.jpg",
+    "slug": "wedding-15",
+    "title": "wedding-15",
+    "category": "brollop",
+    "featured": false,
+    "src": "/images/brollop/wedding-15.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D850",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/3.2",
+      "shutterSpeed": "1/250 s",
+      "iso": 64
+    }
+  },
+  {
+    "filename": "wedding-17.jpg",
+    "slug": "wedding-17",
+    "title": "wedding-17",
+    "category": "brollop",
+    "featured": false,
+    "src": "/images/brollop/wedding-17.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D850",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/4",
+      "shutterSpeed": "1/320 s",
+      "iso": 7200
+    }
+  },
+  {
+    "filename": "wedding-19.jpg",
+    "slug": "wedding-19",
+    "title": "wedding-19",
+    "category": "brollop",
+    "featured": false,
+    "src": "/images/brollop/wedding-19.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D850",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/4",
+      "shutterSpeed": "1/320 s",
+      "iso": 6400
+    }
+  },
+  {
+    "filename": "wedding-21.jpg",
+    "slug": "wedding-21",
+    "title": "wedding-21",
+    "category": "brollop",
+    "featured": false,
+    "src": "/images/brollop/wedding-21.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D850",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/4",
+      "shutterSpeed": "1/320 s",
+      "iso": 3600
+    }
+  },
+  {
+    "filename": "wedding-23.jpg",
+    "slug": "wedding-23",
+    "title": "wedding-23",
+    "category": "brollop",
+    "featured": false,
+    "src": "/images/brollop/wedding-23.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D850",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/4",
+      "shutterSpeed": "1/320 s",
+      "iso": 5600
+    }
+  },
+  {
+    "filename": "wedding-25.jpg",
+    "slug": "wedding-25",
+    "title": "wedding-25",
+    "category": "brollop",
+    "featured": false,
+    "src": "/images/brollop/wedding-25.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D850",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/4",
+      "shutterSpeed": "1/320 s",
+      "iso": 5600
+    }
+  },
+  {
+    "filename": "wedding-27.jpg",
+    "slug": "wedding-27",
+    "title": "wedding-27",
+    "category": "brollop",
+    "featured": false,
+    "src": "/images/brollop/wedding-27.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D850",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/4",
+      "shutterSpeed": "1/320 s",
+      "iso": 9000
+    }
+  },
+  {
+    "filename": "wedding-29.jpg",
+    "slug": "wedding-29",
+    "title": "wedding-29",
+    "category": "brollop",
+    "featured": false,
+    "src": "/images/brollop/wedding-29.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D850",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/4",
+      "shutterSpeed": "1/60 s",
+      "iso": 720
+    }
+  },
+  {
+    "filename": "wedding-3.jpg",
+    "slug": "wedding-3",
+    "title": "wedding-3",
+    "category": "brollop",
+    "featured": false,
+    "src": "/images/brollop/wedding-3.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D500",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/3.5",
+      "shutterSpeed": "1/250 s",
+      "iso": 200
+    }
+  },
+  {
+    "filename": "wedding-31.jpg",
+    "slug": "wedding-31",
+    "title": "wedding-31",
+    "category": "brollop",
+    "featured": false,
+    "src": "/images/brollop/wedding-31.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D500",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/8",
+      "shutterSpeed": "1/250 s",
+      "iso": 200
+    }
+  },
+  {
+    "filename": "wedding-33.jpg",
+    "slug": "wedding-33",
+    "title": "wedding-33",
+    "category": "brollop",
+    "featured": false,
+    "src": "/images/brollop/wedding-33.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D500",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/8",
+      "shutterSpeed": "1/250 s",
+      "iso": 200
+    }
+  },
+  {
+    "filename": "wedding-35.jpg",
+    "slug": "wedding-35",
+    "title": "wedding-35",
+    "category": "brollop",
+    "featured": false,
+    "src": "/images/brollop/wedding-35.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D500",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/10",
+      "shutterSpeed": "1/250 s",
+      "iso": 200
+    }
+  },
+  {
+    "filename": "wedding-37.jpg",
+    "slug": "wedding-37",
+    "title": "wedding-37",
+    "category": "brollop",
+    "featured": false,
+    "src": "/images/brollop/wedding-37.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D500",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/10",
+      "shutterSpeed": "1/250 s",
+      "iso": 200
+    }
+  },
+  {
+    "filename": "wedding-39.jpg",
+    "slug": "wedding-39",
+    "title": "wedding-39",
+    "category": "brollop",
+    "featured": false,
+    "src": "/images/brollop/wedding-39.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D500",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/7.1",
+      "shutterSpeed": "1/250 s",
+      "iso": 200
+    }
+  },
+  {
+    "filename": "wedding-41.jpg",
+    "slug": "wedding-41",
+    "title": "wedding-41",
+    "category": "brollop",
+    "featured": false,
+    "src": "/images/brollop/wedding-41.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D500",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/7.1",
+      "shutterSpeed": "1/250 s",
+      "iso": 200
+    }
+  },
+  {
+    "filename": "wedding-43.jpg",
+    "slug": "wedding-43",
+    "title": "wedding-43",
+    "category": "brollop",
+    "featured": false,
+    "src": "/images/brollop/wedding-43.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D500",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/6.3",
+      "shutterSpeed": "1/125 s",
+      "iso": 200
+    }
+  },
+  {
+    "filename": "wedding-45.jpg",
+    "slug": "wedding-45",
+    "title": "wedding-45",
+    "category": "brollop",
+    "featured": false,
+    "src": "/images/brollop/wedding-45.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D500",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/7.1",
+      "shutterSpeed": "1/125 s",
+      "iso": 200
+    }
+  },
+  {
+    "filename": "wedding-47.jpg",
+    "slug": "wedding-47",
+    "title": "wedding-47",
+    "category": "brollop",
+    "featured": false,
+    "src": "/images/brollop/wedding-47.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D500",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/7.1",
+      "shutterSpeed": "1/125 s",
+      "iso": 200
+    }
+  },
+  {
+    "filename": "wedding-49.jpg",
+    "slug": "wedding-49",
+    "title": "wedding-49",
+    "category": "brollop",
+    "featured": false,
+    "src": "/images/brollop/wedding-49.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D500",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/6.3",
+      "shutterSpeed": "1/250 s",
+      "iso": 200
+    }
+  },
+  {
+    "filename": "wedding-5.jpg",
+    "slug": "wedding-5",
+    "title": "wedding-5",
+    "category": "brollop",
+    "featured": false,
+    "src": "/images/brollop/wedding-5.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D500",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/5",
+      "shutterSpeed": "1/800 s",
+      "iso": 900
+    }
+  },
+  {
+    "filename": "wedding-51.jpg",
+    "slug": "wedding-51",
+    "title": "wedding-51",
+    "category": "brollop",
+    "featured": false,
+    "src": "/images/brollop/wedding-51.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D500",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/9",
+      "shutterSpeed": "1/250 s",
+      "iso": 200
+    }
+  },
+  {
+    "filename": "wedding-53.jpg",
+    "slug": "wedding-53",
+    "title": "wedding-53",
+    "category": "brollop",
+    "featured": false,
+    "src": "/images/brollop/wedding-53.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON Z 9",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/3.2",
+      "shutterSpeed": "1/400 s",
+      "iso": 400
+    }
+  },
+  {
+    "filename": "wedding-55.jpg",
+    "slug": "wedding-55",
+    "title": "wedding-55",
+    "category": "brollop",
+    "featured": false,
+    "src": "/images/brollop/wedding-55.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON Z 9",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/2.8",
+      "shutterSpeed": "1/400 s",
+      "iso": 1600
+    }
+  },
+  {
+    "filename": "wedding-57.jpg",
+    "slug": "wedding-57",
+    "title": "wedding-57",
+    "category": "brollop",
+    "featured": false,
+    "src": "/images/brollop/wedding-57.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON Z 9",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/5",
+      "shutterSpeed": "1/400 s",
+      "iso": 400
+    }
+  },
+  {
+    "filename": "wedding-59.jpg",
+    "slug": "wedding-59",
+    "title": "wedding-59",
+    "category": "brollop",
+    "featured": false,
+    "src": "/images/brollop/wedding-59.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON Z 9",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/3.2",
+      "shutterSpeed": "1/400 s",
+      "iso": 400
+    }
+  },
+  {
+    "filename": "wedding-61.jpg",
+    "slug": "wedding-61",
+    "title": "wedding-61",
+    "category": "brollop",
+    "featured": false,
+    "src": "/images/brollop/wedding-61.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON Z 9",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/2.8",
+      "shutterSpeed": "1/400 s",
+      "iso": 560
+    }
+  },
+  {
+    "filename": "wedding-63.jpg",
+    "slug": "wedding-63",
+    "title": "wedding-63",
+    "category": "brollop",
+    "featured": false,
+    "src": "/images/brollop/wedding-63.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON Z 9",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/3.5",
+      "shutterSpeed": "1/400 s",
+      "iso": 400
+    }
+  },
+  {
+    "filename": "wedding-65.jpg",
+    "slug": "wedding-65",
+    "title": "wedding-65",
+    "category": "brollop",
+    "featured": false,
+    "src": "/images/brollop/wedding-65.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON Z 9",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/3.5",
+      "shutterSpeed": "1/400 s",
+      "iso": 400
+    }
+  },
+  {
+    "filename": "wedding-67.jpg",
+    "slug": "wedding-67",
+    "title": "wedding-67",
+    "category": "brollop",
+    "featured": false,
+    "src": "/images/brollop/wedding-67.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON Z 9",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/3.5",
+      "shutterSpeed": "1/400 s",
+      "iso": 400
+    }
+  },
+  {
+    "filename": "wedding-69.jpg",
+    "slug": "wedding-69",
+    "title": "wedding-69",
+    "category": "brollop",
+    "featured": false,
+    "src": "/images/brollop/wedding-69.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON Z 9",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/10",
+      "shutterSpeed": "1/400 s",
+      "iso": 3200
+    }
+  },
+  {
+    "filename": "wedding-7.jpg",
+    "slug": "wedding-7",
+    "title": "wedding-7",
+    "category": "brollop",
+    "featured": false,
+    "src": "/images/brollop/wedding-7.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D500",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/5",
+      "shutterSpeed": "1/1000 s",
+      "iso": 640
+    }
+  },
+  {
+    "filename": "wedding-71.jpg",
+    "slug": "wedding-71",
+    "title": "wedding-71",
+    "category": "brollop",
+    "featured": false,
+    "src": "/images/brollop/wedding-71.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON Z 9",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/7.1",
+      "shutterSpeed": "1/400 s",
+      "iso": 2000
+    }
+  },
+  {
+    "filename": "wedding-73.jpg",
+    "slug": "wedding-73",
+    "title": "wedding-73",
+    "category": "brollop",
+    "featured": false,
+    "src": "/images/brollop/wedding-73.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON Z 9",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/8",
+      "shutterSpeed": "1/400 s",
+      "iso": 2000
+    }
+  },
+  {
+    "filename": "wedding-75.jpg",
+    "slug": "wedding-75",
+    "title": "wedding-75",
+    "category": "brollop",
+    "featured": false,
+    "src": "/images/brollop/wedding-75.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON Z 9",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/7.1",
+      "shutterSpeed": "1/400 s",
+      "iso": 2000
+    }
+  },
+  {
+    "filename": "wedding-77.jpg",
+    "slug": "wedding-77",
+    "title": "wedding-77",
+    "category": "brollop",
+    "featured": false,
+    "src": "/images/brollop/wedding-77.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON Z 9",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/9",
+      "shutterSpeed": "1/400 s",
+      "iso": 2000
+    }
+  },
+  {
+    "filename": "wedding-79.jpg",
+    "slug": "wedding-79",
+    "title": "wedding-79",
+    "category": "brollop",
+    "featured": false,
+    "src": "/images/brollop/wedding-79.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON Z 9",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/6.3",
+      "shutterSpeed": "1/400 s",
+      "iso": 2000
+    }
+  },
+  {
+    "filename": "wedding-81.jpg",
+    "slug": "wedding-81",
+    "title": "wedding-81",
+    "category": "brollop",
+    "featured": false,
+    "src": "/images/brollop/wedding-81.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON Z 9",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/6.3",
+      "shutterSpeed": "1/400 s",
+      "iso": 2000
+    }
+  },
+  {
+    "filename": "wedding-83.jpg",
+    "slug": "wedding-83",
+    "title": "wedding-83",
+    "category": "brollop",
+    "featured": false,
+    "src": "/images/brollop/wedding-83.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON Z 9",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/7.1",
+      "shutterSpeed": "1/400 s",
+      "iso": 2000
+    }
+  },
+  {
+    "filename": "wedding-9.jpg",
+    "slug": "wedding-9",
+    "title": "wedding-9",
+    "category": "brollop",
+    "featured": false,
+    "src": "/images/brollop/wedding-9.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D850",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/4",
+      "shutterSpeed": "1/250 s",
+      "iso": 64
+    }
+  },
+  {
+    "filename": "cityscape-1.jpg",
+    "slug": "cityscape-1",
+    "title": "cityscape-1",
+    "category": "cityscape",
+    "featured": false,
+    "src": "/images/cityscape/cityscape-1.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "cityscape-11.jpg",
+    "slug": "cityscape-11",
+    "title": "cityscape-11",
+    "category": "cityscape",
+    "featured": false,
+    "src": "/images/cityscape/cityscape-11.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "cityscape-13.jpg",
+    "slug": "cityscape-13",
+    "title": "cityscape-13",
+    "category": "cityscape",
+    "featured": false,
+    "src": "/images/cityscape/cityscape-13.jpg",
+    "exif": {
+      "date": null,
+      "camera": "L1D-20c",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/2.8",
+      "shutterSpeed": "1/25 s",
+      "iso": 100
+    }
+  },
+  {
+    "filename": "cityscape-15.jpg",
+    "slug": "cityscape-15",
+    "title": "cityscape-15",
+    "category": "cityscape",
+    "featured": false,
+    "src": "/images/cityscape/cityscape-15.jpg",
+    "exif": {
+      "date": null,
+      "camera": "L1D-20c",
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "cityscape-17.jpg",
+    "slug": "cityscape-17",
+    "title": "cityscape-17",
+    "category": "cityscape",
+    "featured": false,
+    "src": "/images/cityscape/cityscape-17.jpg",
+    "exif": {
+      "date": null,
+      "camera": "L1D-20c",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/2.8",
+      "shutterSpeed": "1/8 s",
+      "iso": 100
+    }
+  },
+  {
+    "filename": "cityscape-19.jpg",
+    "slug": "cityscape-19",
+    "title": "cityscape-19",
+    "category": "cityscape",
+    "featured": false,
+    "src": "/images/cityscape/cityscape-19.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "cityscape-21.jpg",
+    "slug": "cityscape-21",
+    "title": "cityscape-21",
+    "category": "cityscape",
+    "featured": false,
+    "src": "/images/cityscape/cityscape-21.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "cityscape-23.jpg",
+    "slug": "cityscape-23",
+    "title": "cityscape-23",
+    "category": "cityscape",
+    "featured": false,
+    "src": "/images/cityscape/cityscape-23.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "cityscape-25.jpg",
+    "slug": "cityscape-25",
+    "title": "cityscape-25",
+    "category": "cityscape",
+    "featured": false,
+    "src": "/images/cityscape/cityscape-25.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "cityscape-27.jpg",
+    "slug": "cityscape-27",
+    "title": "cityscape-27",
+    "category": "cityscape",
+    "featured": false,
+    "src": "/images/cityscape/cityscape-27.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "cityscape-29.jpg",
+    "slug": "cityscape-29",
+    "title": "cityscape-29",
+    "category": "cityscape",
+    "featured": false,
+    "src": "/images/cityscape/cityscape-29.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON Z 9",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/2.8",
+      "shutterSpeed": "1/400 s",
+      "iso": 160
+    }
+  },
+  {
+    "filename": "cityscape-3.jpg",
+    "slug": "cityscape-3",
+    "title": "cityscape-3",
+    "category": "cityscape",
+    "featured": false,
+    "src": "/images/cityscape/cityscape-3.jpg",
+    "exif": {
+      "date": null,
+      "camera": "SM-F721B",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/2.2",
+      "shutterSpeed": "1/3200 s",
+      "iso": 32
+    }
+  },
+  {
+    "filename": "cityscape-5.jpg",
+    "slug": "cityscape-5",
+    "title": "cityscape-5",
+    "category": "cityscape",
+    "featured": false,
+    "src": "/images/cityscape/cityscape-5.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D800",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/5.6",
+      "shutterSpeed": "1/125 s",
+      "iso": 100
+    }
+  },
+  {
+    "filename": "cityscape-7.jpg",
+    "slug": "cityscape-7",
+    "title": "cityscape-7",
+    "category": "cityscape",
+    "featured": false,
+    "src": "/images/cityscape/cityscape-7.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D800",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/4",
+      "shutterSpeed": "1/60 s",
+      "iso": 100
+    }
+  },
+  {
+    "filename": "cityscape-9.jpg",
+    "slug": "cityscape-9",
+    "title": "cityscape-9",
+    "category": "cityscape",
+    "featured": false,
+    "src": "/images/cityscape/cityscape-9.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D800",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/3.5",
+      "shutterSpeed": "1/20 s",
+      "iso": 360
+    }
+  },
+  {
+    "filename": "Simone Boye Sørensen.jpg",
+    "slug": "simone-boye-s-rensen",
+    "title": "Simone Boye Sørensen",
+    "category": "fotboll",
+    "featured": false,
+    "src": "/images/fotboll/Simone Boye Sørensen.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "fotboll-1.jpg",
+    "slug": "fotboll-1",
+    "title": "fotboll-1",
+    "category": "fotboll",
+    "featured": false,
+    "src": "/images/fotboll/fotboll-1.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D500",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/2.8",
+      "shutterSpeed": "1/800 s",
+      "iso": 900
+    }
+  },
+  {
+    "filename": "fotboll-11.jpg",
+    "slug": "fotboll-11",
+    "title": "fotboll-11",
+    "category": "fotboll",
+    "featured": false,
+    "src": "/images/fotboll/fotboll-11.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D500",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/2.8",
+      "shutterSpeed": "1/800 s",
+      "iso": 125
+    }
+  },
+  {
+    "filename": "fotboll-13.jpg",
+    "slug": "fotboll-13",
+    "title": "fotboll-13",
+    "category": "fotboll",
+    "featured": false,
+    "src": "/images/fotboll/fotboll-13.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D500",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/5",
+      "shutterSpeed": "1/800 s",
+      "iso": 125
+    }
+  },
+  {
+    "filename": "fotboll-15.jpg",
+    "slug": "fotboll-15",
+    "title": "fotboll-15",
+    "category": "fotboll",
+    "featured": false,
+    "src": "/images/fotboll/fotboll-15.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D500",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/2.8",
+      "shutterSpeed": "1/800 s",
+      "iso": 140
+    }
+  },
+  {
+    "filename": "fotboll-17.jpg",
+    "slug": "fotboll-17",
+    "title": "fotboll-17",
+    "category": "fotboll",
+    "featured": false,
+    "src": "/images/fotboll/fotboll-17.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D500",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/2.8",
+      "shutterSpeed": "1/800 s",
+      "iso": 360
+    }
+  },
+  {
+    "filename": "fotboll-19.jpg",
+    "slug": "fotboll-19",
+    "title": "fotboll-19",
+    "category": "fotboll",
+    "featured": false,
+    "src": "/images/fotboll/fotboll-19.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D500",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/2.8",
+      "shutterSpeed": "1/800 s",
+      "iso": 250
+    }
+  },
+  {
+    "filename": "fotboll-21.jpg",
+    "slug": "fotboll-21",
+    "title": "fotboll-21",
+    "category": "fotboll",
+    "featured": false,
+    "src": "/images/fotboll/fotboll-21.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D500",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/2.8",
+      "shutterSpeed": "1/800 s",
+      "iso": 250
+    }
+  },
+  {
+    "filename": "fotboll-23.jpg",
+    "slug": "fotboll-23",
+    "title": "fotboll-23",
+    "category": "fotboll",
+    "featured": false,
+    "src": "/images/fotboll/fotboll-23.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D500",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/3.2",
+      "shutterSpeed": "1/640 s",
+      "iso": 500
+    }
+  },
+  {
+    "filename": "fotboll-25.jpg",
+    "slug": "fotboll-25",
+    "title": "fotboll-25",
+    "category": "fotboll",
+    "featured": false,
+    "src": "/images/fotboll/fotboll-25.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D500",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/2.8",
+      "shutterSpeed": "1/640 s",
+      "iso": 500
+    }
+  },
+  {
+    "filename": "fotboll-27.jpg",
+    "slug": "fotboll-27",
+    "title": "fotboll-27",
+    "category": "fotboll",
+    "featured": false,
+    "src": "/images/fotboll/fotboll-27.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D500",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/2.8",
+      "shutterSpeed": "1/640 s",
+      "iso": 560
+    }
+  },
+  {
+    "filename": "fotboll-29.jpg",
+    "slug": "fotboll-29",
+    "title": "fotboll-29",
+    "category": "fotboll",
+    "featured": false,
+    "src": "/images/fotboll/fotboll-29.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D500",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/3.2",
+      "shutterSpeed": "1/640 s",
+      "iso": 500
+    }
+  },
+  {
+    "filename": "fotboll-3.jpg",
+    "slug": "fotboll-3",
+    "title": "fotboll-3",
+    "category": "fotboll",
+    "featured": false,
+    "src": "/images/fotboll/fotboll-3.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D500",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/2.8",
+      "shutterSpeed": "1/1000 s",
+      "iso": 2500
+    }
+  },
+  {
+    "filename": "fotboll-31.jpg",
+    "slug": "fotboll-31",
+    "title": "fotboll-31",
+    "category": "fotboll",
+    "featured": false,
+    "src": "/images/fotboll/fotboll-31.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D500",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/2.8",
+      "shutterSpeed": "1/640 s",
+      "iso": 500
+    }
+  },
+  {
+    "filename": "fotboll-33.jpg",
+    "slug": "fotboll-33",
+    "title": "fotboll-33",
+    "category": "fotboll",
+    "featured": false,
+    "src": "/images/fotboll/fotboll-33.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D500",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/4.5",
+      "shutterSpeed": "1/640 s",
+      "iso": 500
+    }
+  },
+  {
+    "filename": "fotboll-35.jpg",
+    "slug": "fotboll-35",
+    "title": "fotboll-35",
+    "category": "fotboll",
+    "featured": false,
+    "src": "/images/fotboll/fotboll-35.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D500",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/3.2",
+      "shutterSpeed": "1/640 s",
+      "iso": 500
+    }
+  },
+  {
+    "filename": "fotboll-37.jpg",
+    "slug": "fotboll-37",
+    "title": "fotboll-37",
+    "category": "fotboll",
+    "featured": false,
+    "src": "/images/fotboll/fotboll-37.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D850",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/2.8",
+      "shutterSpeed": "1/640 s",
+      "iso": 1250
+    }
+  },
+  {
+    "filename": "fotboll-39.jpg",
+    "slug": "fotboll-39",
+    "title": "fotboll-39",
+    "category": "fotboll",
+    "featured": false,
+    "src": "/images/fotboll/fotboll-39.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D850",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/2.8",
+      "shutterSpeed": "1/640 s",
+      "iso": 800
+    }
+  },
+  {
+    "filename": "fotboll-41.jpg",
+    "slug": "fotboll-41",
+    "title": "fotboll-41",
+    "category": "fotboll",
+    "featured": false,
+    "src": "/images/fotboll/fotboll-41.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D850",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/2.8",
+      "shutterSpeed": "1/640 s",
+      "iso": 800
+    }
+  },
+  {
+    "filename": "fotboll-43.jpg",
+    "slug": "fotboll-43",
+    "title": "fotboll-43",
+    "category": "fotboll",
+    "featured": false,
+    "src": "/images/fotboll/fotboll-43.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D850",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/2.8",
+      "shutterSpeed": "1/800 s",
+      "iso": 400
+    }
+  },
+  {
+    "filename": "fotboll-45.jpg",
+    "slug": "fotboll-45",
+    "title": "fotboll-45",
+    "category": "fotboll",
+    "featured": false,
+    "src": "/images/fotboll/fotboll-45.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D800",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/6.3",
+      "shutterSpeed": "1/320 s",
+      "iso": 800
+    }
+  },
+  {
+    "filename": "fotboll-47.jpg",
+    "slug": "fotboll-47",
+    "title": "fotboll-47",
+    "category": "fotboll",
+    "featured": false,
+    "src": "/images/fotboll/fotboll-47.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D500",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/5.6",
+      "shutterSpeed": "1/500 s",
+      "iso": 1250
+    }
+  },
+  {
+    "filename": "fotboll-49.jpg",
+    "slug": "fotboll-49",
+    "title": "fotboll-49",
+    "category": "fotboll",
+    "featured": false,
+    "src": "/images/fotboll/fotboll-49.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D500",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/5.6",
+      "shutterSpeed": "1/640 s",
+      "iso": 1800
+    }
+  },
+  {
+    "filename": "fotboll-5.jpg",
+    "slug": "fotboll-5",
+    "title": "fotboll-5",
+    "category": "fotboll",
+    "featured": false,
+    "src": "/images/fotboll/fotboll-5.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D500",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/2.8",
+      "shutterSpeed": "1/800 s",
+      "iso": 125
+    }
+  },
+  {
+    "filename": "fotboll-51.jpg",
+    "slug": "fotboll-51",
+    "title": "fotboll-51",
+    "category": "fotboll",
+    "featured": false,
+    "src": "/images/fotboll/fotboll-51.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D500",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/5.3",
+      "shutterSpeed": "1/640 s",
+      "iso": 2200
+    }
+  },
+  {
+    "filename": "fotboll-53.jpg",
+    "slug": "fotboll-53",
+    "title": "fotboll-53",
+    "category": "fotboll",
+    "featured": false,
+    "src": "/images/fotboll/fotboll-53.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D500",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/5.6",
+      "shutterSpeed": "1/640 s",
+      "iso": 1600
+    }
+  },
+  {
+    "filename": "fotboll-55.jpg",
+    "slug": "fotboll-55",
+    "title": "fotboll-55",
+    "category": "fotboll",
+    "featured": false,
+    "src": "/images/fotboll/fotboll-55.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D500",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/6",
+      "shutterSpeed": "1/640 s",
+      "iso": 3600
+    }
+  },
+  {
+    "filename": "fotboll-57.jpg",
+    "slug": "fotboll-57",
+    "title": "fotboll-57",
+    "category": "fotboll",
+    "featured": false,
+    "src": "/images/fotboll/fotboll-57.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D500",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/5.6",
+      "shutterSpeed": "1/640 s",
+      "iso": 1800
+    }
+  },
+  {
+    "filename": "fotboll-59.jpg",
+    "slug": "fotboll-59",
+    "title": "fotboll-59",
+    "category": "fotboll",
+    "featured": false,
+    "src": "/images/fotboll/fotboll-59.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D500",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/6.3",
+      "shutterSpeed": "1/640 s",
+      "iso": 2800
+    }
+  },
+  {
+    "filename": "fotboll-61.jpg",
+    "slug": "fotboll-61",
+    "title": "fotboll-61",
+    "category": "fotboll",
+    "featured": false,
+    "src": "/images/fotboll/fotboll-61.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D500",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/6",
+      "shutterSpeed": "1/640 s",
+      "iso": 2500
+    }
+  },
+  {
+    "filename": "fotboll-65.jpg",
+    "slug": "fotboll-65",
+    "title": "fotboll-65",
+    "category": "fotboll",
+    "featured": false,
+    "src": "/images/fotboll/fotboll-65.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D500",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/2.8",
+      "shutterSpeed": "1/1000 s",
+      "iso": 3600
+    }
+  },
+  {
+    "filename": "fotboll-67.jpg",
+    "slug": "fotboll-67",
+    "title": "fotboll-67",
+    "category": "fotboll",
+    "featured": false,
+    "src": "/images/fotboll/fotboll-67.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "fotboll-69.jpg",
+    "slug": "fotboll-69",
+    "title": "fotboll-69",
+    "category": "fotboll",
+    "featured": false,
+    "src": "/images/fotboll/fotboll-69.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D500",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/6.3",
+      "shutterSpeed": "1/320 s",
+      "iso": 320
+    }
+  },
+  {
+    "filename": "fotboll-7.jpg",
+    "slug": "fotboll-7",
+    "title": "fotboll-7",
+    "category": "fotboll",
+    "featured": false,
+    "src": "/images/fotboll/fotboll-7.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D500",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/2.8",
+      "shutterSpeed": "1/800 s",
+      "iso": 125
+    }
+  },
+  {
+    "filename": "fotboll-71.jpg",
+    "slug": "fotboll-71",
+    "title": "fotboll-71",
+    "category": "fotboll",
+    "featured": false,
+    "src": "/images/fotboll/fotboll-71.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D600",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/6.3",
+      "shutterSpeed": "1/320 s",
+      "iso": 800
+    }
+  },
+  {
+    "filename": "fotboll-73.jpg",
+    "slug": "fotboll-73",
+    "title": "fotboll-73",
+    "category": "fotboll",
+    "featured": false,
+    "src": "/images/fotboll/fotboll-73.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D600",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/6.3",
+      "shutterSpeed": "1/320 s",
+      "iso": 800
+    }
+  },
+  {
+    "filename": "fotboll-75.jpg",
+    "slug": "fotboll-75",
+    "title": "fotboll-75",
+    "category": "fotboll",
+    "featured": false,
+    "src": "/images/fotboll/fotboll-75.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D600",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/6",
+      "shutterSpeed": "1/400 s",
+      "iso": 800
+    }
+  },
+  {
+    "filename": "fotboll-77.jpg",
+    "slug": "fotboll-77",
+    "title": "fotboll-77",
+    "category": "fotboll",
+    "featured": false,
+    "src": "/images/fotboll/fotboll-77.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D600",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/6.3",
+      "shutterSpeed": "1/400 s",
+      "iso": 800
+    }
+  },
+  {
+    "filename": "fotboll-79.jpg",
+    "slug": "fotboll-79",
+    "title": "fotboll-79",
+    "category": "fotboll",
+    "featured": false,
+    "src": "/images/fotboll/fotboll-79.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D600",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/6.3",
+      "shutterSpeed": "1/400 s",
+      "iso": 800
+    }
+  },
+  {
+    "filename": "fotboll-81.jpg",
+    "slug": "fotboll-81",
+    "title": "fotboll-81",
+    "category": "fotboll",
+    "featured": false,
+    "src": "/images/fotboll/fotboll-81.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D600",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/6.3",
+      "shutterSpeed": "1/500 s",
+      "iso": 800
+    }
+  },
+  {
+    "filename": "fotboll-9.jpg",
+    "slug": "fotboll-9",
+    "title": "fotboll-9",
+    "category": "fotboll",
+    "featured": false,
+    "src": "/images/fotboll/fotboll-9.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D500",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/2.8",
+      "shutterSpeed": "1/800 s",
+      "iso": 125
+    }
+  },
+  {
+    "filename": "Falun-Storvreta.jpg",
+    "slug": "falun-storvreta",
+    "title": "Falun-Storvreta",
+    "category": "innebandy",
+    "featured": false,
+    "src": "/images/innebandy/Falun-Storvreta.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D800",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/2.8",
+      "shutterSpeed": "1/400 s",
+      "iso": 800
+    }
+  },
+  {
+    "filename": "Goal.jpg",
+    "slug": "goal",
+    "title": "Goal",
+    "category": "innebandy",
+    "featured": false,
+    "src": "/images/innebandy/Goal.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D500",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/2.8",
+      "shutterSpeed": "1/640 s",
+      "iso": 2000
+    }
+  },
+  {
+    "filename": "Nykvarn.jpg",
+    "slug": "nykvarn",
+    "title": "Nykvarn",
+    "category": "innebandy",
+    "featured": false,
+    "src": "/images/innebandy/Nykvarn.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D500",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/2.8",
+      "shutterSpeed": "1/640 s",
+      "iso": 2000
+    }
+  },
+  {
+    "filename": "Packe-1~2.jpg",
+    "slug": "packe-1-2",
+    "title": "Packe-1~2",
+    "category": "innebandy",
+    "featured": false,
+    "src": "/images/innebandy/Packe-1~2.jpg",
+    "exif": {
+      "date": "2024-09-28",
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Referee.jpg",
+    "slug": "referee",
+    "title": "Referee",
+    "category": "innebandy",
+    "featured": false,
+    "src": "/images/innebandy/Referee.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D850",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/2.8",
+      "shutterSpeed": "1/640 s",
+      "iso": 2000
+    }
+  },
+  {
+    "filename": "SM-Guld 2025.jpg",
+    "slug": "sm-guld-2025",
+    "title": "SM-Guld 2025",
+    "category": "innebandy",
+    "featured": false,
+    "src": "/images/innebandy/SM-Guld 2025.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D500",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/2.8",
+      "shutterSpeed": "1/640 s",
+      "iso": 3200
+    }
+  },
+  {
+    "filename": "SM-guld.jpg",
+    "slug": "sm-guld",
+    "title": "SM-guld",
+    "category": "innebandy",
+    "featured": false,
+    "src": "/images/innebandy/SM-guld.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D500",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/2.8",
+      "shutterSpeed": "1/640 s",
+      "iso": 3200
+    }
+  },
+  {
+    "filename": "Valdemar Ahlrot.jpg",
+    "slug": "valdemar-ahlrot",
+    "title": "Valdemar Ahlrot",
+    "category": "innebandy",
+    "featured": false,
+    "src": "/images/innebandy/Valdemar Ahlrot.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "innebandy-1.jpg",
+    "slug": "innebandy-1",
+    "title": "innebandy-1",
+    "category": "innebandy",
+    "featured": false,
+    "src": "/images/innebandy/innebandy-1.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "innebandy-10.jpg",
+    "slug": "innebandy-10",
+    "title": "innebandy-10",
+    "category": "innebandy",
+    "featured": false,
+    "src": "/images/innebandy/innebandy-10.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "innebandy-12.jpg",
+    "slug": "innebandy-12",
+    "title": "innebandy-12",
+    "category": "innebandy",
+    "featured": false,
+    "src": "/images/innebandy/innebandy-12.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D500",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/2.8",
+      "shutterSpeed": "1/640 s",
+      "iso": 2000
+    }
+  },
+  {
+    "filename": "innebandy-14.jpg",
+    "slug": "innebandy-14",
+    "title": "innebandy-14",
+    "category": "innebandy",
+    "featured": false,
+    "src": "/images/innebandy/innebandy-14.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D500",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/2.8",
+      "shutterSpeed": "1/640 s",
+      "iso": 2000
+    }
+  },
+  {
+    "filename": "innebandy-16.jpg",
+    "slug": "innebandy-16",
+    "title": "innebandy-16",
+    "category": "innebandy",
+    "featured": false,
+    "src": "/images/innebandy/innebandy-16.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D500",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/2.8",
+      "shutterSpeed": "1/640 s",
+      "iso": 3200
+    }
+  },
+  {
+    "filename": "innebandy-18.jpg",
+    "slug": "innebandy-18",
+    "title": "innebandy-18",
+    "category": "innebandy",
+    "featured": false,
+    "src": "/images/innebandy/innebandy-18.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D500",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/2.8",
+      "shutterSpeed": "1/640 s",
+      "iso": 3200
+    }
+  },
+  {
+    "filename": "innebandy-20.jpg",
+    "slug": "innebandy-20",
+    "title": "innebandy-20",
+    "category": "innebandy",
+    "featured": false,
+    "src": "/images/innebandy/innebandy-20.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "innebandy-22.jpg",
+    "slug": "innebandy-22",
+    "title": "innebandy-22",
+    "category": "innebandy",
+    "featured": false,
+    "src": "/images/innebandy/innebandy-22.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "innebandy-25.jpg",
+    "slug": "innebandy-25",
+    "title": "innebandy-25",
+    "category": "innebandy",
+    "featured": false,
+    "src": "/images/innebandy/innebandy-25.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D500",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/2.8",
+      "shutterSpeed": "1/640 s",
+      "iso": 2000
+    }
+  },
+  {
+    "filename": "innebandy-27.jpg",
+    "slug": "innebandy-27",
+    "title": "innebandy-27",
+    "category": "innebandy",
+    "featured": false,
+    "src": "/images/innebandy/innebandy-27.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "innebandy-29.jpg",
+    "slug": "innebandy-29",
+    "title": "innebandy-29",
+    "category": "innebandy",
+    "featured": false,
+    "src": "/images/innebandy/innebandy-29.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D610",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/2.8",
+      "shutterSpeed": "1/640 s",
+      "iso": 5000
+    }
+  },
+  {
+    "filename": "innebandy-3.jpg",
+    "slug": "innebandy-3",
+    "title": "innebandy-3",
+    "category": "innebandy",
+    "featured": false,
+    "src": "/images/innebandy/innebandy-3.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "innebandy-31.jpg",
+    "slug": "innebandy-31",
+    "title": "innebandy-31",
+    "category": "innebandy",
+    "featured": false,
+    "src": "/images/innebandy/innebandy-31.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D610",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/2.8",
+      "shutterSpeed": "1/640 s",
+      "iso": 12800
+    }
+  },
+  {
+    "filename": "innebandy-33.jpg",
+    "slug": "innebandy-33",
+    "title": "innebandy-33",
+    "category": "innebandy",
+    "featured": false,
+    "src": "/images/innebandy/innebandy-33.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D610",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/2.8",
+      "shutterSpeed": "1/400 s",
+      "iso": 1400
+    }
+  },
+  {
+    "filename": "innebandy-35.jpg",
+    "slug": "innebandy-35",
+    "title": "innebandy-35",
+    "category": "innebandy",
+    "featured": false,
+    "src": "/images/innebandy/innebandy-35.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D610",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/2.8",
+      "shutterSpeed": "1/640 s",
+      "iso": 2800
+    }
+  },
+  {
+    "filename": "innebandy-37.jpg",
+    "slug": "innebandy-37",
+    "title": "innebandy-37",
+    "category": "innebandy",
+    "featured": false,
+    "src": "/images/innebandy/innebandy-37.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D610",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/2.8",
+      "shutterSpeed": "1/1000 s",
+      "iso": 4000
+    }
+  },
+  {
+    "filename": "innebandy-39.jpg",
+    "slug": "innebandy-39",
+    "title": "innebandy-39",
+    "category": "innebandy",
+    "featured": false,
+    "src": "/images/innebandy/innebandy-39.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D610",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/2.8",
+      "shutterSpeed": "1/800 s",
+      "iso": 4500
+    }
+  },
+  {
+    "filename": "innebandy-41.jpg",
+    "slug": "innebandy-41",
+    "title": "innebandy-41",
+    "category": "innebandy",
+    "featured": false,
+    "src": "/images/innebandy/innebandy-41.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "innebandy-43.jpg",
+    "slug": "innebandy-43",
+    "title": "innebandy-43",
+    "category": "innebandy",
+    "featured": false,
+    "src": "/images/innebandy/innebandy-43.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "innebandy-45.jpg",
+    "slug": "innebandy-45",
+    "title": "innebandy-45",
+    "category": "innebandy",
+    "featured": false,
+    "src": "/images/innebandy/innebandy-45.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "innebandy-48.jpg",
+    "slug": "innebandy-48",
+    "title": "innebandy-48",
+    "category": "innebandy",
+    "featured": false,
+    "src": "/images/innebandy/innebandy-48.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D850",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/2.8",
+      "shutterSpeed": "1/640 s",
+      "iso": 2000
+    }
+  },
+  {
+    "filename": "innebandy-50.jpg",
+    "slug": "innebandy-50",
+    "title": "innebandy-50",
+    "category": "innebandy",
+    "featured": false,
+    "src": "/images/innebandy/innebandy-50.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D850",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/2.8",
+      "shutterSpeed": "1/640 s",
+      "iso": 2000
+    }
+  },
+  {
+    "filename": "innebandy-52.jpg",
+    "slug": "innebandy-52",
+    "title": "innebandy-52",
+    "category": "innebandy",
+    "featured": false,
+    "src": "/images/innebandy/innebandy-52.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D850",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/2.8",
+      "shutterSpeed": "1/640 s",
+      "iso": 2000
+    }
+  },
+  {
+    "filename": "innebandy-54.jpg",
+    "slug": "innebandy-54",
+    "title": "innebandy-54",
+    "category": "innebandy",
+    "featured": false,
+    "src": "/images/innebandy/innebandy-54.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D850",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/2.8",
+      "shutterSpeed": "1/640 s",
+      "iso": 2000
+    }
+  },
+  {
+    "filename": "innebandy-56.jpg",
+    "slug": "innebandy-56",
+    "title": "innebandy-56",
+    "category": "innebandy",
+    "featured": false,
+    "src": "/images/innebandy/innebandy-56.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D850",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/2.8",
+      "shutterSpeed": "1/640 s",
+      "iso": 3200
+    }
+  },
+  {
+    "filename": "innebandy-58.jpg",
+    "slug": "innebandy-58",
+    "title": "innebandy-58",
+    "category": "innebandy",
+    "featured": false,
+    "src": "/images/innebandy/innebandy-58.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D850",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/2.8",
+      "shutterSpeed": "1/640 s",
+      "iso": 2000
+    }
+  },
+  {
+    "filename": "innebandy-6.jpg",
+    "slug": "innebandy-6",
+    "title": "innebandy-6",
+    "category": "innebandy",
+    "featured": false,
+    "src": "/images/innebandy/innebandy-6.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "innebandy-60.jpg",
+    "slug": "innebandy-60",
+    "title": "innebandy-60",
+    "category": "innebandy",
+    "featured": false,
+    "src": "/images/innebandy/innebandy-60.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D850",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/2.8",
+      "shutterSpeed": "1/640 s",
+      "iso": 2000
+    }
+  },
+  {
+    "filename": "innebandy-62.jpg",
+    "slug": "innebandy-62",
+    "title": "innebandy-62",
+    "category": "innebandy",
+    "featured": false,
+    "src": "/images/innebandy/innebandy-62.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D800",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/2.8",
+      "shutterSpeed": "1/400 s",
+      "iso": 800
+    }
+  },
+  {
+    "filename": "innebandy-64.jpg",
+    "slug": "innebandy-64",
+    "title": "innebandy-64",
+    "category": "innebandy",
+    "featured": false,
+    "src": "/images/innebandy/innebandy-64.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D800",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/2.8",
+      "shutterSpeed": "1/320 s",
+      "iso": 640
+    }
+  },
+  {
+    "filename": "innebandy-66.jpg",
+    "slug": "innebandy-66",
+    "title": "innebandy-66",
+    "category": "innebandy",
+    "featured": false,
+    "src": "/images/innebandy/innebandy-66.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "innebandy-69.png",
+    "slug": "innebandy-69",
+    "title": "innebandy-69",
+    "category": "innebandy",
+    "featured": false,
+    "src": "/images/innebandy/innebandy-69.png",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "innebandy-8.jpg",
+    "slug": "innebandy-8",
+    "title": "innebandy-8",
+    "category": "innebandy",
+    "featured": false,
+    "src": "/images/innebandy/innebandy-8.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "makro-1.jpg",
+    "slug": "makro-1",
+    "title": "makro-1",
+    "category": "macro",
+    "featured": false,
+    "src": "/images/macro/makro-1.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D610",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/3.3",
+      "shutterSpeed": "1/800 s",
+      "iso": 200
+    }
+  },
+  {
+    "filename": "makro-3.jpg",
+    "slug": "makro-3",
+    "title": "makro-3",
+    "category": "macro",
+    "featured": false,
+    "src": "/images/macro/makro-3.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON Z 9",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/2.8",
+      "shutterSpeed": "1/1600 s",
+      "iso": 320
+    }
+  },
+  {
+    "filename": "makro-5.jpg",
+    "slug": "makro-5",
+    "title": "makro-5",
+    "category": "macro",
+    "featured": false,
+    "src": "/images/macro/makro-5.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON Z 9",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/2.8",
+      "shutterSpeed": "1/1600 s",
+      "iso": 720
+    }
+  },
+  {
+    "filename": "makro-7.jpg",
+    "slug": "makro-7",
+    "title": "makro-7",
+    "category": "macro",
+    "featured": false,
+    "src": "/images/macro/makro-7.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON Z 9",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/2.8",
+      "shutterSpeed": "1/1600 s",
+      "iso": 720
+    }
+  },
+  {
+    "filename": "makro-9.jpg",
+    "slug": "makro-9",
+    "title": "makro-9",
+    "category": "macro",
+    "featured": false,
+    "src": "/images/macro/makro-9.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON Z 9",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/2.8",
+      "shutterSpeed": "1/1600 s",
+      "iso": 800
+    }
+  },
+  {
+    "filename": "2025-01-05-29 (1).jpg",
+    "slug": "2025-01-05-29-1",
+    "title": "2025-01-05-29 (1)",
+    "category": "portratt",
+    "featured": false,
+    "src": "/images/portratt/2025-01-05-29 (1).jpg",
+    "exif": {
+      "date": "2025-01-05",
+      "camera": "NIKON Z 9",
+      "lens": "VR 70-200mm f/2.8E",
+      "focalLength": "185 mm",
+      "aperture": "f/4",
+      "shutterSpeed": "1/1000 s",
+      "iso": 400
+    }
+  },
+  {
+    "filename": "2025-01-05-31 (1).jpg",
+    "slug": "2025-01-05-31-1",
+    "title": "2025-01-05-31 (1)",
+    "category": "portratt",
+    "featured": false,
+    "src": "/images/portratt/2025-01-05-31 (1).jpg",
+    "exif": {
+      "date": "2025-01-05",
+      "camera": "NIKON Z 9",
+      "lens": "VR 70-200mm f/2.8E",
+      "focalLength": "200 mm",
+      "aperture": "f/4",
+      "shutterSpeed": "1/1000 s",
+      "iso": 560
+    }
+  },
+  {
+    "filename": "Godingarna-3.jpg",
+    "slug": "godingarna-3",
+    "title": "Godingarna-3",
+    "category": "portratt",
+    "featured": false,
+    "src": "/images/portratt/Godingarna-3.jpg",
+    "exif": {
+      "date": "2025-12-24",
+      "camera": "NIKON Z 9",
+      "lens": "VR 24-70mm f/2.8E",
+      "focalLength": "58 mm",
+      "aperture": "f/4",
+      "shutterSpeed": "1/640 s",
+      "iso": 1250
+    }
+  },
+  {
+    "filename": "Godingarna-5.jpg",
+    "slug": "godingarna-5",
+    "title": "Godingarna-5",
+    "category": "portratt",
+    "featured": false,
+    "src": "/images/portratt/Godingarna-5.jpg",
+    "exif": {
+      "date": "2025-12-24",
+      "camera": "NIKON Z 9",
+      "lens": "VR 24-70mm f/2.8E",
+      "focalLength": "58 mm",
+      "aperture": "f/4",
+      "shutterSpeed": "1/640 s",
+      "iso": 1250
+    }
+  },
+  {
+    "filename": "Human-1.jpg",
+    "slug": "human-1",
+    "title": "Human-1",
+    "category": "portratt",
+    "featured": false,
+    "src": "/images/portratt/Human-1.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON Z 9",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/2.8",
+      "shutterSpeed": "1/400 s",
+      "iso": 500
+    }
+  },
+  {
+    "filename": "Human-11.jpg",
+    "slug": "human-11",
+    "title": "Human-11",
+    "category": "portratt",
+    "featured": false,
+    "src": "/images/portratt/Human-11.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON Z 9",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/2.8",
+      "shutterSpeed": "1/400 s",
+      "iso": 250
+    }
+  },
+  {
+    "filename": "Human-13.jpg",
+    "slug": "human-13",
+    "title": "Human-13",
+    "category": "portratt",
+    "featured": false,
+    "src": "/images/portratt/Human-13.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON Z 9",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/2.8",
+      "shutterSpeed": "1/400 s",
+      "iso": 1100
+    }
+  },
+  {
+    "filename": "Human-2.jpg",
+    "slug": "human-2",
+    "title": "Human-2",
+    "category": "portratt",
+    "featured": false,
+    "src": "/images/portratt/Human-2.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON Z 9",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/2.8",
+      "shutterSpeed": "1/400 s",
+      "iso": 1800
+    }
+  },
+  {
+    "filename": "Human-4.jpg",
+    "slug": "human-4",
+    "title": "Human-4",
+    "category": "portratt",
+    "featured": false,
+    "src": "/images/portratt/Human-4.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON Z 9",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/2.8",
+      "shutterSpeed": "1/400 s",
+      "iso": 1100
+    }
+  },
+  {
+    "filename": "Human-7.jpg",
+    "slug": "human-7",
+    "title": "Human-7",
+    "category": "portratt",
+    "featured": false,
+    "src": "/images/portratt/Human-7.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON Z 9",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/2.8",
+      "shutterSpeed": "1/400 s",
+      "iso": 100
+    }
+  },
+  {
+    "filename": "Human-9.jpg",
+    "slug": "human-9",
+    "title": "Human-9",
+    "category": "portratt",
+    "featured": false,
+    "src": "/images/portratt/Human-9.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON Z 9",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/4.5",
+      "shutterSpeed": "1/400 s",
+      "iso": 64
+    }
+  },
+  {
+    "filename": "Pontus3.png",
+    "slug": "pontus3",
+    "title": "Pontus3",
+    "category": "portratt",
+    "featured": false,
+    "src": "/images/portratt/Pontus3.png",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "WillyoSally2025-10.jpg",
+    "slug": "willyosally2025-10",
+    "title": "WillyoSally2025-10",
+    "category": "portratt",
+    "featured": false,
+    "src": "/images/portratt/WillyoSally2025-10.jpg",
+    "exif": {
+      "date": "2025-08-23",
+      "camera": "NIKON Z 9",
+      "lens": "VR 70-200mm f/2.8E",
+      "focalLength": "98 mm",
+      "aperture": "f/4.5",
+      "shutterSpeed": "1/1250 s",
+      "iso": 2000
+    }
+  },
+  {
+    "filename": "WillyoSally2025-11.jpg",
+    "slug": "willyosally2025-11",
+    "title": "WillyoSally2025-11",
+    "category": "portratt",
+    "featured": false,
+    "src": "/images/portratt/WillyoSally2025-11.jpg",
+    "exif": {
+      "date": "2025-08-23",
+      "camera": "NIKON Z 9",
+      "lens": "VR 70-200mm f/2.8E",
+      "focalLength": "165 mm",
+      "aperture": "f/4.5",
+      "shutterSpeed": "1/1250 s",
+      "iso": 800
+    }
+  },
+  {
+    "filename": "WillyoSally2025-12.jpg",
+    "slug": "willyosally2025-12",
+    "title": "WillyoSally2025-12",
+    "category": "portratt",
+    "featured": false,
+    "src": "/images/portratt/WillyoSally2025-12.jpg",
+    "exif": {
+      "date": "2025-08-23",
+      "camera": "NIKON Z 9",
+      "lens": "VR 70-200mm f/2.8E",
+      "focalLength": "165 mm",
+      "aperture": "f/4.5",
+      "shutterSpeed": "1/1250 s",
+      "iso": 900
+    }
+  },
+  {
+    "filename": "WillyoSally2025-13.jpg",
+    "slug": "willyosally2025-13",
+    "title": "WillyoSally2025-13",
+    "category": "portratt",
+    "featured": false,
+    "src": "/images/portratt/WillyoSally2025-13.jpg",
+    "exif": {
+      "date": "2025-08-23",
+      "camera": "NIKON Z 9",
+      "lens": "VR 70-200mm f/2.8E",
+      "focalLength": "165 mm",
+      "aperture": "f/4.5",
+      "shutterSpeed": "1/1250 s",
+      "iso": 900
+    }
+  },
+  {
+    "filename": "WillyoSally2025-14.jpg",
+    "slug": "willyosally2025-14",
+    "title": "WillyoSally2025-14",
+    "category": "portratt",
+    "featured": false,
+    "src": "/images/portratt/WillyoSally2025-14.jpg",
+    "exif": {
+      "date": "2025-08-23",
+      "camera": "NIKON Z 9",
+      "lens": "VR 70-200mm f/2.8E",
+      "focalLength": "165 mm",
+      "aperture": "f/4.5",
+      "shutterSpeed": "1/1250 s",
+      "iso": 800
+    }
+  },
+  {
+    "filename": "WillyoSally2025-15.jpg",
+    "slug": "willyosally2025-15",
+    "title": "WillyoSally2025-15",
+    "category": "portratt",
+    "featured": false,
+    "src": "/images/portratt/WillyoSally2025-15.jpg",
+    "exif": {
+      "date": "2025-08-23",
+      "camera": "NIKON Z 9",
+      "lens": "VR 70-200mm f/2.8E",
+      "focalLength": "165 mm",
+      "aperture": "f/4.5",
+      "shutterSpeed": "1/1250 s",
+      "iso": 800
+    }
+  },
+  {
+    "filename": "WillyoSally2025-16.jpg",
+    "slug": "willyosally2025-16",
+    "title": "WillyoSally2025-16",
+    "category": "portratt",
+    "featured": false,
+    "src": "/images/portratt/WillyoSally2025-16.jpg",
+    "exif": {
+      "date": "2025-08-23",
+      "camera": "NIKON Z 9",
+      "lens": "VR 70-200mm f/2.8E",
+      "focalLength": "165 mm",
+      "aperture": "f/4.5",
+      "shutterSpeed": "1/1250 s",
+      "iso": 900
+    }
+  },
+  {
+    "filename": "WillyoSally2025-18.jpg",
+    "slug": "willyosally2025-18",
+    "title": "WillyoSally2025-18",
+    "category": "portratt",
+    "featured": false,
+    "src": "/images/portratt/WillyoSally2025-18.jpg",
+    "exif": {
+      "date": "2025-08-23",
+      "camera": "NIKON Z 9",
+      "lens": "VR 70-200mm f/2.8E",
+      "focalLength": "70 mm",
+      "aperture": "f/4.5",
+      "shutterSpeed": "1/1250 s",
+      "iso": 6400
+    }
+  },
+  {
+    "filename": "WillyoSally2025-19.jpg",
+    "slug": "willyosally2025-19",
+    "title": "WillyoSally2025-19",
+    "category": "portratt",
+    "featured": false,
+    "src": "/images/portratt/WillyoSally2025-19.jpg",
+    "exif": {
+      "date": "2025-08-23",
+      "camera": "NIKON Z 9",
+      "lens": "VR 70-200mm f/2.8E",
+      "focalLength": "70 mm",
+      "aperture": "f/4.5",
+      "shutterSpeed": "1/1250 s",
+      "iso": 6400
+    }
+  },
+  {
+    "filename": "WillyoSally2025-20.jpg",
+    "slug": "willyosally2025-20",
+    "title": "WillyoSally2025-20",
+    "category": "portratt",
+    "featured": false,
+    "src": "/images/portratt/WillyoSally2025-20.jpg",
+    "exif": {
+      "date": "2025-08-23",
+      "camera": "NIKON Z 9",
+      "lens": "VR 70-200mm f/2.8E",
+      "focalLength": "70 mm",
+      "aperture": "f/4.5",
+      "shutterSpeed": "1/1250 s",
+      "iso": 6400
+    }
+  },
+  {
+    "filename": "WillyoSally2025-22.jpg",
+    "slug": "willyosally2025-22",
+    "title": "WillyoSally2025-22",
+    "category": "portratt",
+    "featured": false,
+    "src": "/images/portratt/WillyoSally2025-22.jpg",
+    "exif": {
+      "date": "2025-08-23",
+      "camera": "NIKON Z 9",
+      "lens": "VR 70-200mm f/2.8E",
+      "focalLength": "120 mm",
+      "aperture": "f/4.5",
+      "shutterSpeed": "1/1250 s",
+      "iso": 6400
+    }
+  },
+  {
+    "filename": "Pride color.jpg",
+    "slug": "pride-color",
+    "title": "Pride color",
+    "category": "pride",
+    "featured": false,
+    "src": "/images/pride/Pride color.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Pride style.jpg",
+    "slug": "pride-style",
+    "title": "Pride style",
+    "category": "pride",
+    "featured": false,
+    "src": "/images/pride/Pride style.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "pride-1.jpg",
+    "slug": "pride-1",
+    "title": "pride-1",
+    "category": "pride",
+    "featured": false,
+    "src": "/images/pride/pride-1.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "pride-102.jpg",
+    "slug": "pride-102",
+    "title": "pride-102",
+    "category": "pride",
+    "featured": false,
+    "src": "/images/pride/pride-102.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "pride-105.jpg",
+    "slug": "pride-105",
+    "title": "pride-105",
+    "category": "pride",
+    "featured": false,
+    "src": "/images/pride/pride-105.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "pride-108.jpg",
+    "slug": "pride-108",
+    "title": "pride-108",
+    "category": "pride",
+    "featured": false,
+    "src": "/images/pride/pride-108.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "pride-111.jpg",
+    "slug": "pride-111",
+    "title": "pride-111",
+    "category": "pride",
+    "featured": false,
+    "src": "/images/pride/pride-111.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "pride-114.jpg",
+    "slug": "pride-114",
+    "title": "pride-114",
+    "category": "pride",
+    "featured": false,
+    "src": "/images/pride/pride-114.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "pride-117.jpg",
+    "slug": "pride-117",
+    "title": "pride-117",
+    "category": "pride",
+    "featured": false,
+    "src": "/images/pride/pride-117.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "pride-12.jpg",
+    "slug": "pride-12",
+    "title": "pride-12",
+    "category": "pride",
+    "featured": false,
+    "src": "/images/pride/pride-12.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "pride-120.jpg",
+    "slug": "pride-120",
+    "title": "pride-120",
+    "category": "pride",
+    "featured": false,
+    "src": "/images/pride/pride-120.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "pride-123.jpg",
+    "slug": "pride-123",
+    "title": "pride-123",
+    "category": "pride",
+    "featured": false,
+    "src": "/images/pride/pride-123.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "pride-126.jpg",
+    "slug": "pride-126",
+    "title": "pride-126",
+    "category": "pride",
+    "featured": false,
+    "src": "/images/pride/pride-126.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "pride-129.jpg",
+    "slug": "pride-129",
+    "title": "pride-129",
+    "category": "pride",
+    "featured": false,
+    "src": "/images/pride/pride-129.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "pride-132.jpg",
+    "slug": "pride-132",
+    "title": "pride-132",
+    "category": "pride",
+    "featured": false,
+    "src": "/images/pride/pride-132.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "pride-135.jpg",
+    "slug": "pride-135",
+    "title": "pride-135",
+    "category": "pride",
+    "featured": false,
+    "src": "/images/pride/pride-135.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "pride-138.jpg",
+    "slug": "pride-138",
+    "title": "pride-138",
+    "category": "pride",
+    "featured": false,
+    "src": "/images/pride/pride-138.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "pride-141.jpg",
+    "slug": "pride-141",
+    "title": "pride-141",
+    "category": "pride",
+    "featured": false,
+    "src": "/images/pride/pride-141.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "pride-144.jpg",
+    "slug": "pride-144",
+    "title": "pride-144",
+    "category": "pride",
+    "featured": false,
+    "src": "/images/pride/pride-144.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "pride-147.jpg",
+    "slug": "pride-147",
+    "title": "pride-147",
+    "category": "pride",
+    "featured": false,
+    "src": "/images/pride/pride-147.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "pride-15.jpg",
+    "slug": "pride-15",
+    "title": "pride-15",
+    "category": "pride",
+    "featured": false,
+    "src": "/images/pride/pride-15.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "pride-150.jpg",
+    "slug": "pride-150",
+    "title": "pride-150",
+    "category": "pride",
+    "featured": false,
+    "src": "/images/pride/pride-150.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "pride-153.jpg",
+    "slug": "pride-153",
+    "title": "pride-153",
+    "category": "pride",
+    "featured": false,
+    "src": "/images/pride/pride-153.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "pride-156.jpg",
+    "slug": "pride-156",
+    "title": "pride-156",
+    "category": "pride",
+    "featured": false,
+    "src": "/images/pride/pride-156.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "pride-159.jpg",
+    "slug": "pride-159",
+    "title": "pride-159",
+    "category": "pride",
+    "featured": false,
+    "src": "/images/pride/pride-159.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "pride-162.jpg",
+    "slug": "pride-162",
+    "title": "pride-162",
+    "category": "pride",
+    "featured": false,
+    "src": "/images/pride/pride-162.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "pride-165.jpg",
+    "slug": "pride-165",
+    "title": "pride-165",
+    "category": "pride",
+    "featured": false,
+    "src": "/images/pride/pride-165.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "pride-168.jpg",
+    "slug": "pride-168",
+    "title": "pride-168",
+    "category": "pride",
+    "featured": false,
+    "src": "/images/pride/pride-168.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "pride-171.jpg",
+    "slug": "pride-171",
+    "title": "pride-171",
+    "category": "pride",
+    "featured": false,
+    "src": "/images/pride/pride-171.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "pride-174.jpg",
+    "slug": "pride-174",
+    "title": "pride-174",
+    "category": "pride",
+    "featured": false,
+    "src": "/images/pride/pride-174.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "pride-177.jpg",
+    "slug": "pride-177",
+    "title": "pride-177",
+    "category": "pride",
+    "featured": false,
+    "src": "/images/pride/pride-177.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "pride-18.jpg",
+    "slug": "pride-18",
+    "title": "pride-18",
+    "category": "pride",
+    "featured": false,
+    "src": "/images/pride/pride-18.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "pride-180.jpg",
+    "slug": "pride-180",
+    "title": "pride-180",
+    "category": "pride",
+    "featured": false,
+    "src": "/images/pride/pride-180.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "pride-183.jpg",
+    "slug": "pride-183",
+    "title": "pride-183",
+    "category": "pride",
+    "featured": false,
+    "src": "/images/pride/pride-183.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON Z 9",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/2.8",
+      "shutterSpeed": "1/400 s",
+      "iso": 640
+    }
+  },
+  {
+    "filename": "pride-186.jpg",
+    "slug": "pride-186",
+    "title": "pride-186",
+    "category": "pride",
+    "featured": false,
+    "src": "/images/pride/pride-186.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "pride-189.jpg",
+    "slug": "pride-189",
+    "title": "pride-189",
+    "category": "pride",
+    "featured": false,
+    "src": "/images/pride/pride-189.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "pride-192.jpg",
+    "slug": "pride-192",
+    "title": "pride-192",
+    "category": "pride",
+    "featured": false,
+    "src": "/images/pride/pride-192.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "pride-195.jpg",
+    "slug": "pride-195",
+    "title": "pride-195",
+    "category": "pride",
+    "featured": false,
+    "src": "/images/pride/pride-195.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "pride-198.jpg",
+    "slug": "pride-198",
+    "title": "pride-198",
+    "category": "pride",
+    "featured": false,
+    "src": "/images/pride/pride-198.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "pride-201.jpg",
+    "slug": "pride-201",
+    "title": "pride-201",
+    "category": "pride",
+    "featured": false,
+    "src": "/images/pride/pride-201.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "pride-204.jpg",
+    "slug": "pride-204",
+    "title": "pride-204",
+    "category": "pride",
+    "featured": false,
+    "src": "/images/pride/pride-204.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "pride-207.jpg",
+    "slug": "pride-207",
+    "title": "pride-207",
+    "category": "pride",
+    "featured": false,
+    "src": "/images/pride/pride-207.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "pride-21.jpg",
+    "slug": "pride-21",
+    "title": "pride-21",
+    "category": "pride",
+    "featured": false,
+    "src": "/images/pride/pride-21.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "pride-210.jpg",
+    "slug": "pride-210",
+    "title": "pride-210",
+    "category": "pride",
+    "featured": false,
+    "src": "/images/pride/pride-210.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "pride-213.jpg",
+    "slug": "pride-213",
+    "title": "pride-213",
+    "category": "pride",
+    "featured": false,
+    "src": "/images/pride/pride-213.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "pride-216.jpg",
+    "slug": "pride-216",
+    "title": "pride-216",
+    "category": "pride",
+    "featured": false,
+    "src": "/images/pride/pride-216.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "pride-219.jpg",
+    "slug": "pride-219",
+    "title": "pride-219",
+    "category": "pride",
+    "featured": false,
+    "src": "/images/pride/pride-219.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "pride-222.jpg",
+    "slug": "pride-222",
+    "title": "pride-222",
+    "category": "pride",
+    "featured": false,
+    "src": "/images/pride/pride-222.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "pride-225.jpg",
+    "slug": "pride-225",
+    "title": "pride-225",
+    "category": "pride",
+    "featured": false,
+    "src": "/images/pride/pride-225.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "pride-228.jpg",
+    "slug": "pride-228",
+    "title": "pride-228",
+    "category": "pride",
+    "featured": false,
+    "src": "/images/pride/pride-228.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "pride-231.jpg",
+    "slug": "pride-231",
+    "title": "pride-231",
+    "category": "pride",
+    "featured": false,
+    "src": "/images/pride/pride-231.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "pride-234.jpg",
+    "slug": "pride-234",
+    "title": "pride-234",
+    "category": "pride",
+    "featured": false,
+    "src": "/images/pride/pride-234.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "pride-237.jpg",
+    "slug": "pride-237",
+    "title": "pride-237",
+    "category": "pride",
+    "featured": false,
+    "src": "/images/pride/pride-237.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON Z 9",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/5",
+      "shutterSpeed": "1/400 s",
+      "iso": 64
+    }
+  },
+  {
+    "filename": "pride-24.jpg",
+    "slug": "pride-24",
+    "title": "pride-24",
+    "category": "pride",
+    "featured": false,
+    "src": "/images/pride/pride-24.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "pride-240.jpg",
+    "slug": "pride-240",
+    "title": "pride-240",
+    "category": "pride",
+    "featured": false,
+    "src": "/images/pride/pride-240.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "pride-27.jpg",
+    "slug": "pride-27",
+    "title": "pride-27",
+    "category": "pride",
+    "featured": false,
+    "src": "/images/pride/pride-27.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "pride-30.jpg",
+    "slug": "pride-30",
+    "title": "pride-30",
+    "category": "pride",
+    "featured": false,
+    "src": "/images/pride/pride-30.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "pride-33.jpg",
+    "slug": "pride-33",
+    "title": "pride-33",
+    "category": "pride",
+    "featured": false,
+    "src": "/images/pride/pride-33.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "pride-36.jpg",
+    "slug": "pride-36",
+    "title": "pride-36",
+    "category": "pride",
+    "featured": false,
+    "src": "/images/pride/pride-36.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "pride-39.jpg",
+    "slug": "pride-39",
+    "title": "pride-39",
+    "category": "pride",
+    "featured": false,
+    "src": "/images/pride/pride-39.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "pride-4.jpg",
+    "slug": "pride-4",
+    "title": "pride-4",
+    "category": "pride",
+    "featured": false,
+    "src": "/images/pride/pride-4.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "pride-42.jpg",
+    "slug": "pride-42",
+    "title": "pride-42",
+    "category": "pride",
+    "featured": false,
+    "src": "/images/pride/pride-42.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "pride-45.jpg",
+    "slug": "pride-45",
+    "title": "pride-45",
+    "category": "pride",
+    "featured": false,
+    "src": "/images/pride/pride-45.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "pride-48.jpg",
+    "slug": "pride-48",
+    "title": "pride-48",
+    "category": "pride",
+    "featured": false,
+    "src": "/images/pride/pride-48.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "pride-51.jpg",
+    "slug": "pride-51",
+    "title": "pride-51",
+    "category": "pride",
+    "featured": false,
+    "src": "/images/pride/pride-51.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "pride-54.jpg",
+    "slug": "pride-54",
+    "title": "pride-54",
+    "category": "pride",
+    "featured": false,
+    "src": "/images/pride/pride-54.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "pride-57.jpg",
+    "slug": "pride-57",
+    "title": "pride-57",
+    "category": "pride",
+    "featured": false,
+    "src": "/images/pride/pride-57.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "pride-6.jpg",
+    "slug": "pride-6",
+    "title": "pride-6",
+    "category": "pride",
+    "featured": false,
+    "src": "/images/pride/pride-6.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "pride-60.jpg",
+    "slug": "pride-60",
+    "title": "pride-60",
+    "category": "pride",
+    "featured": false,
+    "src": "/images/pride/pride-60.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "pride-63.jpg",
+    "slug": "pride-63",
+    "title": "pride-63",
+    "category": "pride",
+    "featured": false,
+    "src": "/images/pride/pride-63.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "pride-65.jpg",
+    "slug": "pride-65",
+    "title": "pride-65",
+    "category": "pride",
+    "featured": false,
+    "src": "/images/pride/pride-65.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "pride-67.jpg",
+    "slug": "pride-67",
+    "title": "pride-67",
+    "category": "pride",
+    "featured": false,
+    "src": "/images/pride/pride-67.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D700",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/5.6",
+      "shutterSpeed": "1/2000 s",
+      "iso": 200
+    }
+  },
+  {
+    "filename": "pride-69.jpg",
+    "slug": "pride-69",
+    "title": "pride-69",
+    "category": "pride",
+    "featured": false,
+    "src": "/images/pride/pride-69.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "pride-71.jpg",
+    "slug": "pride-71",
+    "title": "pride-71",
+    "category": "pride",
+    "featured": false,
+    "src": "/images/pride/pride-71.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "pride-73.jpg",
+    "slug": "pride-73",
+    "title": "pride-73",
+    "category": "pride",
+    "featured": false,
+    "src": "/images/pride/pride-73.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D700",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/5.6",
+      "shutterSpeed": "1/1000 s",
+      "iso": 200
+    }
+  },
+  {
+    "filename": "pride-75.jpg",
+    "slug": "pride-75",
+    "title": "pride-75",
+    "category": "pride",
+    "featured": false,
+    "src": "/images/pride/pride-75.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "pride-77.jpg",
+    "slug": "pride-77",
+    "title": "pride-77",
+    "category": "pride",
+    "featured": false,
+    "src": "/images/pride/pride-77.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D700",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/5.6",
+      "shutterSpeed": "1/1000 s",
+      "iso": 200
+    }
+  },
+  {
+    "filename": "pride-79.jpg",
+    "slug": "pride-79",
+    "title": "pride-79",
+    "category": "pride",
+    "featured": false,
+    "src": "/images/pride/pride-79.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "pride-81.jpg",
+    "slug": "pride-81",
+    "title": "pride-81",
+    "category": "pride",
+    "featured": false,
+    "src": "/images/pride/pride-81.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "pride-84.jpg",
+    "slug": "pride-84",
+    "title": "pride-84",
+    "category": "pride",
+    "featured": false,
+    "src": "/images/pride/pride-84.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "pride-87.jpg",
+    "slug": "pride-87",
+    "title": "pride-87",
+    "category": "pride",
+    "featured": false,
+    "src": "/images/pride/pride-87.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "pride-9.jpg",
+    "slug": "pride-9",
+    "title": "pride-9",
+    "category": "pride",
+    "featured": false,
+    "src": "/images/pride/pride-9.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "pride-90.jpg",
+    "slug": "pride-90",
+    "title": "pride-90",
+    "category": "pride",
+    "featured": false,
+    "src": "/images/pride/pride-90.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "pride-93.jpg",
+    "slug": "pride-93",
+    "title": "pride-93",
+    "category": "pride",
+    "featured": false,
+    "src": "/images/pride/pride-93.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "pride-96.jpg",
+    "slug": "pride-96",
+    "title": "pride-96",
+    "category": "pride",
+    "featured": false,
+    "src": "/images/pride/pride-96.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "pride-99.jpg",
+    "slug": "pride-99",
+    "title": "pride-99",
+    "category": "pride",
+    "featured": false,
+    "src": "/images/pride/pride-99.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  }
+]

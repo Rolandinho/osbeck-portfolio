@@ -1,0 +1,24 @@
+{
+  "title": "Roland Osbeck",
+  "tagline": "Capturing moments in motion.",
+  "heroText": "Fotograf baserad i Stockholm med fokus på sport, människor och stadsmiljö. Jag fångar ögonblick – från avgörande sekunder på planen till tysta stunder i folkmassan.",
+  "description": "Fotograf baserad i Stockholm. Sport, People, Cityscape.",
+  "url": "https://www.osbeck.org",
+  "heroImages": [
+  "/images/portratt/WillyoSally2025-10.jpg",
+  "/images/birds/Kungsfiskare.jpg",
+  "/images/fotboll/Simone Boye Sørensen.jpg",
+  "/images/innebandy/Valdemar Ahlrot.jpg",
+  "/images/pride/Pride style..jpg",
+  "/images/birds/Gråhäger fight.jpg",
+  "/images/innebandy/Goal.jpg"
+],
+  "logoImage": "/images/_assets/logga.png",
+  "nav": [
+    { "label": "Sport",        "href": "/kategorier/sport/" },
+    { "label": "People",       "href": "/kategorier/people/" },
+    { "label": "Natur & stad", "href": "/kategorier/natur-stad/" },
+    { "label": "Om mig",       "href": "/om/" },
+    { "label": "Kontakt",      "href": "/kontakt/" }
+  ]
+}
