@@ -114,7 +114,6 @@ a { color: inherit; text-decoration: none; }
   position: relative;
   background: #1a1a1a;
   cursor: pointer;
-  aspect-ratio: 3 / 2;
 }
 .gallery-item--featured {
   grid-column: span 2;
