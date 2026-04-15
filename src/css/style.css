@@ -41,12 +41,13 @@ a { color: inherit; text-decoration: none; }
 .hero {
   display: grid;
   grid-template-columns: 1fr 1fr;
-  min-height: 380px;
   border-bottom: 0.5px solid rgba(255,255,255,0.06);
 }
 .hero-image {
-  background-size: cover;
+  background-size: contain;
   background-position: center;
+  background-repeat: no-repeat;
+  min-height: 380px;
 }
 .hero-text {
   font-size: 15px;
