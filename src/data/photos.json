@@ -510,23 +510,6 @@
     }
   },
   {
-    "filename": "basket-13.jpg",
-    "slug": "basket-13",
-    "title": "basket-13",
-    "category": "basket",
-    "featured": false,
-    "src": "/images/basket/basket-13.jpg",
-    "exif": {
-      "date": null,
-      "camera": null,
-      "lens": null,
-      "focalLength": null,
-      "aperture": null,
-      "shutterSpeed": null,
-      "iso": null
-    }
-  },
-  {
     "filename": "basket-15.jpg",
     "slug": "basket-15",
     "title": "basket-15",
@@ -5973,23 +5956,6 @@
     "category": "pride",
     "featured": false,
     "src": "/images/pride/pride-79.jpg",
-    "exif": {
-      "date": null,
-      "camera": null,
-      "lens": null,
-      "focalLength": null,
-      "aperture": null,
-      "shutterSpeed": null,
-      "iso": null
-    }
-  },
-  {
-    "filename": "pride-81.jpg",
-    "slug": "pride-81",
-    "title": "pride-81",
-    "category": "pride",
-    "featured": false,
-    "src": "/images/pride/pride-81.jpg",
     "exif": {
       "date": null,
       "camera": null,
