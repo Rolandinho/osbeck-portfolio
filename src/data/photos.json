@@ -578,23 +578,6 @@
     }
   },
   {
-    "filename": "basket-37.jpg",
-    "slug": "basket-37",
-    "title": "basket-37",
-    "category": "basket",
-    "featured": false,
-    "src": "/images/basket/basket-37.jpg",
-    "exif": {
-      "date": null,
-      "camera": "NIKON D500",
-      "lens": null,
-      "focalLength": null,
-      "aperture": "f/3.5",
-      "shutterSpeed": "1/500 s",
-      "iso": 1250
-    }
-  },
-  {
     "filename": "basket-4.jpg",
     "slug": "basket-4",
     "title": "basket-4",
@@ -677,23 +660,6 @@
       "aperture": "f/2.8",
       "shutterSpeed": "1/400 s",
       "iso": 640
-    }
-  },
-  {
-    "filename": "basket-9.jpg",
-    "slug": "basket-9",
-    "title": "basket-9",
-    "category": "basket",
-    "featured": false,
-    "src": "/images/basket/basket-9.jpg",
-    "exif": {
-      "date": null,
-      "camera": null,
-      "lens": null,
-      "focalLength": null,
-      "aperture": null,
-      "shutterSpeed": null,
-      "iso": null
     }
   },
   {
