@@ -2635,23 +2635,6 @@
     }
   },
   {
-    "filename": "fotboll-39.jpg",
-    "slug": "fotboll-39",
-    "title": "fotboll-39",
-    "category": "fotboll",
-    "featured": false,
-    "src": "/images/fotboll/fotboll-39.jpg",
-    "exif": {
-      "date": null,
-      "camera": "NIKON D850",
-      "lens": null,
-      "focalLength": null,
-      "aperture": "f/2.8",
-      "shutterSpeed": "1/640 s",
-      "iso": 800
-    }
-  },
-  {
     "filename": "fotboll-41.jpg",
     "slug": "fotboll-41",
     "title": "fotboll-41",
