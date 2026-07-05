@@ -1479,6 +1479,23 @@
     }
   },
   {
+    "filename": "Janne o Maria Nr 4-1.jpg",
+    "slug": "janne-o-maria-nr-4-1",
+    "title": "Janne o Maria Nr 4-1",
+    "category": "brollop",
+    "featured": false,
+    "src": "/images/brollop/Janne o Maria Nr 4-1.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
     "filename": "wedding-1.jpg",
     "slug": "wedding-1",
     "title": "wedding-1",
@@ -3737,6 +3754,23 @@
       "aperture": "f/4.5",
       "shutterSpeed": "1/400 s",
       "iso": 64
+    }
+  },
+  {
+    "filename": "Midsommar 2026-9.jpg",
+    "slug": "midsommar-2026-9",
+    "title": "Midsommar 2026-9",
+    "category": "portratt",
+    "featured": false,
+    "src": "/images/portratt/Midsommar 2026-9.jpg",
+    "exif": {
+      "date": "2026-06-20",
+      "camera": "NIKON Z 9",
+      "lens": "VR 24-70mm f/2.8E",
+      "focalLength": "70 mm",
+      "aperture": "f/4.5",
+      "shutterSpeed": "1/1250 s",
+      "iso": 1100
     }
   },
   {
