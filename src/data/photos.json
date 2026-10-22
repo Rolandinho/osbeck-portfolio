@@ -476,6 +476,91 @@
     }
   },
   {
+    "filename": "basket-17.jpg",
+    "slug": "basket-17",
+    "title": "basket-17",
+    "category": "basket",
+    "featured": false,
+    "src": "/images/basket/basket-17.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "basket-4.jpg",
+    "slug": "basket-4",
+    "title": "basket-4",
+    "category": "basket",
+    "featured": false,
+    "src": "/images/basket/basket-4.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "basket-5.jpg",
+    "slug": "basket-5",
+    "title": "basket-5",
+    "category": "basket",
+    "featured": false,
+    "src": "/images/basket/basket-5.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "basket-51.jpg",
+    "slug": "basket-51",
+    "title": "basket-51",
+    "category": "basket",
+    "featured": false,
+    "src": "/images/basket/basket-51.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D500",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/3.2",
+      "shutterSpeed": "1/500 s",
+      "iso": 1250
+    }
+  },
+  {
+    "filename": "basket-55.jpg",
+    "slug": "basket-55",
+    "title": "basket-55",
+    "category": "basket",
+    "featured": false,
+    "src": "/images/basket/basket-55.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D610",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/2.8",
+      "shutterSpeed": "1/400 s",
+      "iso": 640
+    }
+  },
+  {
     "filename": "Basket-A01.jpg",
     "slug": "basket-a01",
     "title": "Basket-A01",
@@ -782,88 +867,20 @@
     }
   },
   {
-    "filename": "basket-17.jpg",
-    "slug": "basket-17",
-    "title": "basket-17",
-    "category": "basket",
+    "filename": "birds-1.jpg",
+    "slug": "birds-1",
+    "title": "birds-1",
+    "category": "birds",
     "featured": false,
-    "src": "/images/basket/basket-17.jpg",
+    "src": "/images/birds/birds-1.jpg",
     "exif": {
       "date": null,
-      "camera": null,
-      "lens": null,
-      "focalLength": null,
-      "aperture": null,
-      "shutterSpeed": null,
-      "iso": null
-    }
-  },
-  {
-    "filename": "basket-4.jpg",
-    "slug": "basket-4",
-    "title": "basket-4",
-    "category": "basket",
-    "featured": false,
-    "src": "/images/basket/basket-4.jpg",
-    "exif": {
-      "date": null,
-      "camera": null,
-      "lens": null,
-      "focalLength": null,
-      "aperture": null,
-      "shutterSpeed": null,
-      "iso": null
-    }
-  },
-  {
-    "filename": "basket-5.jpg",
-    "slug": "basket-5",
-    "title": "basket-5",
-    "category": "basket",
-    "featured": false,
-    "src": "/images/basket/basket-5.jpg",
-    "exif": {
-      "date": null,
-      "camera": null,
-      "lens": null,
-      "focalLength": null,
-      "aperture": null,
-      "shutterSpeed": null,
-      "iso": null
-    }
-  },
-  {
-    "filename": "basket-51.jpg",
-    "slug": "basket-51",
-    "title": "basket-51",
-    "category": "basket",
-    "featured": false,
-    "src": "/images/basket/basket-51.jpg",
-    "exif": {
-      "date": null,
-      "camera": "NIKON D500",
-      "lens": null,
-      "focalLength": null,
-      "aperture": "f/3.2",
-      "shutterSpeed": "1/500 s",
-      "iso": 1250
-    }
-  },
-  {
-    "filename": "basket-55.jpg",
-    "slug": "basket-55",
-    "title": "basket-55",
-    "category": "basket",
-    "featured": false,
-    "src": "/images/basket/basket-55.jpg",
-    "exif": {
-      "date": null,
-      "camera": "NIKON D610",
+      "camera": "NIKON D850",
       "lens": null,
       "focalLength": null,
       "aperture": "f/2.8",
-      "shutterSpeed": "1/400 s",
-      "iso": 640
+      "shutterSpeed": "1/1600 s",
+      "iso": 800
     }
   },
   {
@@ -932,244 +949,6 @@
       "aperture": null,
       "shutterSpeed": null,
       "iso": null
-    }
-  },
-  {
-    "filename": "Birds-88.jpg",
-    "slug": "birds-88",
-    "title": "Birds-88",
-    "category": "birds",
-    "featured": false,
-    "src": "/images/birds/Birds-88.jpg",
-    "exif": {
-      "date": null,
-      "camera": null,
-      "lens": null,
-      "focalLength": null,
-      "aperture": null,
-      "shutterSpeed": null,
-      "iso": null
-    }
-  },
-  {
-    "filename": "Birds-89.jpg",
-    "slug": "birds-89",
-    "title": "Birds-89",
-    "category": "birds",
-    "featured": false,
-    "src": "/images/birds/Birds-89.jpg",
-    "exif": {
-      "date": null,
-      "camera": null,
-      "lens": null,
-      "focalLength": null,
-      "aperture": null,
-      "shutterSpeed": null,
-      "iso": null
-    }
-  },
-  {
-    "filename": "Birds-92-extra.png",
-    "slug": "birds-92-extra",
-    "title": "Birds-92-extra",
-    "category": "birds",
-    "featured": false,
-    "src": "/images/birds/Birds-92-extra.png",
-    "exif": {
-      "date": null,
-      "camera": null,
-      "lens": null,
-      "focalLength": null,
-      "aperture": null,
-      "shutterSpeed": null,
-      "iso": null
-    }
-  },
-  {
-    "filename": "Birds-92.jpg",
-    "slug": "birds-92",
-    "title": "Birds-92",
-    "category": "birds",
-    "featured": false,
-    "src": "/images/birds/Birds-92.jpg",
-    "exif": {
-      "date": null,
-      "camera": null,
-      "lens": null,
-      "focalLength": null,
-      "aperture": null,
-      "shutterSpeed": null,
-      "iso": null
-    }
-  },
-  {
-    "filename": "Birds-93.png",
-    "slug": "birds-93",
-    "title": "Birds-93",
-    "category": "birds",
-    "featured": false,
-    "src": "/images/birds/Birds-93.png",
-    "exif": {
-      "date": null,
-      "camera": null,
-      "lens": null,
-      "focalLength": null,
-      "aperture": null,
-      "shutterSpeed": null,
-      "iso": null
-    }
-  },
-  {
-    "filename": "Birds-94.jpg",
-    "slug": "birds-94",
-    "title": "Birds-94",
-    "category": "birds",
-    "featured": false,
-    "src": "/images/birds/Birds-94.jpg",
-    "exif": {
-      "date": null,
-      "camera": "NIKON D500",
-      "lens": null,
-      "focalLength": null,
-      "aperture": "f/2.8",
-      "shutterSpeed": "1/2500 s",
-      "iso": 200
-    }
-  },
-  {
-    "filename": "Birds-95.png",
-    "slug": "birds-95",
-    "title": "Birds-95",
-    "category": "birds",
-    "featured": false,
-    "src": "/images/birds/Birds-95.png",
-    "exif": {
-      "date": null,
-      "camera": null,
-      "lens": null,
-      "focalLength": null,
-      "aperture": null,
-      "shutterSpeed": null,
-      "iso": null
-    }
-  },
-  {
-    "filename": "Birds-96.png",
-    "slug": "birds-96",
-    "title": "Birds-96",
-    "category": "birds",
-    "featured": false,
-    "src": "/images/birds/Birds-96.png",
-    "exif": {
-      "date": null,
-      "camera": null,
-      "lens": null,
-      "focalLength": null,
-      "aperture": null,
-      "shutterSpeed": null,
-      "iso": null
-    }
-  },
-  {
-    "filename": "Birds-97.png",
-    "slug": "birds-97",
-    "title": "Birds-97",
-    "category": "birds",
-    "featured": false,
-    "src": "/images/birds/Birds-97.png",
-    "exif": {
-      "date": null,
-      "camera": null,
-      "lens": null,
-      "focalLength": null,
-      "aperture": null,
-      "shutterSpeed": null,
-      "iso": null
-    }
-  },
-  {
-    "filename": "Birds-98.png",
-    "slug": "birds-98",
-    "title": "Birds-98",
-    "category": "birds",
-    "featured": false,
-    "src": "/images/birds/Birds-98.png",
-    "exif": {
-      "date": null,
-      "camera": null,
-      "lens": null,
-      "focalLength": null,
-      "aperture": null,
-      "shutterSpeed": null,
-      "iso": null
-    }
-  },
-  {
-    "filename": "Birds-99.png",
-    "slug": "birds-99",
-    "title": "Birds-99",
-    "category": "birds",
-    "featured": false,
-    "src": "/images/birds/Birds-99.png",
-    "exif": {
-      "date": null,
-      "camera": null,
-      "lens": null,
-      "focalLength": null,
-      "aperture": null,
-      "shutterSpeed": null,
-      "iso": null
-    }
-  },
-  {
-    "filename": "Gråhäger fight.jpg",
-    "slug": "gra-ha-ger-fight",
-    "title": "Gråhäger fight",
-    "category": "birds",
-    "featured": false,
-    "src": "/images/birds/Gråhäger fight.jpg",
-    "exif": {
-      "date": null,
-      "camera": "NIKON D500",
-      "lens": null,
-      "focalLength": null,
-      "aperture": "f/2.8",
-      "shutterSpeed": "1/2500 s",
-      "iso": 200
-    }
-  },
-  {
-    "filename": "Kungsfiskare.jpg",
-    "slug": "kungsfiskare",
-    "title": "Kungsfiskare",
-    "category": "birds",
-    "featured": false,
-    "src": "/images/birds/Kungsfiskare.jpg",
-    "exif": {
-      "date": null,
-      "camera": "NIKON D610",
-      "lens": null,
-      "focalLength": null,
-      "aperture": "f/6.3",
-      "shutterSpeed": "1/500 s",
-      "iso": 200
-    }
-  },
-  {
-    "filename": "birds-1.jpg",
-    "slug": "birds-1",
-    "title": "birds-1",
-    "category": "birds",
-    "featured": false,
-    "src": "/images/birds/birds-1.jpg",
-    "exif": {
-      "date": null,
-      "camera": "NIKON D850",
-      "lens": null,
-      "focalLength": null,
-      "aperture": "f/2.8",
-      "shutterSpeed": "1/1600 s",
-      "iso": 800
     }
   },
   {
@@ -1581,6 +1360,40 @@
     }
   },
   {
+    "filename": "Birds-88.jpg",
+    "slug": "birds-88",
+    "title": "Birds-88",
+    "category": "birds",
+    "featured": false,
+    "src": "/images/birds/Birds-88.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Birds-89.jpg",
+    "slug": "birds-89",
+    "title": "Birds-89",
+    "category": "birds",
+    "featured": false,
+    "src": "/images/birds/Birds-89.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
     "filename": "birds-9.jpg",
     "slug": "birds-9",
     "title": "birds-9",
@@ -1593,6 +1406,176 @@
       "lens": null,
       "focalLength": null,
       "aperture": "f/2.8",
+      "shutterSpeed": "1/500 s",
+      "iso": 200
+    }
+  },
+  {
+    "filename": "Birds-92-extra.png",
+    "slug": "birds-92-extra",
+    "title": "Birds-92-extra",
+    "category": "birds",
+    "featured": false,
+    "src": "/images/birds/Birds-92-extra.png",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Birds-92.jpg",
+    "slug": "birds-92",
+    "title": "Birds-92",
+    "category": "birds",
+    "featured": false,
+    "src": "/images/birds/Birds-92.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Birds-93.png",
+    "slug": "birds-93",
+    "title": "Birds-93",
+    "category": "birds",
+    "featured": false,
+    "src": "/images/birds/Birds-93.png",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Birds-94.jpg",
+    "slug": "birds-94",
+    "title": "Birds-94",
+    "category": "birds",
+    "featured": false,
+    "src": "/images/birds/Birds-94.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D500",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/2.8",
+      "shutterSpeed": "1/2500 s",
+      "iso": 200
+    }
+  },
+  {
+    "filename": "Birds-95.png",
+    "slug": "birds-95",
+    "title": "Birds-95",
+    "category": "birds",
+    "featured": false,
+    "src": "/images/birds/Birds-95.png",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Birds-96.png",
+    "slug": "birds-96",
+    "title": "Birds-96",
+    "category": "birds",
+    "featured": false,
+    "src": "/images/birds/Birds-96.png",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Birds-97.png",
+    "slug": "birds-97",
+    "title": "Birds-97",
+    "category": "birds",
+    "featured": false,
+    "src": "/images/birds/Birds-97.png",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Birds-98.png",
+    "slug": "birds-98",
+    "title": "Birds-98",
+    "category": "birds",
+    "featured": false,
+    "src": "/images/birds/Birds-98.png",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Birds-99.png",
+    "slug": "birds-99",
+    "title": "Birds-99",
+    "category": "birds",
+    "featured": false,
+    "src": "/images/birds/Birds-99.png",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Kungsfiskare.jpg",
+    "slug": "kungsfiskare",
+    "title": "Kungsfiskare",
+    "category": "birds",
+    "featured": false,
+    "src": "/images/birds/Kungsfiskare.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D610",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/6.3",
       "shutterSpeed": "1/500 s",
       "iso": 200
     }
@@ -1672,91 +1655,6 @@
     "category": "brollop",
     "featured": false,
     "src": "/images/brollop/Romantisk brudporträtt med blombukett.png",
-    "exif": {
-      "date": null,
-      "camera": null,
-      "lens": null,
-      "focalLength": null,
-      "aperture": null,
-      "shutterSpeed": null,
-      "iso": null
-    }
-  },
-  {
-    "filename": "Wedding-84.png",
-    "slug": "wedding-84",
-    "title": "Wedding-84",
-    "category": "brollop",
-    "featured": false,
-    "src": "/images/brollop/Wedding-84.png",
-    "exif": {
-      "date": null,
-      "camera": null,
-      "lens": null,
-      "focalLength": null,
-      "aperture": null,
-      "shutterSpeed": null,
-      "iso": null
-    }
-  },
-  {
-    "filename": "Wedding-85.png",
-    "slug": "wedding-85",
-    "title": "Wedding-85",
-    "category": "brollop",
-    "featured": false,
-    "src": "/images/brollop/Wedding-85.png",
-    "exif": {
-      "date": null,
-      "camera": null,
-      "lens": null,
-      "focalLength": null,
-      "aperture": null,
-      "shutterSpeed": null,
-      "iso": null
-    }
-  },
-  {
-    "filename": "Wedding-86.png",
-    "slug": "wedding-86",
-    "title": "Wedding-86",
-    "category": "brollop",
-    "featured": false,
-    "src": "/images/brollop/Wedding-86.png",
-    "exif": {
-      "date": null,
-      "camera": null,
-      "lens": null,
-      "focalLength": null,
-      "aperture": null,
-      "shutterSpeed": null,
-      "iso": null
-    }
-  },
-  {
-    "filename": "Wedding-87.png",
-    "slug": "wedding-87",
-    "title": "Wedding-87",
-    "category": "brollop",
-    "featured": false,
-    "src": "/images/brollop/Wedding-87.png",
-    "exif": {
-      "date": null,
-      "camera": null,
-      "lens": null,
-      "focalLength": null,
-      "aperture": null,
-      "shutterSpeed": null,
-      "iso": null
-    }
-  },
-  {
-    "filename": "Wedding-88.png",
-    "slug": "wedding-88",
-    "title": "Wedding-88",
-    "category": "brollop",
-    "featured": false,
-    "src": "/images/brollop/Wedding-88.png",
     "exif": {
       "date": null,
       "camera": null,
@@ -2380,6 +2278,91 @@
     }
   },
   {
+    "filename": "Wedding-84.png",
+    "slug": "wedding-84",
+    "title": "Wedding-84",
+    "category": "brollop",
+    "featured": false,
+    "src": "/images/brollop/Wedding-84.png",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Wedding-85.png",
+    "slug": "wedding-85",
+    "title": "Wedding-85",
+    "category": "brollop",
+    "featured": false,
+    "src": "/images/brollop/Wedding-85.png",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Wedding-86.png",
+    "slug": "wedding-86",
+    "title": "Wedding-86",
+    "category": "brollop",
+    "featured": false,
+    "src": "/images/brollop/Wedding-86.png",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Wedding-87.png",
+    "slug": "wedding-87",
+    "title": "Wedding-87",
+    "category": "brollop",
+    "featured": false,
+    "src": "/images/brollop/Wedding-87.png",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Wedding-88.png",
+    "slug": "wedding-88",
+    "title": "Wedding-88",
+    "category": "brollop",
+    "featured": false,
+    "src": "/images/brollop/Wedding-88.png",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
     "filename": "wedding-9.jpg",
     "slug": "wedding-9",
     "title": "wedding-9",
@@ -2649,91 +2632,6 @@
       "aperture": "f/3.5",
       "shutterSpeed": "1/20 s",
       "iso": 360
-    }
-  },
-  {
-    "filename": "Fotboll-A01.jpg",
-    "slug": "fotboll-a01",
-    "title": "Fotboll-A01",
-    "category": "fotboll",
-    "featured": false,
-    "src": "/images/fotboll/Fotboll-A01.jpg",
-    "exif": {
-      "date": null,
-      "camera": null,
-      "lens": null,
-      "focalLength": null,
-      "aperture": null,
-      "shutterSpeed": null,
-      "iso": null
-    }
-  },
-  {
-    "filename": "Fotboll-A012.jpg",
-    "slug": "fotboll-a012",
-    "title": "Fotboll-A012",
-    "category": "fotboll",
-    "featured": false,
-    "src": "/images/fotboll/Fotboll-A012.jpg",
-    "exif": {
-      "date": null,
-      "camera": null,
-      "lens": null,
-      "focalLength": null,
-      "aperture": null,
-      "shutterSpeed": null,
-      "iso": null
-    }
-  },
-  {
-    "filename": "Fotboll-B05.png",
-    "slug": "fotboll-b05",
-    "title": "Fotboll-B05",
-    "category": "fotboll",
-    "featured": false,
-    "src": "/images/fotboll/Fotboll-B05.png",
-    "exif": {
-      "date": null,
-      "camera": null,
-      "lens": null,
-      "focalLength": null,
-      "aperture": null,
-      "shutterSpeed": null,
-      "iso": null
-    }
-  },
-  {
-    "filename": "Simone Boye Sørensen.jpg",
-    "slug": "simone-boye-s-rensen",
-    "title": "Simone Boye Sørensen",
-    "category": "fotboll",
-    "featured": false,
-    "src": "/images/fotboll/Simone Boye Sørensen.jpg",
-    "exif": {
-      "date": null,
-      "camera": null,
-      "lens": null,
-      "focalLength": null,
-      "aperture": null,
-      "shutterSpeed": null,
-      "iso": null
-    }
-  },
-  {
-    "filename": "Sveriges-15.png",
-    "slug": "sveriges-15",
-    "title": "Sveriges-15",
-    "category": "fotboll",
-    "featured": false,
-    "src": "/images/fotboll/Sveriges-15.png",
-    "exif": {
-      "date": null,
-      "camera": null,
-      "lens": null,
-      "focalLength": null,
-      "aperture": null,
-      "shutterSpeed": null,
-      "iso": null
     }
   },
   {
@@ -3162,12 +3060,97 @@
     }
   },
   {
+    "filename": "Fotboll-A01.jpg",
+    "slug": "fotboll-a01",
+    "title": "Fotboll-A01",
+    "category": "fotboll",
+    "featured": false,
+    "src": "/images/fotboll/Fotboll-A01.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Fotboll-A012.jpg",
+    "slug": "fotboll-a012",
+    "title": "Fotboll-A012",
+    "category": "fotboll",
+    "featured": false,
+    "src": "/images/fotboll/Fotboll-A012.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
     "filename": "fotboll-B01.jpg",
     "slug": "fotboll-b01",
     "title": "fotboll-B01",
     "category": "fotboll",
     "featured": false,
     "src": "/images/fotboll/fotboll-B01.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Fotboll-B05.png",
+    "slug": "fotboll-b05",
+    "title": "Fotboll-B05",
+    "category": "fotboll",
+    "featured": false,
+    "src": "/images/fotboll/Fotboll-B05.png",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Simone Boye Sørensen.jpg",
+    "slug": "simone-boye-s-rensen",
+    "title": "Simone Boye Sørensen",
+    "category": "fotboll",
+    "featured": false,
+    "src": "/images/fotboll/Simone Boye Sørensen.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Sveriges-15.png",
+    "slug": "sveriges-15",
+    "title": "Sveriges-15",
+    "category": "fotboll",
+    "featured": false,
+    "src": "/images/fotboll/Sveriges-15.png",
     "exif": {
       "date": null,
       "camera": null,
@@ -3210,6 +3193,346 @@
       "aperture": "f/2.8",
       "shutterSpeed": "1/640 s",
       "iso": 2000
+    }
+  },
+  {
+    "filename": "innebandy-12.jpg",
+    "slug": "innebandy-12",
+    "title": "innebandy-12",
+    "category": "innebandy",
+    "featured": false,
+    "src": "/images/innebandy/innebandy-12.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D500",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/2.8",
+      "shutterSpeed": "1/640 s",
+      "iso": 2000
+    }
+  },
+  {
+    "filename": "innebandy-14.jpg",
+    "slug": "innebandy-14",
+    "title": "innebandy-14",
+    "category": "innebandy",
+    "featured": false,
+    "src": "/images/innebandy/innebandy-14.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D500",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/2.8",
+      "shutterSpeed": "1/640 s",
+      "iso": 2000
+    }
+  },
+  {
+    "filename": "innebandy-16.jpg",
+    "slug": "innebandy-16",
+    "title": "innebandy-16",
+    "category": "innebandy",
+    "featured": false,
+    "src": "/images/innebandy/innebandy-16.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D500",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/2.8",
+      "shutterSpeed": "1/640 s",
+      "iso": 3200
+    }
+  },
+  {
+    "filename": "innebandy-18.jpg",
+    "slug": "innebandy-18",
+    "title": "innebandy-18",
+    "category": "innebandy",
+    "featured": false,
+    "src": "/images/innebandy/innebandy-18.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D500",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/2.8",
+      "shutterSpeed": "1/640 s",
+      "iso": 3200
+    }
+  },
+  {
+    "filename": "innebandy-22.jpg",
+    "slug": "innebandy-22",
+    "title": "innebandy-22",
+    "category": "innebandy",
+    "featured": false,
+    "src": "/images/innebandy/innebandy-22.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "innebandy-25.jpg",
+    "slug": "innebandy-25",
+    "title": "innebandy-25",
+    "category": "innebandy",
+    "featured": false,
+    "src": "/images/innebandy/innebandy-25.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D500",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/2.8",
+      "shutterSpeed": "1/640 s",
+      "iso": 2000
+    }
+  },
+  {
+    "filename": "innebandy-29.jpg",
+    "slug": "innebandy-29",
+    "title": "innebandy-29",
+    "category": "innebandy",
+    "featured": false,
+    "src": "/images/innebandy/innebandy-29.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D610",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/2.8",
+      "shutterSpeed": "1/640 s",
+      "iso": 5000
+    }
+  },
+  {
+    "filename": "innebandy-37.jpg",
+    "slug": "innebandy-37",
+    "title": "innebandy-37",
+    "category": "innebandy",
+    "featured": false,
+    "src": "/images/innebandy/innebandy-37.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D610",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/2.8",
+      "shutterSpeed": "1/1000 s",
+      "iso": 4000
+    }
+  },
+  {
+    "filename": "innebandy-39.jpg",
+    "slug": "innebandy-39",
+    "title": "innebandy-39",
+    "category": "innebandy",
+    "featured": false,
+    "src": "/images/innebandy/innebandy-39.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D610",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/2.8",
+      "shutterSpeed": "1/800 s",
+      "iso": 4500
+    }
+  },
+  {
+    "filename": "innebandy-43.jpg",
+    "slug": "innebandy-43",
+    "title": "innebandy-43",
+    "category": "innebandy",
+    "featured": false,
+    "src": "/images/innebandy/innebandy-43.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "innebandy-48.jpg",
+    "slug": "innebandy-48",
+    "title": "innebandy-48",
+    "category": "innebandy",
+    "featured": false,
+    "src": "/images/innebandy/innebandy-48.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D850",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/2.8",
+      "shutterSpeed": "1/640 s",
+      "iso": 2000
+    }
+  },
+  {
+    "filename": "innebandy-50.jpg",
+    "slug": "innebandy-50",
+    "title": "innebandy-50",
+    "category": "innebandy",
+    "featured": false,
+    "src": "/images/innebandy/innebandy-50.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D850",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/2.8",
+      "shutterSpeed": "1/640 s",
+      "iso": 2000
+    }
+  },
+  {
+    "filename": "innebandy-52.jpg",
+    "slug": "innebandy-52",
+    "title": "innebandy-52",
+    "category": "innebandy",
+    "featured": false,
+    "src": "/images/innebandy/innebandy-52.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D850",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/2.8",
+      "shutterSpeed": "1/640 s",
+      "iso": 2000
+    }
+  },
+  {
+    "filename": "innebandy-54.jpg",
+    "slug": "innebandy-54",
+    "title": "innebandy-54",
+    "category": "innebandy",
+    "featured": false,
+    "src": "/images/innebandy/innebandy-54.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D850",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/2.8",
+      "shutterSpeed": "1/640 s",
+      "iso": 2000
+    }
+  },
+  {
+    "filename": "innebandy-6.jpg",
+    "slug": "innebandy-6",
+    "title": "innebandy-6",
+    "category": "innebandy",
+    "featured": false,
+    "src": "/images/innebandy/innebandy-6.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "innebandy-60.jpg",
+    "slug": "innebandy-60",
+    "title": "innebandy-60",
+    "category": "innebandy",
+    "featured": false,
+    "src": "/images/innebandy/innebandy-60.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D850",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/2.8",
+      "shutterSpeed": "1/640 s",
+      "iso": 2000
+    }
+  },
+  {
+    "filename": "innebandy-62.jpg",
+    "slug": "innebandy-62",
+    "title": "innebandy-62",
+    "category": "innebandy",
+    "featured": false,
+    "src": "/images/innebandy/innebandy-62.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D800",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/2.8",
+      "shutterSpeed": "1/400 s",
+      "iso": 800
+    }
+  },
+  {
+    "filename": "innebandy-64.jpg",
+    "slug": "innebandy-64",
+    "title": "innebandy-64",
+    "category": "innebandy",
+    "featured": false,
+    "src": "/images/innebandy/innebandy-64.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D800",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/2.8",
+      "shutterSpeed": "1/320 s",
+      "iso": 640
+    }
+  },
+  {
+    "filename": "innebandy-66.jpg",
+    "slug": "innebandy-66",
+    "title": "innebandy-66",
+    "category": "innebandy",
+    "featured": false,
+    "src": "/images/innebandy/innebandy-66.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "innebandy-69.png",
+    "slug": "innebandy-69",
+    "title": "innebandy-69",
+    "category": "innebandy",
+    "featured": false,
+    "src": "/images/innebandy/innebandy-69.png",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
     }
   },
   {
@@ -3644,346 +3967,6 @@
     "category": "innebandy",
     "featured": false,
     "src": "/images/innebandy/Valdemar Ahlrot.jpg",
-    "exif": {
-      "date": null,
-      "camera": null,
-      "lens": null,
-      "focalLength": null,
-      "aperture": null,
-      "shutterSpeed": null,
-      "iso": null
-    }
-  },
-  {
-    "filename": "innebandy-12.jpg",
-    "slug": "innebandy-12",
-    "title": "innebandy-12",
-    "category": "innebandy",
-    "featured": false,
-    "src": "/images/innebandy/innebandy-12.jpg",
-    "exif": {
-      "date": null,
-      "camera": "NIKON D500",
-      "lens": null,
-      "focalLength": null,
-      "aperture": "f/2.8",
-      "shutterSpeed": "1/640 s",
-      "iso": 2000
-    }
-  },
-  {
-    "filename": "innebandy-14.jpg",
-    "slug": "innebandy-14",
-    "title": "innebandy-14",
-    "category": "innebandy",
-    "featured": false,
-    "src": "/images/innebandy/innebandy-14.jpg",
-    "exif": {
-      "date": null,
-      "camera": "NIKON D500",
-      "lens": null,
-      "focalLength": null,
-      "aperture": "f/2.8",
-      "shutterSpeed": "1/640 s",
-      "iso": 2000
-    }
-  },
-  {
-    "filename": "innebandy-16.jpg",
-    "slug": "innebandy-16",
-    "title": "innebandy-16",
-    "category": "innebandy",
-    "featured": false,
-    "src": "/images/innebandy/innebandy-16.jpg",
-    "exif": {
-      "date": null,
-      "camera": "NIKON D500",
-      "lens": null,
-      "focalLength": null,
-      "aperture": "f/2.8",
-      "shutterSpeed": "1/640 s",
-      "iso": 3200
-    }
-  },
-  {
-    "filename": "innebandy-18.jpg",
-    "slug": "innebandy-18",
-    "title": "innebandy-18",
-    "category": "innebandy",
-    "featured": false,
-    "src": "/images/innebandy/innebandy-18.jpg",
-    "exif": {
-      "date": null,
-      "camera": "NIKON D500",
-      "lens": null,
-      "focalLength": null,
-      "aperture": "f/2.8",
-      "shutterSpeed": "1/640 s",
-      "iso": 3200
-    }
-  },
-  {
-    "filename": "innebandy-22.jpg",
-    "slug": "innebandy-22",
-    "title": "innebandy-22",
-    "category": "innebandy",
-    "featured": false,
-    "src": "/images/innebandy/innebandy-22.jpg",
-    "exif": {
-      "date": null,
-      "camera": null,
-      "lens": null,
-      "focalLength": null,
-      "aperture": null,
-      "shutterSpeed": null,
-      "iso": null
-    }
-  },
-  {
-    "filename": "innebandy-25.jpg",
-    "slug": "innebandy-25",
-    "title": "innebandy-25",
-    "category": "innebandy",
-    "featured": false,
-    "src": "/images/innebandy/innebandy-25.jpg",
-    "exif": {
-      "date": null,
-      "camera": "NIKON D500",
-      "lens": null,
-      "focalLength": null,
-      "aperture": "f/2.8",
-      "shutterSpeed": "1/640 s",
-      "iso": 2000
-    }
-  },
-  {
-    "filename": "innebandy-29.jpg",
-    "slug": "innebandy-29",
-    "title": "innebandy-29",
-    "category": "innebandy",
-    "featured": false,
-    "src": "/images/innebandy/innebandy-29.jpg",
-    "exif": {
-      "date": null,
-      "camera": "NIKON D610",
-      "lens": null,
-      "focalLength": null,
-      "aperture": "f/2.8",
-      "shutterSpeed": "1/640 s",
-      "iso": 5000
-    }
-  },
-  {
-    "filename": "innebandy-37.jpg",
-    "slug": "innebandy-37",
-    "title": "innebandy-37",
-    "category": "innebandy",
-    "featured": false,
-    "src": "/images/innebandy/innebandy-37.jpg",
-    "exif": {
-      "date": null,
-      "camera": "NIKON D610",
-      "lens": null,
-      "focalLength": null,
-      "aperture": "f/2.8",
-      "shutterSpeed": "1/1000 s",
-      "iso": 4000
-    }
-  },
-  {
-    "filename": "innebandy-39.jpg",
-    "slug": "innebandy-39",
-    "title": "innebandy-39",
-    "category": "innebandy",
-    "featured": false,
-    "src": "/images/innebandy/innebandy-39.jpg",
-    "exif": {
-      "date": null,
-      "camera": "NIKON D610",
-      "lens": null,
-      "focalLength": null,
-      "aperture": "f/2.8",
-      "shutterSpeed": "1/800 s",
-      "iso": 4500
-    }
-  },
-  {
-    "filename": "innebandy-43.jpg",
-    "slug": "innebandy-43",
-    "title": "innebandy-43",
-    "category": "innebandy",
-    "featured": false,
-    "src": "/images/innebandy/innebandy-43.jpg",
-    "exif": {
-      "date": null,
-      "camera": null,
-      "lens": null,
-      "focalLength": null,
-      "aperture": null,
-      "shutterSpeed": null,
-      "iso": null
-    }
-  },
-  {
-    "filename": "innebandy-48.jpg",
-    "slug": "innebandy-48",
-    "title": "innebandy-48",
-    "category": "innebandy",
-    "featured": false,
-    "src": "/images/innebandy/innebandy-48.jpg",
-    "exif": {
-      "date": null,
-      "camera": "NIKON D850",
-      "lens": null,
-      "focalLength": null,
-      "aperture": "f/2.8",
-      "shutterSpeed": "1/640 s",
-      "iso": 2000
-    }
-  },
-  {
-    "filename": "innebandy-50.jpg",
-    "slug": "innebandy-50",
-    "title": "innebandy-50",
-    "category": "innebandy",
-    "featured": false,
-    "src": "/images/innebandy/innebandy-50.jpg",
-    "exif": {
-      "date": null,
-      "camera": "NIKON D850",
-      "lens": null,
-      "focalLength": null,
-      "aperture": "f/2.8",
-      "shutterSpeed": "1/640 s",
-      "iso": 2000
-    }
-  },
-  {
-    "filename": "innebandy-52.jpg",
-    "slug": "innebandy-52",
-    "title": "innebandy-52",
-    "category": "innebandy",
-    "featured": false,
-    "src": "/images/innebandy/innebandy-52.jpg",
-    "exif": {
-      "date": null,
-      "camera": "NIKON D850",
-      "lens": null,
-      "focalLength": null,
-      "aperture": "f/2.8",
-      "shutterSpeed": "1/640 s",
-      "iso": 2000
-    }
-  },
-  {
-    "filename": "innebandy-54.jpg",
-    "slug": "innebandy-54",
-    "title": "innebandy-54",
-    "category": "innebandy",
-    "featured": false,
-    "src": "/images/innebandy/innebandy-54.jpg",
-    "exif": {
-      "date": null,
-      "camera": "NIKON D850",
-      "lens": null,
-      "focalLength": null,
-      "aperture": "f/2.8",
-      "shutterSpeed": "1/640 s",
-      "iso": 2000
-    }
-  },
-  {
-    "filename": "innebandy-6.jpg",
-    "slug": "innebandy-6",
-    "title": "innebandy-6",
-    "category": "innebandy",
-    "featured": false,
-    "src": "/images/innebandy/innebandy-6.jpg",
-    "exif": {
-      "date": null,
-      "camera": null,
-      "lens": null,
-      "focalLength": null,
-      "aperture": null,
-      "shutterSpeed": null,
-      "iso": null
-    }
-  },
-  {
-    "filename": "innebandy-60.jpg",
-    "slug": "innebandy-60",
-    "title": "innebandy-60",
-    "category": "innebandy",
-    "featured": false,
-    "src": "/images/innebandy/innebandy-60.jpg",
-    "exif": {
-      "date": null,
-      "camera": "NIKON D850",
-      "lens": null,
-      "focalLength": null,
-      "aperture": "f/2.8",
-      "shutterSpeed": "1/640 s",
-      "iso": 2000
-    }
-  },
-  {
-    "filename": "innebandy-62.jpg",
-    "slug": "innebandy-62",
-    "title": "innebandy-62",
-    "category": "innebandy",
-    "featured": false,
-    "src": "/images/innebandy/innebandy-62.jpg",
-    "exif": {
-      "date": null,
-      "camera": "NIKON D800",
-      "lens": null,
-      "focalLength": null,
-      "aperture": "f/2.8",
-      "shutterSpeed": "1/400 s",
-      "iso": 800
-    }
-  },
-  {
-    "filename": "innebandy-64.jpg",
-    "slug": "innebandy-64",
-    "title": "innebandy-64",
-    "category": "innebandy",
-    "featured": false,
-    "src": "/images/innebandy/innebandy-64.jpg",
-    "exif": {
-      "date": null,
-      "camera": "NIKON D800",
-      "lens": null,
-      "focalLength": null,
-      "aperture": "f/2.8",
-      "shutterSpeed": "1/320 s",
-      "iso": 640
-    }
-  },
-  {
-    "filename": "innebandy-66.jpg",
-    "slug": "innebandy-66",
-    "title": "innebandy-66",
-    "category": "innebandy",
-    "featured": false,
-    "src": "/images/innebandy/innebandy-66.jpg",
-    "exif": {
-      "date": null,
-      "camera": null,
-      "lens": null,
-      "focalLength": null,
-      "aperture": null,
-      "shutterSpeed": null,
-      "iso": null
-    }
-  },
-  {
-    "filename": "innebandy-69.png",
-    "slug": "innebandy-69",
-    "title": "innebandy-69",
-    "category": "innebandy",
-    "featured": false,
-    "src": "/images/innebandy/innebandy-69.png",
     "exif": {
       "date": null,
       "camera": null,
@@ -4485,142 +4468,6 @@
       "aperture": "f/4.5",
       "shutterSpeed": "1/1250 s",
       "iso": 6400
-    }
-  },
-  {
-    "filename": "PRide-252.jpg",
-    "slug": "pride-252",
-    "title": "PRide-252",
-    "category": "pride",
-    "featured": false,
-    "src": "/images/pride/PRide-252.jpg",
-    "exif": {
-      "date": null,
-      "camera": null,
-      "lens": null,
-      "focalLength": null,
-      "aperture": null,
-      "shutterSpeed": null,
-      "iso": null
-    }
-  },
-  {
-    "filename": "Pride-244.jpg",
-    "slug": "pride-244",
-    "title": "Pride-244",
-    "category": "pride",
-    "featured": false,
-    "src": "/images/pride/Pride-244.jpg",
-    "exif": {
-      "date": null,
-      "camera": null,
-      "lens": null,
-      "focalLength": null,
-      "aperture": null,
-      "shutterSpeed": null,
-      "iso": null
-    }
-  },
-  {
-    "filename": "Pride-245.jpg",
-    "slug": "pride-245",
-    "title": "Pride-245",
-    "category": "pride",
-    "featured": false,
-    "src": "/images/pride/Pride-245.jpg",
-    "exif": {
-      "date": null,
-      "camera": null,
-      "lens": null,
-      "focalLength": null,
-      "aperture": null,
-      "shutterSpeed": null,
-      "iso": null
-    }
-  },
-  {
-    "filename": "Pride-246.jpg",
-    "slug": "pride-246",
-    "title": "Pride-246",
-    "category": "pride",
-    "featured": false,
-    "src": "/images/pride/Pride-246.jpg",
-    "exif": {
-      "date": null,
-      "camera": null,
-      "lens": null,
-      "focalLength": null,
-      "aperture": null,
-      "shutterSpeed": null,
-      "iso": null
-    }
-  },
-  {
-    "filename": "Pride-247.jpg",
-    "slug": "pride-247",
-    "title": "Pride-247",
-    "category": "pride",
-    "featured": false,
-    "src": "/images/pride/Pride-247.jpg",
-    "exif": {
-      "date": null,
-      "camera": null,
-      "lens": null,
-      "focalLength": null,
-      "aperture": null,
-      "shutterSpeed": null,
-      "iso": null
-    }
-  },
-  {
-    "filename": "Pride-248.jpg",
-    "slug": "pride-248",
-    "title": "Pride-248",
-    "category": "pride",
-    "featured": false,
-    "src": "/images/pride/Pride-248.jpg",
-    "exif": {
-      "date": null,
-      "camera": null,
-      "lens": null,
-      "focalLength": null,
-      "aperture": null,
-      "shutterSpeed": null,
-      "iso": null
-    }
-  },
-  {
-    "filename": "Pride-249.jpg",
-    "slug": "pride-249",
-    "title": "Pride-249",
-    "category": "pride",
-    "featured": false,
-    "src": "/images/pride/Pride-249.jpg",
-    "exif": {
-      "date": null,
-      "camera": null,
-      "lens": null,
-      "focalLength": null,
-      "aperture": null,
-      "shutterSpeed": null,
-      "iso": null
-    }
-  },
-  {
-    "filename": "Pride-251.jpg",
-    "slug": "pride-251",
-    "title": "Pride-251",
-    "category": "pride",
-    "featured": false,
-    "src": "/images/pride/Pride-251.jpg",
-    "exif": {
-      "date": null,
-      "camera": null,
-      "lens": null,
-      "focalLength": null,
-      "aperture": null,
-      "shutterSpeed": null,
-      "iso": null
     }
   },
   {
@@ -5389,12 +5236,148 @@
     }
   },
   {
+    "filename": "Pride-244.jpg",
+    "slug": "pride-244",
+    "title": "Pride-244",
+    "category": "pride",
+    "featured": false,
+    "src": "/images/pride/Pride-244.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Pride-245.jpg",
+    "slug": "pride-245",
+    "title": "Pride-245",
+    "category": "pride",
+    "featured": false,
+    "src": "/images/pride/Pride-245.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Pride-246.jpg",
+    "slug": "pride-246",
+    "title": "Pride-246",
+    "category": "pride",
+    "featured": false,
+    "src": "/images/pride/Pride-246.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Pride-247.jpg",
+    "slug": "pride-247",
+    "title": "Pride-247",
+    "category": "pride",
+    "featured": false,
+    "src": "/images/pride/Pride-247.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Pride-248.jpg",
+    "slug": "pride-248",
+    "title": "Pride-248",
+    "category": "pride",
+    "featured": false,
+    "src": "/images/pride/Pride-248.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Pride-249.jpg",
+    "slug": "pride-249",
+    "title": "Pride-249",
+    "category": "pride",
+    "featured": false,
+    "src": "/images/pride/Pride-249.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
     "filename": "pride-250.jpg",
     "slug": "pride-250",
     "title": "pride-250",
     "category": "pride",
     "featured": false,
     "src": "/images/pride/pride-250.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Pride-251.jpg",
+    "slug": "pride-251",
+    "title": "Pride-251",
+    "category": "pride",
+    "featured": false,
+    "src": "/images/pride/Pride-251.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "PRide-252.jpg",
+    "slug": "pride-252",
+    "title": "PRide-252",
+    "category": "pride",
+    "featured": false,
+    "src": "/images/pride/PRide-252.jpg",
     "exif": {
       "date": null,
       "camera": null,
