@@ -969,12 +969,12 @@
     }
   },
   {
-    "filename": "Birds-92.jpg",
-    "slug": "birds-92",
-    "title": "Birds-92",
+    "filename": "Birds-92-extra.png",
+    "slug": "birds-92-extra",
+    "title": "Birds-92-extra",
     "category": "birds",
     "featured": false,
-    "src": "/images/birds/Birds-92.jpg",
+    "src": "/images/birds/Birds-92-extra.png",
     "exif": {
       "date": null,
       "camera": null,
@@ -986,12 +986,12 @@
     }
   },
   {
-    "filename": "Birds-92.png",
+    "filename": "Birds-92.jpg",
     "slug": "birds-92",
     "title": "Birds-92",
     "category": "birds",
     "featured": false,
-    "src": "/images/birds/Birds-92.png",
+    "src": "/images/birds/Birds-92.jpg",
     "exif": {
       "date": null,
       "camera": null,
@@ -3264,12 +3264,12 @@
     }
   },
   {
-    "filename": "Innebandy-A01..jpg",
-    "slug": "innebandy-a01",
-    "title": "Innebandy-A01.",
+    "filename": "Innebandy-A01-extra.jpg",
+    "slug": "innebandy-a01-extra",
+    "title": "Innebandy-A01-extra",
     "category": "innebandy",
     "featured": false,
-    "src": "/images/innebandy/Innebandy-A01..jpg",
+    "src": "/images/innebandy/Innebandy-A01-extra.jpg",
     "exif": {
       "date": null,
       "camera": null,
