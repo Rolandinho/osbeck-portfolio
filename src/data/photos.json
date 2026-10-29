@@ -85,91 +85,6 @@
     }
   },
   {
-    "filename": "alpint-11.jpg",
-    "slug": "alpint-11",
-    "title": "alpint-11",
-    "category": "alpint",
-    "featured": false,
-    "src": "/images/alpint/alpint-11.jpg",
-    "exif": {
-      "date": null,
-      "camera": "NIKON D500",
-      "lens": null,
-      "focalLength": null,
-      "aperture": "f/8",
-      "shutterSpeed": "1/500 s",
-      "iso": 500
-    }
-  },
-  {
-    "filename": "alpint-13.jpg",
-    "slug": "alpint-13",
-    "title": "alpint-13",
-    "category": "alpint",
-    "featured": false,
-    "src": "/images/alpint/alpint-13.jpg",
-    "exif": {
-      "date": null,
-      "camera": "NIKON D500",
-      "lens": null,
-      "focalLength": null,
-      "aperture": "f/6.3",
-      "shutterSpeed": "1/500 s",
-      "iso": 500
-    }
-  },
-  {
-    "filename": "alpint-15.jpg",
-    "slug": "alpint-15",
-    "title": "alpint-15",
-    "category": "alpint",
-    "featured": false,
-    "src": "/images/alpint/alpint-15.jpg",
-    "exif": {
-      "date": null,
-      "camera": "NIKON D500",
-      "lens": null,
-      "focalLength": null,
-      "aperture": "f/2.8",
-      "shutterSpeed": "1/500 s",
-      "iso": 1000
-    }
-  },
-  {
-    "filename": "alpint-17.jpg",
-    "slug": "alpint-17",
-    "title": "alpint-17",
-    "category": "alpint",
-    "featured": false,
-    "src": "/images/alpint/alpint-17.jpg",
-    "exif": {
-      "date": null,
-      "camera": "NIKON D500",
-      "lens": null,
-      "focalLength": null,
-      "aperture": "f/3.2",
-      "shutterSpeed": "1/800 s",
-      "iso": 1600
-    }
-  },
-  {
-    "filename": "alpint-19.jpg",
-    "slug": "alpint-19",
-    "title": "alpint-19",
-    "category": "alpint",
-    "featured": false,
-    "src": "/images/alpint/alpint-19.jpg",
-    "exif": {
-      "date": null,
-      "camera": "NIKON D500",
-      "lens": null,
-      "focalLength": null,
-      "aperture": "f/3.2",
-      "shutterSpeed": "1/1000 s",
-      "iso": 1600
-    }
-  },
-  {
     "filename": "alpint-2.jpg",
     "slug": "alpint-2",
     "title": "alpint-2",
@@ -184,125 +99,6 @@
       "aperture": "f/4",
       "shutterSpeed": "1/250 s",
       "iso": 800
-    }
-  },
-  {
-    "filename": "alpint-21.jpg",
-    "slug": "alpint-21",
-    "title": "alpint-21",
-    "category": "alpint",
-    "featured": false,
-    "src": "/images/alpint/alpint-21.jpg",
-    "exif": {
-      "date": null,
-      "camera": "NIKON D500",
-      "lens": null,
-      "focalLength": null,
-      "aperture": "f/3.2",
-      "shutterSpeed": "1/1000 s",
-      "iso": 3200
-    }
-  },
-  {
-    "filename": "alpint-23.jpg",
-    "slug": "alpint-23",
-    "title": "alpint-23",
-    "category": "alpint",
-    "featured": false,
-    "src": "/images/alpint/alpint-23.jpg",
-    "exif": {
-      "date": null,
-      "camera": "NIKON D500",
-      "lens": null,
-      "focalLength": null,
-      "aperture": "f/3.2",
-      "shutterSpeed": "1/1000 s",
-      "iso": 3200
-    }
-  },
-  {
-    "filename": "alpint-25.jpg",
-    "slug": "alpint-25",
-    "title": "alpint-25",
-    "category": "alpint",
-    "featured": false,
-    "src": "/images/alpint/alpint-25.jpg",
-    "exif": {
-      "date": null,
-      "camera": "NIKON D500",
-      "lens": null,
-      "focalLength": null,
-      "aperture": "f/3.2",
-      "shutterSpeed": "1/1000 s",
-      "iso": 2000
-    }
-  },
-  {
-    "filename": "alpint-27.jpg",
-    "slug": "alpint-27",
-    "title": "alpint-27",
-    "category": "alpint",
-    "featured": false,
-    "src": "/images/alpint/alpint-27.jpg",
-    "exif": {
-      "date": null,
-      "camera": "NIKON D500",
-      "lens": null,
-      "focalLength": null,
-      "aperture": "f/3.2",
-      "shutterSpeed": "1/1000 s",
-      "iso": 3200
-    }
-  },
-  {
-    "filename": "alpint-29.jpg",
-    "slug": "alpint-29",
-    "title": "alpint-29",
-    "category": "alpint",
-    "featured": false,
-    "src": "/images/alpint/alpint-29.jpg",
-    "exif": {
-      "date": null,
-      "camera": "NIKON D500",
-      "lens": null,
-      "focalLength": null,
-      "aperture": "f/3.2",
-      "shutterSpeed": "1/1000 s",
-      "iso": 2200
-    }
-  },
-  {
-    "filename": "alpint-31.jpg",
-    "slug": "alpint-31",
-    "title": "alpint-31",
-    "category": "alpint",
-    "featured": false,
-    "src": "/images/alpint/alpint-31.jpg",
-    "exif": {
-      "date": null,
-      "camera": "NIKON D500",
-      "lens": null,
-      "focalLength": null,
-      "aperture": "f/3.2",
-      "shutterSpeed": "1/1000 s",
-      "iso": 1600
-    }
-  },
-  {
-    "filename": "alpint-33.jpg",
-    "slug": "alpint-33",
-    "title": "alpint-33",
-    "category": "alpint",
-    "featured": false,
-    "src": "/images/alpint/alpint-33.jpg",
-    "exif": {
-      "date": null,
-      "camera": "NIKON D500",
-      "lens": null,
-      "focalLength": null,
-      "aperture": "f/3.2",
-      "shutterSpeed": "1/1000 s",
-      "iso": 1100
     }
   },
   {
@@ -323,40 +119,6 @@
     }
   },
   {
-    "filename": "alpint-37.jpg",
-    "slug": "alpint-37",
-    "title": "alpint-37",
-    "category": "alpint",
-    "featured": false,
-    "src": "/images/alpint/alpint-37.jpg",
-    "exif": {
-      "date": null,
-      "camera": "NIKON D500",
-      "lens": null,
-      "focalLength": null,
-      "aperture": "f/3.2",
-      "shutterSpeed": "1/1000 s",
-      "iso": 320
-    }
-  },
-  {
-    "filename": "alpint-39.jpg",
-    "slug": "alpint-39",
-    "title": "alpint-39",
-    "category": "alpint",
-    "featured": false,
-    "src": "/images/alpint/alpint-39.jpg",
-    "exif": {
-      "date": null,
-      "camera": "NIKON D500",
-      "lens": null,
-      "focalLength": null,
-      "aperture": "f/3.2",
-      "shutterSpeed": "1/1000 s",
-      "iso": 320
-    }
-  },
-  {
     "filename": "alpint-4.jpg",
     "slug": "alpint-4",
     "title": "alpint-4",
@@ -371,57 +133,6 @@
       "aperture": "f/4",
       "shutterSpeed": "1/250 s",
       "iso": 800
-    }
-  },
-  {
-    "filename": "alpint-41.jpg",
-    "slug": "alpint-41",
-    "title": "alpint-41",
-    "category": "alpint",
-    "featured": false,
-    "src": "/images/alpint/alpint-41.jpg",
-    "exif": {
-      "date": null,
-      "camera": "NIKON D500",
-      "lens": null,
-      "focalLength": null,
-      "aperture": "f/3.2",
-      "shutterSpeed": "1/1000 s",
-      "iso": 320
-    }
-  },
-  {
-    "filename": "alpint-43.jpg",
-    "slug": "alpint-43",
-    "title": "alpint-43",
-    "category": "alpint",
-    "featured": false,
-    "src": "/images/alpint/alpint-43.jpg",
-    "exif": {
-      "date": null,
-      "camera": "NIKON D500",
-      "lens": null,
-      "focalLength": null,
-      "aperture": "f/3.2",
-      "shutterSpeed": "1/1000 s",
-      "iso": 200
-    }
-  },
-  {
-    "filename": "alpint-45.jpg",
-    "slug": "alpint-45",
-    "title": "alpint-45",
-    "category": "alpint",
-    "featured": false,
-    "src": "/images/alpint/alpint-45.jpg",
-    "exif": {
-      "date": null,
-      "camera": "NIKON D500",
-      "lens": null,
-      "focalLength": null,
-      "aperture": "f/3.2",
-      "shutterSpeed": "1/1000 s",
-      "iso": 280
     }
   },
   {
@@ -442,12 +153,97 @@
     }
   },
   {
-    "filename": "alpint-7.jpg",
-    "slug": "alpint-7",
-    "title": "alpint-7",
+    "filename": "André Myhrer.jpg",
+    "slug": "andre-myhrer",
+    "title": "André Myhrer",
     "category": "alpint",
     "featured": false,
-    "src": "/images/alpint/alpint-7.jpg",
+    "src": "/images/alpint/André Myhrer.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D500",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/3.2",
+      "shutterSpeed": "1/1000 s",
+      "iso": 280
+    }
+  },
+  {
+    "filename": "Anna Swenn-Larsson 2.jpg",
+    "slug": "anna-swenn-larsson-2",
+    "title": "Anna Swenn-Larsson 2",
+    "category": "alpint",
+    "featured": false,
+    "src": "/images/alpint/Anna Swenn-Larsson 2.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D500",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/3.2",
+      "shutterSpeed": "1/1000 s",
+      "iso": 1600
+    }
+  },
+  {
+    "filename": "Anna Swenn-Larsson.jpg",
+    "slug": "anna-swenn-larsson",
+    "title": "Anna Swenn-Larsson",
+    "category": "alpint",
+    "featured": false,
+    "src": "/images/alpint/Anna Swenn-Larsson.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D500",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/6.3",
+      "shutterSpeed": "1/500 s",
+      "iso": 500
+    }
+  },
+  {
+    "filename": "Christina Ackermann 2.jpg",
+    "slug": "christina-ackermann-2",
+    "title": "Christina Ackermann 2",
+    "category": "alpint",
+    "featured": false,
+    "src": "/images/alpint/Christina Ackermann 2.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D500",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/3.2",
+      "shutterSpeed": "1/1000 s",
+      "iso": 320
+    }
+  },
+  {
+    "filename": "Christina Ackermann 3.jpg",
+    "slug": "christina-ackermann-3",
+    "title": "Christina Ackermann 3",
+    "category": "alpint",
+    "featured": false,
+    "src": "/images/alpint/Christina Ackermann 3.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D500",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/3.2",
+      "shutterSpeed": "1/1000 s",
+      "iso": 320
+    }
+  },
+  {
+    "filename": "Christina Ackermann.jpg",
+    "slug": "christina-ackermann",
+    "title": "Christina Ackermann",
+    "category": "alpint",
+    "featured": false,
+    "src": "/images/alpint/Christina Ackermann.jpg",
     "exif": {
       "date": null,
       "camera": "NIKON D500",
@@ -459,12 +255,63 @@
     }
   },
   {
-    "filename": "alpint-9.jpg",
-    "slug": "alpint-9",
-    "title": "alpint-9",
+    "filename": "Frida Hansdotter 2.jpg",
+    "slug": "frida-hansdotter-2",
+    "title": "Frida Hansdotter 2",
     "category": "alpint",
     "featured": false,
-    "src": "/images/alpint/alpint-9.jpg",
+    "src": "/images/alpint/Frida Hansdotter 2.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D500",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/3.2",
+      "shutterSpeed": "1/1000 s",
+      "iso": 3200
+    }
+  },
+  {
+    "filename": "Frida Hansdotter.jpg",
+    "slug": "frida-hansdotter",
+    "title": "Frida Hansdotter",
+    "category": "alpint",
+    "featured": false,
+    "src": "/images/alpint/Frida Hansdotter.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D500",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/3.2",
+      "shutterSpeed": "1/1000 s",
+      "iso": 3200
+    }
+  },
+  {
+    "filename": "Marcel Hirscher 2.jpg",
+    "slug": "marcel-hirscher-2",
+    "title": "Marcel Hirscher 2",
+    "category": "alpint",
+    "featured": false,
+    "src": "/images/alpint/Marcel Hirscher 2.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D500",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/3.2",
+      "shutterSpeed": "1/800 s",
+      "iso": 1600
+    }
+  },
+  {
+    "filename": "Marcel Hirscher.jpg",
+    "slug": "marcel-hirscher",
+    "title": "Marcel Hirscher",
+    "category": "alpint",
+    "featured": false,
+    "src": "/images/alpint/Marcel Hirscher.jpg",
     "exif": {
       "date": null,
       "camera": "NIKON D500",
@@ -476,12 +323,301 @@
     }
   },
   {
-    "filename": "basket-17.jpg",
-    "slug": "basket-17",
-    "title": "basket-17",
+    "filename": "Marco Schwarz.jpg",
+    "slug": "marco-schwarz",
+    "title": "Marco Schwarz",
+    "category": "alpint",
+    "featured": false,
+    "src": "/images/alpint/Marco Schwarz.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D500",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/3.2",
+      "shutterSpeed": "1/1000 s",
+      "iso": 200
+    }
+  },
+  {
+    "filename": "Mikaela Shiffrin 2.jpg",
+    "slug": "mikaela-shiffrin-2",
+    "title": "Mikaela Shiffrin 2",
+    "category": "alpint",
+    "featured": false,
+    "src": "/images/alpint/Mikaela Shiffrin 2.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D500",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/3.2",
+      "shutterSpeed": "1/1000 s",
+      "iso": 2000
+    }
+  },
+  {
+    "filename": "Mikaela Shiffrin 3.jpg",
+    "slug": "mikaela-shiffrin-3",
+    "title": "Mikaela Shiffrin 3",
+    "category": "alpint",
+    "featured": false,
+    "src": "/images/alpint/Mikaela Shiffrin 3.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D500",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/3.2",
+      "shutterSpeed": "1/1000 s",
+      "iso": 3200
+    }
+  },
+  {
+    "filename": "Mikaela Shiffrin 4.jpg",
+    "slug": "mikaela-shiffrin-4",
+    "title": "Mikaela Shiffrin 4",
+    "category": "alpint",
+    "featured": false,
+    "src": "/images/alpint/Mikaela Shiffrin 4.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D500",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/3.2",
+      "shutterSpeed": "1/1000 s",
+      "iso": 2200
+    }
+  },
+  {
+    "filename": "Mikaela Shiffrin 5.jpg",
+    "slug": "mikaela-shiffrin-5",
+    "title": "Mikaela Shiffrin 5",
+    "category": "alpint",
+    "featured": false,
+    "src": "/images/alpint/Mikaela Shiffrin 5.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D500",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/3.2",
+      "shutterSpeed": "1/1000 s",
+      "iso": 1600
+    }
+  },
+  {
+    "filename": "Mikaela Shiffrin 6.jpg",
+    "slug": "mikaela-shiffrin-6",
+    "title": "Mikaela Shiffrin 6",
+    "category": "alpint",
+    "featured": false,
+    "src": "/images/alpint/Mikaela Shiffrin 6.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D500",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/3.2",
+      "shutterSpeed": "1/1000 s",
+      "iso": 1100
+    }
+  },
+  {
+    "filename": "Mikaela Shiffrin 7.jpg",
+    "slug": "mikaela-shiffrin-7",
+    "title": "Mikaela Shiffrin 7",
+    "category": "alpint",
+    "featured": false,
+    "src": "/images/alpint/Mikaela Shiffrin 7.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D500",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/3.2",
+      "shutterSpeed": "1/1000 s",
+      "iso": 320
+    }
+  },
+  {
+    "filename": "Mikaela Shiffrin.jpg",
+    "slug": "mikaela-shiffrin",
+    "title": "Mikaela Shiffrin",
+    "category": "alpint",
+    "featured": false,
+    "src": "/images/alpint/Mikaela Shiffrin.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D500",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/8",
+      "shutterSpeed": "1/500 s",
+      "iso": 500
+    }
+  },
+  {
+    "filename": "Petra Vlhová.jpg",
+    "slug": "petra-vlhova",
+    "title": "Petra Vlhová",
+    "category": "alpint",
+    "featured": false,
+    "src": "/images/alpint/Petra Vlhová.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D500",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/2.8",
+      "shutterSpeed": "1/500 s",
+      "iso": 1000
+    }
+  },
+  {
+    "filename": "All hands on deck.png",
+    "slug": "all-hands-on-deck",
+    "title": "All hands on deck",
     "category": "basket",
     "featured": false,
-    "src": "/images/basket/basket-17.jpg",
+    "src": "/images/basket/All hands on deck.png",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Anna i SBBK.png",
+    "slug": "anna-i-sbbk",
+    "title": "Anna i SBBK",
+    "category": "basket",
+    "featured": false,
+    "src": "/images/basket/Anna i SBBK.png",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Anna on the move.png",
+    "slug": "anna-on-the-move",
+    "title": "Anna on the move",
+    "category": "basket",
+    "featured": false,
+    "src": "/images/basket/Anna on the move.png",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Anton Gaddefors fighting spirit.png",
+    "slug": "anton-gaddefors-fighting-spirit",
+    "title": "Anton Gaddefors fighting spirit",
+    "category": "basket",
+    "featured": false,
+    "src": "/images/basket/Anton Gaddefors fighting spirit.png",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Anton Gaddefors get through.jpeg",
+    "slug": "anton-gaddefors-get-through",
+    "title": "Anton Gaddefors get through",
+    "category": "basket",
+    "featured": false,
+    "src": "/images/basket/Anton Gaddefors get through.jpeg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Anton Gaddefors in action.png",
+    "slug": "anton-gaddefors-in-action",
+    "title": "Anton Gaddefors in action",
+    "category": "basket",
+    "featured": false,
+    "src": "/images/basket/Anton Gaddefors in action.png",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Anton Gaddefors on the move.png",
+    "slug": "anton-gaddefors-on-the-move",
+    "title": "Anton Gaddefors on the move",
+    "category": "basket",
+    "featured": false,
+    "src": "/images/basket/Anton Gaddefors on the move.png",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Anton Gaddefors.jpg",
+    "slug": "anton-gaddefors",
+    "title": "Anton Gaddefors",
+    "category": "basket",
+    "featured": false,
+    "src": "/images/basket/Anton Gaddefors.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Basket pose.png",
+    "slug": "basket-pose",
+    "title": "Basket pose",
+    "category": "basket",
+    "featured": false,
+    "src": "/images/basket/Basket pose.png",
     "exif": {
       "date": null,
       "camera": null,
@@ -541,74 +677,6 @@
       "aperture": "f/3.2",
       "shutterSpeed": "1/500 s",
       "iso": 1250
-    }
-  },
-  {
-    "filename": "basket-55.jpg",
-    "slug": "basket-55",
-    "title": "basket-55",
-    "category": "basket",
-    "featured": false,
-    "src": "/images/basket/basket-55.jpg",
-    "exif": {
-      "date": null,
-      "camera": "NIKON D610",
-      "lens": null,
-      "focalLength": null,
-      "aperture": "f/2.8",
-      "shutterSpeed": "1/400 s",
-      "iso": 640
-    }
-  },
-  {
-    "filename": "Basket-A01.jpg",
-    "slug": "basket-a01",
-    "title": "Basket-A01",
-    "category": "basket",
-    "featured": false,
-    "src": "/images/basket/Basket-A01.jpg",
-    "exif": {
-      "date": null,
-      "camera": null,
-      "lens": null,
-      "focalLength": null,
-      "aperture": null,
-      "shutterSpeed": null,
-      "iso": null
-    }
-  },
-  {
-    "filename": "Basket-A02.jpg",
-    "slug": "basket-a02",
-    "title": "Basket-A02",
-    "category": "basket",
-    "featured": false,
-    "src": "/images/basket/Basket-A02.jpg",
-    "exif": {
-      "date": null,
-      "camera": null,
-      "lens": null,
-      "focalLength": null,
-      "aperture": null,
-      "shutterSpeed": null,
-      "iso": null
-    }
-  },
-  {
-    "filename": "Basket-A03.jpg",
-    "slug": "basket-a03",
-    "title": "Basket-A03",
-    "category": "basket",
-    "featured": false,
-    "src": "/images/basket/Basket-A03.jpg",
-    "exif": {
-      "date": null,
-      "camera": null,
-      "lens": null,
-      "focalLength": null,
-      "aperture": null,
-      "shutterSpeed": null,
-      "iso": null
     }
   },
   {
@@ -697,23 +765,6 @@
     }
   },
   {
-    "filename": "Basket-A09.jpg",
-    "slug": "basket-a09",
-    "title": "Basket-A09",
-    "category": "basket",
-    "featured": false,
-    "src": "/images/basket/Basket-A09.jpg",
-    "exif": {
-      "date": null,
-      "camera": null,
-      "lens": null,
-      "focalLength": null,
-      "aperture": null,
-      "shutterSpeed": null,
-      "iso": null
-    }
-  },
-  {
     "filename": "Basket-A10.jpg",
     "slug": "basket-a10",
     "title": "Basket-A10",
@@ -765,12 +816,12 @@
     }
   },
   {
-    "filename": "Basket-A13.jpg",
-    "slug": "basket-a13",
-    "title": "Basket-A13",
+    "filename": "Basketdomare med höjda armar.png",
+    "slug": "basketdomare-med-ho-jda-armar",
+    "title": "Basketdomare med höjda armar",
     "category": "basket",
     "featured": false,
-    "src": "/images/basket/Basket-A13.jpg",
+    "src": "/images/basket/Basketdomare med höjda armar.png",
     "exif": {
       "date": null,
       "camera": null,
@@ -782,12 +833,12 @@
     }
   },
   {
-    "filename": "BasketSweden.png",
-    "slug": "basketsweden",
-    "title": "BasketSweden",
+    "filename": "Basketdomare med visselpipa i arenan.png",
+    "slug": "basketdomare-med-visselpipa-i-arenan",
+    "title": "Basketdomare med visselpipa i arenan",
     "category": "basket",
     "featured": false,
-    "src": "/images/basket/BasketSweden.png",
+    "src": "/images/basket/Basketdomare med visselpipa i arenan.png",
     "exif": {
       "date": null,
       "camera": null,
@@ -799,12 +850,12 @@
     }
   },
   {
-    "filename": "Dramatisk svensk basketspelare i fokus.png",
-    "slug": "dramatisk-svensk-basketspelare-i-fokus",
-    "title": "Dramatisk svensk basketspelare i fokus",
+    "filename": "Basketdrama under korgen.png",
+    "slug": "basketdrama-under-korgen",
+    "title": "Basketdrama under korgen",
     "category": "basket",
     "featured": false,
-    "src": "/images/basket/Dramatisk svensk basketspelare i fokus.png",
+    "src": "/images/basket/Basketdrama under korgen.png",
     "exif": {
       "date": null,
       "camera": null,
@@ -816,12 +867,12 @@
     }
   },
   {
-    "filename": "Gaddefors.png",
-    "slug": "gaddefors",
-    "title": "Gaddefors",
+    "filename": "Basketduell under korgen.- Dino Phita.png",
+    "slug": "basketduell-under-korgen-dino-phita",
+    "title": "Basketduell under korgen.- Dino Phita",
     "category": "basket",
     "featured": false,
-    "src": "/images/basket/Gaddefors.png",
+    "src": "/images/basket/Basketduell under korgen.- Dino Phita.png",
     "exif": {
       "date": null,
       "camera": null,
@@ -833,12 +884,1406 @@
     }
   },
   {
-    "filename": "Intensiv svensk basketstjärna i rampljus.png",
-    "slug": "intensiv-svensk-basketstja-rna-i-rampljus",
-    "title": "Intensiv svensk basketstjärna i rampljus",
+    "filename": "Basketspelare i Focus.png",
+    "slug": "basketspelare-i-focus",
+    "title": "Basketspelare i Focus",
     "category": "basket",
     "featured": false,
-    "src": "/images/basket/Intensiv svensk basketstjärna i rampljus.png",
+    "src": "/images/basket/Basketspelare i Focus.png",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Chanelle Molina Layup.png",
+    "slug": "chanelle-molina-layup",
+    "title": "Chanelle Molina Layup",
+    "category": "basket",
+    "featured": false,
+    "src": "/images/basket/Chanelle Molina Layup.png",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Chanelle Molina SBBK.png",
+    "slug": "chanelle-molina-sbbk",
+    "title": "Chanelle Molina SBBK",
+    "category": "basket",
+    "featured": false,
+    "src": "/images/basket/Chanelle Molina SBBK.png",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Dino Phita focus for penalty shot.jpeg",
+    "slug": "dino-phita-focus-for-penalty-shot",
+    "title": "Dino Phita focus for penalty shot",
+    "category": "basket",
+    "featured": false,
+    "src": "/images/basket/Dino Phita focus for penalty shot.jpeg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Dino Phita i duell.jpg",
+    "slug": "dino-phita-i-duell",
+    "title": "Dino Phita i duell",
+    "category": "basket",
+    "featured": false,
+    "src": "/images/basket/Dino Phita i duell.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Dino Phita SBBK in action.jpeg",
+    "slug": "dino-phita-sbbk-in-action",
+    "title": "Dino Phita SBBK in action",
+    "category": "basket",
+    "featured": false,
+    "src": "/images/basket/Dino Phita SBBK in action.jpeg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Dino Phita stubbard figther.png",
+    "slug": "dino-phita-stubbard-figther",
+    "title": "Dino Phita stubbard figther",
+    "category": "basket",
+    "featured": false,
+    "src": "/images/basket/Dino Phita stubbard figther.png",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Duell vid korgen.png",
+    "slug": "duell-vid-korgen",
+    "title": "Duell vid korgen",
+    "category": "basket",
+    "featured": false,
+    "src": "/images/basket/Duell vid korgen.png",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Ellen Åström ball control.png",
+    "slug": "ellen-a-stro-m-ball-control",
+    "title": "Ellen Åström ball control",
+    "category": "basket",
+    "featured": false,
+    "src": "/images/basket/Ellen Åström ball control.png",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Ellen Åström fight.png",
+    "slug": "ellen-a-stro-m-fight",
+    "title": "Ellen Åström fight",
+    "category": "basket",
+    "featured": false,
+    "src": "/images/basket/Ellen Åström fight.png",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Ellen Åström focused.png",
+    "slug": "ellen-a-stro-m-focused",
+    "title": "Ellen Åström focused",
+    "category": "basket",
+    "featured": false,
+    "src": "/images/basket/Ellen Åström focused.png",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Ellen Åström in the move.png",
+    "slug": "ellen-a-stro-m-in-the-move",
+    "title": "Ellen Åström in the move",
+    "category": "basket",
+    "featured": false,
+    "src": "/images/basket/Ellen Åström in the move.png",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Ellen Åström.png",
+    "slug": "ellen-a-stro-m",
+    "title": "Ellen Åström",
+    "category": "basket",
+    "featured": false,
+    "src": "/images/basket/Ellen Åström.png",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Emilia Englund focused.png",
+    "slug": "emilia-englund-focused",
+    "title": "Emilia Englund focused",
+    "category": "basket",
+    "featured": false,
+    "src": "/images/basket/Emilia Englund focused.png",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Focus on the ball.png",
+    "slug": "focus-on-the-ball",
+    "title": "Focus on the ball",
+    "category": "basket",
+    "featured": false,
+    "src": "/images/basket/Focus on the ball.png",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Fokuserad basketspelare.png",
+    "slug": "fokuserad-basketspelare",
+    "title": "Fokuserad basketspelare",
+    "category": "basket",
+    "featured": false,
+    "src": "/images/basket/Fokuserad basketspelare.png",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Fokuserad Matilda Claesson.png",
+    "slug": "fokuserad-matilda-claesson",
+    "title": "Fokuserad Matilda Claesson",
+    "category": "basket",
+    "featured": false,
+    "src": "/images/basket/Fokuserad Matilda Claesson.png",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Frida Eldebrink i SBBK SM-guld.png",
+    "slug": "frida-eldebrink-i-sbbk-sm-guld",
+    "title": "Frida Eldebrink i SBBK SM-guld",
+    "category": "basket",
+    "featured": false,
+    "src": "/images/basket/Frida Eldebrink i SBBK SM-guld.png",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Jonas Jerebko 2.png",
+    "slug": "jonas-jerebko-2",
+    "title": "Jonas Jerebko 2",
+    "category": "basket",
+    "featured": false,
+    "src": "/images/basket/Jonas Jerebko 2.png",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Jonas Jerebko.png",
+    "slug": "jonas-jerebko",
+    "title": "Jonas Jerebko",
+    "category": "basket",
+    "featured": false,
+    "src": "/images/basket/Jonas Jerebko.png",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Josefine Enander guard.jpg",
+    "slug": "josefine-enander-guard",
+    "title": "Josefine Enander guard",
+    "category": "basket",
+    "featured": false,
+    "src": "/images/basket/Josefine Enander guard.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Klara Holm fighter star.png",
+    "slug": "klara-holm-fighter-star",
+    "title": "Klara Holm fighter star",
+    "category": "basket",
+    "featured": false,
+    "src": "/images/basket/Klara Holm fighter star.png",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Klara Holm Focused for penalty shot.jpg",
+    "slug": "klara-holm-focused-for-penalty-shot",
+    "title": "Klara Holm Focused for penalty shot",
+    "category": "basket",
+    "featured": false,
+    "src": "/images/basket/Klara Holm Focused for penalty shot.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Klara Holm focused on penalty shot.jpg",
+    "slug": "klara-holm-focused-on-penalty-shot",
+    "title": "Klara Holm focused on penalty shot",
+    "category": "basket",
+    "featured": false,
+    "src": "/images/basket/Klara Holm focused on penalty shot.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Klara Holm hårsvall.png",
+    "slug": "klara-holm-ha-rsvall",
+    "title": "Klara Holm hårsvall",
+    "category": "basket",
+    "featured": false,
+    "src": "/images/basket/Klara Holm hårsvall.png",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Klara Holm i action igen.png",
+    "slug": "klara-holm-i-action-igen",
+    "title": "Klara Holm i action igen",
+    "category": "basket",
+    "featured": false,
+    "src": "/images/basket/Klara Holm i action igen.png",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Klara Holm igen.png",
+    "slug": "klara-holm-igen",
+    "title": "Klara Holm igen",
+    "category": "basket",
+    "featured": false,
+    "src": "/images/basket/Klara Holm igen.png",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Klara holm in action 2.png",
+    "slug": "klara-holm-in-action-2",
+    "title": "Klara holm in action 2",
+    "category": "basket",
+    "featured": false,
+    "src": "/images/basket/Klara holm in action 2.png",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Klara Holm Scores.jpg",
+    "slug": "klara-holm-scores",
+    "title": "Klara Holm Scores",
+    "category": "basket",
+    "featured": false,
+    "src": "/images/basket/Klara Holm Scores.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Klara Holm SM-Guld.png",
+    "slug": "klara-holm-sm-guld",
+    "title": "Klara Holm SM-Guld",
+    "category": "basket",
+    "featured": false,
+    "src": "/images/basket/Klara Holm SM-Guld.png",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Klara Holm superstar.png",
+    "slug": "klara-holm-superstar",
+    "title": "Klara Holm superstar",
+    "category": "basket",
+    "featured": false,
+    "src": "/images/basket/Klara Holm superstar.png",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Klara Holm Sweden Basket.png",
+    "slug": "klara-holm-sweden-basket",
+    "title": "Klara Holm Sweden Basket",
+    "category": "basket",
+    "featured": false,
+    "src": "/images/basket/Klara Holm Sweden Basket.png",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Klara Holm tröjdragning.png",
+    "slug": "klara-holm-tro-jdragning",
+    "title": "Klara Holm tröjdragning",
+    "category": "basket",
+    "featured": false,
+    "src": "/images/basket/Klara Holm tröjdragning.png",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Klara Lunquist in action för SBBK.png",
+    "slug": "klara-lunquist-in-action-fo-r-sbbk",
+    "title": "Klara Lunquist in action för SBBK",
+    "category": "basket",
+    "featured": false,
+    "src": "/images/basket/Klara Lunquist in action för SBBK.png",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Lagkamratskap på basketplanen.png",
+    "slug": "lagkamratskap-pa-basketplanen",
+    "title": "Lagkamratskap på basketplanen",
+    "category": "basket",
+    "featured": false,
+    "src": "/images/basket/Lagkamratskap på basketplanen.png",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Layout performance.png",
+    "slug": "layout-performance",
+    "title": "Layout performance",
+    "category": "basket",
+    "featured": false,
+    "src": "/images/basket/Layout performance.png",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Layup för SBBK.png",
+    "slug": "layup-fo-r-sbbk",
+    "title": "Layup för SBBK",
+    "category": "basket",
+    "featured": false,
+    "src": "/images/basket/Layup för SBBK.png",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Lazar Radosavljević focus.png",
+    "slug": "lazar-radosavljevic-focus",
+    "title": "Lazar Radosavljević focus",
+    "category": "basket",
+    "featured": false,
+    "src": "/images/basket/Lazar Radosavljević focus.png",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Lazar Radosavljević focused.png",
+    "slug": "lazar-radosavljevic-focused",
+    "title": "Lazar Radosavljević focused",
+    "category": "basket",
+    "featured": false,
+    "src": "/images/basket/Lazar Radosavljević focused.png",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Lazar Radosavljević Layup igen.png",
+    "slug": "lazar-radosavljevic-layup-igen",
+    "title": "Lazar Radosavljević Layup igen",
+    "category": "basket",
+    "featured": false,
+    "src": "/images/basket/Lazar Radosavljević Layup igen.png",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Lazar Radosavljević Layup jump.png",
+    "slug": "lazar-radosavljevic-layup-jump",
+    "title": "Lazar Radosavljević Layup jump",
+    "category": "basket",
+    "featured": false,
+    "src": "/images/basket/Lazar Radosavljević Layup jump.png",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Lazar Radosavljević Layup.png",
+    "slug": "lazar-radosavljevic-layup",
+    "title": "Lazar Radosavljević Layup",
+    "category": "basket",
+    "featured": false,
+    "src": "/images/basket/Lazar Radosavljević Layup.png",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Leende basketspelare i grön matchtröja.png",
+    "slug": "leende-basketspelare-i-gro-n-matchtro-ja",
+    "title": "Leende basketspelare i grön matchtröja",
+    "category": "basket",
+    "featured": false,
+    "src": "/images/basket/Leende basketspelare i grön matchtröja.png",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Louice Lollo Halvarsson 2.png",
+    "slug": "louice-lollo-halvarsson-2",
+    "title": "Louice Lollo Halvarsson 2",
+    "category": "basket",
+    "featured": false,
+    "src": "/images/basket/Louice Lollo Halvarsson 2.png",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Louice Lollo Halvarsson get the ball.png",
+    "slug": "louice-lollo-halvarsson-get-the-ball",
+    "title": "Louice Lollo Halvarsson get the ball",
+    "category": "basket",
+    "featured": false,
+    "src": "/images/basket/Louice Lollo Halvarsson get the ball.png",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Louice Lollo Halvarsson score queen.png",
+    "slug": "louice-lollo-halvarsson-score-queen",
+    "title": "Louice Lollo Halvarsson score queen",
+    "category": "basket",
+    "featured": false,
+    "src": "/images/basket/Louice Lollo Halvarsson score queen.png",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Louice Lollo Halvarsson strenght.png",
+    "slug": "louice-lollo-halvarsson-strenght",
+    "title": "Louice Lollo Halvarsson strenght",
+    "category": "basket",
+    "featured": false,
+    "src": "/images/basket/Louice Lollo Halvarsson strenght.png",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Louice Lollo Halvarsson.jpg",
+    "slug": "louice-lollo-halvarsson",
+    "title": "Louice Lollo Halvarsson",
+    "category": "basket",
+    "featured": false,
+    "src": "/images/basket/Louice Lollo Halvarsson.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Luftduell i baskethallen.png",
+    "slug": "luftduell-i-baskethallen",
+    "title": "Luftduell i baskethallen",
+    "category": "basket",
+    "featured": false,
+    "src": "/images/basket/Luftduell i baskethallen.png",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Luftduell om bollen på basketplanen.png",
+    "slug": "luftduell-om-bollen-pa-basketplanen",
+    "title": "Luftduell om bollen på basketplanen",
+    "category": "basket",
+    "featured": false,
+    "src": "/images/basket/Luftduell om bollen på basketplanen.png",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Lulea_-SBBK_Cupfinal_47-78_2024-01-20_-69-identitylock-cinematic-8k.jpg",
+    "slug": "lulea-sbbk-cupfinal-47-78-2024-01-20-69-identitylock-cinematic-8k",
+    "title": "Lulea_-SBBK_Cupfinal_47-78_2024-01-20_-69-identitylock-cinematic-8k",
+    "category": "basket",
+    "featured": false,
+    "src": "/images/basket/Lulea_-SBBK_Cupfinal_47-78_2024-01-20_-69-identitylock-cinematic-8k.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Luleå-SBBK 47-78 2024-01-20 Cupfinal -115.jpg",
+    "slug": "lulea-sbbk-47-78-2024-01-20-cupfinal-115",
+    "title": "Luleå-SBBK 47-78 2024-01-20 Cupfinal -115",
+    "category": "basket",
+    "featured": false,
+    "src": "/images/basket/Luleå-SBBK 47-78 2024-01-20 Cupfinal -115.jpg",
+    "exif": {
+      "date": "2024-01-20",
+      "camera": "NIKON D500",
+      "lens": "120.0-300.0 mm f/2.8",
+      "focalLength": "300 mm",
+      "aperture": "f/2.8",
+      "shutterSpeed": "1/800 s",
+      "iso": 1250
+    }
+  },
+  {
+    "filename": "Maria Jespersen Expression.jpg",
+    "slug": "maria-jespersen-expression",
+    "title": "Maria Jespersen Expression",
+    "category": "basket",
+    "featured": false,
+    "src": "/images/basket/Maria Jespersen Expression.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Maria Jespersen scores.png",
+    "slug": "maria-jespersen-scores",
+    "title": "Maria Jespersen scores",
+    "category": "basket",
+    "featured": false,
+    "src": "/images/basket/Maria Jespersen scores.png",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Martin Pahlmblad directing.png",
+    "slug": "martin-pahlmblad-directing",
+    "title": "Martin Pahlmblad directing",
+    "category": "basket",
+    "featured": false,
+    "src": "/images/basket/Martin Pahlmblad directing.png",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Martin Pahlmblad fighting king.png",
+    "slug": "martin-pahlmblad-fighting-king",
+    "title": "Martin Pahlmblad fighting king",
+    "category": "basket",
+    "featured": false,
+    "src": "/images/basket/Martin Pahlmblad fighting king.png",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Martin pahlmblad fokuserar innan shot.png",
+    "slug": "martin-pahlmblad-fokuserar-innan-shot",
+    "title": "Martin pahlmblad fokuserar innan shot",
+    "category": "basket",
+    "featured": false,
+    "src": "/images/basket/Martin pahlmblad fokuserar innan shot.png",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Martin Pahlmblad in full action.png",
+    "slug": "martin-pahlmblad-in-full-action",
+    "title": "Martin Pahlmblad in full action",
+    "category": "basket",
+    "featured": false,
+    "src": "/images/basket/Martin Pahlmblad in full action.png",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Martin Pahlmblad jump score.png",
+    "slug": "martin-pahlmblad-jump-score",
+    "title": "Martin Pahlmblad jump score",
+    "category": "basket",
+    "featured": false,
+    "src": "/images/basket/Martin Pahlmblad jump score.png",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Martin Pahlmblad king.png",
+    "slug": "martin-pahlmblad-king",
+    "title": "Martin Pahlmblad king",
+    "category": "basket",
+    "featured": false,
+    "src": "/images/basket/Martin Pahlmblad king.png",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Martin Pahlmblad on the move.png",
+    "slug": "martin-pahlmblad-on-the-move",
+    "title": "Martin Pahlmblad on the move",
+    "category": "basket",
+    "featured": false,
+    "src": "/images/basket/Martin Pahlmblad on the move.png",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Martin Pahlmblad scores again.png",
+    "slug": "martin-pahlmblad-scores-again",
+    "title": "Martin Pahlmblad scores again",
+    "category": "basket",
+    "featured": false,
+    "src": "/images/basket/Martin Pahlmblad scores again.png",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Martin Pahlmblad superstar.png",
+    "slug": "martin-pahlmblad-superstar",
+    "title": "Martin Pahlmblad superstar",
+    "category": "basket",
+    "featured": false,
+    "src": "/images/basket/Martin Pahlmblad superstar.png",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Martin Pahlmblad.png",
+    "slug": "martin-pahlmblad",
+    "title": "Martin Pahlmblad",
+    "category": "basket",
+    "featured": false,
+    "src": "/images/basket/Martin Pahlmblad.png",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Matilda Claeson.jpg",
+    "slug": "matilda-claeson",
+    "title": "Matilda Claeson",
+    "category": "basket",
+    "featured": false,
+    "src": "/images/basket/Matilda Claeson.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D610",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/2.8",
+      "shutterSpeed": "1/400 s",
+      "iso": 640
+    }
+  },
+  {
+    "filename": "Matilda Claesson hårsvall.png",
+    "slug": "matilda-claesson-ha-rsvall",
+    "title": "Matilda Claesson hårsvall",
+    "category": "basket",
+    "featured": false,
+    "src": "/images/basket/Matilda Claesson hårsvall.png",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Matilda Claesson in full action.png",
+    "slug": "matilda-claesson-in-full-action",
+    "title": "Matilda Claesson in full action",
+    "category": "basket",
+    "featured": false,
+    "src": "/images/basket/Matilda Claesson in full action.png",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Matilda Claesson queen.png",
+    "slug": "matilda-claesson-queen",
+    "title": "Matilda Claesson queen",
+    "category": "basket",
+    "featured": false,
+    "src": "/images/basket/Matilda Claesson queen.png",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Matilda Claesson SBBK.png",
+    "slug": "matilda-claesson-sbbk",
+    "title": "Matilda Claesson SBBK",
+    "category": "basket",
+    "featured": false,
+    "src": "/images/basket/Matilda Claesson SBBK.png",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Nick Spires.png",
+    "slug": "nick-spires",
+    "title": "Nick Spires",
+    "category": "basket",
+    "featured": false,
+    "src": "/images/basket/Nick Spires.png",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Norrko_ping-Na_ssjo_2024-01-20_Cupfinal_-21-identitylock-cinematic-8k.jpg",
+    "slug": "norrko-ping-na-ssjo-2024-01-20-cupfinal-21-identitylock-cinematic-8k",
+    "title": "Norrko_ping-Na_ssjo_2024-01-20_Cupfinal_-21-identitylock-cinematic-8k",
+    "category": "basket",
+    "featured": false,
+    "src": "/images/basket/Norrko_ping-Na_ssjo_2024-01-20_Cupfinal_-21-identitylock-cinematic-8k.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Pelle Larsson i Intensiv närkamp mot Tyskland.png",
+    "slug": "pelle-larsson-i-intensiv-na-rkamp-mot-tyskland",
+    "title": "Pelle Larsson i Intensiv närkamp mot Tyskland",
+    "category": "basket",
+    "featured": false,
+    "src": "/images/basket/Pelle Larsson i Intensiv närkamp mot Tyskland.png",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Pelle Larsson.png",
+    "slug": "pelle-larsson",
+    "title": "Pelle Larsson",
+    "category": "basket",
+    "featured": false,
+    "src": "/images/basket/Pelle Larsson.png",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Penalty shot SBBK.png",
+    "slug": "penalty-shot-sbbk",
+    "title": "Penalty shot SBBK",
+    "category": "basket",
+    "featured": false,
+    "src": "/images/basket/Penalty shot SBBK.png",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "SBBK ball controll.png",
+    "slug": "sbbk-ball-controll",
+    "title": "SBBK ball controll",
+    "category": "basket",
+    "featured": false,
+    "src": "/images/basket/SBBK ball controll.png",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "SBBK Basket Dam.png",
+    "slug": "sbbk-basket-dam",
+    "title": "SBBK Basket Dam",
+    "category": "basket",
+    "featured": false,
+    "src": "/images/basket/SBBK Basket Dam.png",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "SBBK dam basket.png",
+    "slug": "sbbk-dam-basket",
+    "title": "SBBK dam basket",
+    "category": "basket",
+    "featured": false,
+    "src": "/images/basket/SBBK dam basket.png",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "SBBK Focus for Basket.png",
+    "slug": "sbbk-focus-for-basket",
+    "title": "SBBK Focus for Basket",
+    "category": "basket",
+    "featured": false,
+    "src": "/images/basket/SBBK Focus for Basket.png",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "SBBK focus.png",
+    "slug": "sbbk-focus",
+    "title": "SBBK focus",
+    "category": "basket",
+    "featured": false,
+    "src": "/images/basket/SBBK focus.png",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "SBBK Layup i Täljehallen.png",
+    "slug": "sbbk-layup-i-ta-ljehallen",
+    "title": "SBBK Layup i Täljehallen",
+    "category": "basket",
+    "featured": false,
+    "src": "/images/basket/SBBK Layup i Täljehallen.png",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "SBBK SM-Guld 2024 Svea Rolander.jpg",
+    "slug": "sbbk-sm-guld-2024-svea-rolander",
+    "title": "SBBK SM-Guld 2024 Svea Rolander",
+    "category": "basket",
+    "featured": false,
+    "src": "/images/basket/SBBK SM-Guld 2024 Svea Rolander.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "SBBK-Dolphin fight.jpg",
+    "slug": "sbbk-dolphin-fight",
+    "title": "SBBK-Dolphin fight",
+    "category": "basket",
+    "featured": false,
+    "src": "/images/basket/SBBK-Dolphin fight.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "SBBK-Dolphins.jpeg",
+    "slug": "sbbk-dolphins",
+    "title": "SBBK-Dolphins",
+    "category": "basket",
+    "featured": false,
+    "src": "/images/basket/SBBK-Dolphins.jpeg",
     "exif": {
       "date": null,
       "camera": null,
@@ -867,29 +2312,12 @@
     }
   },
   {
-    "filename": "birds-1.jpg",
-    "slug": "birds-1",
-    "title": "birds-1",
-    "category": "birds",
+    "filename": "Simon Scott Layup.png",
+    "slug": "simon-scott-layup",
+    "title": "Simon Scott Layup",
+    "category": "basket",
     "featured": false,
-    "src": "/images/birds/birds-1.jpg",
-    "exif": {
-      "date": null,
-      "camera": "NIKON D850",
-      "lens": null,
-      "focalLength": null,
-      "aperture": "f/2.8",
-      "shutterSpeed": "1/1600 s",
-      "iso": 800
-    }
-  },
-  {
-    "filename": "Birds-100.png",
-    "slug": "birds-100",
-    "title": "Birds-100",
-    "category": "birds",
-    "featured": false,
-    "src": "/images/birds/Birds-100.png",
+    "src": "/images/basket/Simon Scott Layup.png",
     "exif": {
       "date": null,
       "camera": null,
@@ -901,12 +2329,12 @@
     }
   },
   {
-    "filename": "Birds-101.png",
-    "slug": "birds-101",
-    "title": "Birds-101",
-    "category": "birds",
+    "filename": "Slam DUNK.png",
+    "slug": "slam-dunk",
+    "title": "Slam DUNK",
+    "category": "basket",
     "featured": false,
-    "src": "/images/birds/Birds-101.png",
+    "src": "/images/basket/Slam DUNK.png",
     "exif": {
       "date": null,
       "camera": null,
@@ -918,12 +2346,12 @@
     }
   },
   {
-    "filename": "Birds-102.png",
-    "slug": "birds-102",
-    "title": "Birds-102",
-    "category": "birds",
+    "filename": "Svea Rolander pose.jpeg",
+    "slug": "svea-rolander-pose",
+    "title": "Svea Rolander pose",
+    "category": "basket",
     "featured": false,
-    "src": "/images/birds/Birds-102.png",
+    "src": "/images/basket/Svea Rolander pose.jpeg",
     "exif": {
       "date": null,
       "camera": null,
@@ -935,12 +2363,12 @@
     }
   },
   {
-    "filename": "Birds-103.png",
-    "slug": "birds-103",
-    "title": "Birds-103",
-    "category": "birds",
+    "filename": "Svea Rolander.jpg",
+    "slug": "svea-rolander",
+    "title": "Svea Rolander",
+    "category": "basket",
     "featured": false,
-    "src": "/images/birds/Birds-103.png",
+    "src": "/images/basket/Svea Rolander.jpg",
     "exif": {
       "date": null,
       "camera": null,
@@ -952,54 +2380,326 @@
     }
   },
   {
-    "filename": "birds-11.jpg",
-    "slug": "birds-11",
-    "title": "birds-11",
-    "category": "birds",
+    "filename": "Svensk basketstjärna i intensiv drive.png",
+    "slug": "svensk-basketstja-rna-i-intensiv-drive",
+    "title": "Svensk basketstjärna i intensiv drive",
+    "category": "basket",
     "featured": false,
-    "src": "/images/birds/birds-11.jpg",
+    "src": "/images/basket/Svensk basketstjärna i intensiv drive.png",
     "exif": {
       "date": null,
-      "camera": "NIKON D500",
+      "camera": null,
       "lens": null,
       "focalLength": null,
-      "aperture": "f/2.8",
-      "shutterSpeed": "1/400 s",
-      "iso": 200
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
     }
   },
   {
-    "filename": "birds-13.jpg",
-    "slug": "birds-13",
-    "title": "birds-13",
-    "category": "birds",
+    "filename": "Svenska landslaget.jpeg",
+    "slug": "svenska-landslaget",
+    "title": "Svenska landslaget",
+    "category": "basket",
     "featured": false,
-    "src": "/images/birds/birds-13.jpg",
+    "src": "/images/basket/Svenska landslaget.jpeg",
     "exif": {
       "date": null,
-      "camera": "NIKON D500",
+      "camera": null,
       "lens": null,
       "focalLength": null,
-      "aperture": "f/2.8",
-      "shutterSpeed": "1/500 s",
-      "iso": 200
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
     }
   },
   {
-    "filename": "birds-15.jpg",
-    "slug": "birds-15",
-    "title": "birds-15",
-    "category": "birds",
+    "filename": "Svenska mästare firar segern.png",
+    "slug": "svenska-ma-stare-firar-segern",
+    "title": "Svenska mästare firar segern",
+    "category": "basket",
     "featured": false,
-    "src": "/images/birds/birds-15.jpg",
+    "src": "/images/basket/Svenska mästare firar segern.png",
     "exif": {
       "date": null,
-      "camera": "NIKON D500",
+      "camera": null,
       "lens": null,
       "focalLength": null,
-      "aperture": "f/2.8",
-      "shutterSpeed": "1/400 s",
-      "iso": 200
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Svettig basketstjärna i gul matchtröja.png",
+    "slug": "svettig-basketstja-rna-i-gul-matchtro-ja",
+    "title": "Svettig basketstjärna i gul matchtröja",
+    "category": "basket",
+    "featured": false,
+    "src": "/images/basket/Svettig basketstjärna i gul matchtröja.png",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Thats how to maka slam dunk.png",
+    "slug": "thats-how-to-maka-slam-dunk",
+    "title": "Thats how to maka slam dunk",
+    "category": "basket",
+    "featured": false,
+    "src": "/images/basket/Thats how to maka slam dunk.png",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Tobias Borg Sweden.png",
+    "slug": "tobias-borg-sweden",
+    "title": "Tobias Borg Sweden",
+    "category": "basket",
+    "featured": false,
+    "src": "/images/basket/Tobias Borg Sweden.png",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Viktor Gaddefors - Sweden.jpg",
+    "slug": "viktor-gaddefors-sweden",
+    "title": "Viktor Gaddefors - Sweden",
+    "category": "basket",
+    "featured": false,
+    "src": "/images/basket/Viktor Gaddefors - Sweden.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Viktor Gaddefors 2.jpg",
+    "slug": "viktor-gaddefors-2",
+    "title": "Viktor Gaddefors 2",
+    "category": "basket",
+    "featured": false,
+    "src": "/images/basket/Viktor Gaddefors 2.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Viktor Gaddefors 3.png",
+    "slug": "viktor-gaddefors-3",
+    "title": "Viktor Gaddefors 3",
+    "category": "basket",
+    "featured": false,
+    "src": "/images/basket/Viktor Gaddefors 3.png",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Viktor Gaddefors Dunk.jpeg",
+    "slug": "viktor-gaddefors-dunk",
+    "title": "Viktor Gaddefors Dunk",
+    "category": "basket",
+    "featured": false,
+    "src": "/images/basket/Viktor Gaddefors Dunk.jpeg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Viktor Gaddefors DUNK.png",
+    "slug": "viktor-gaddefors-dunk-png",
+    "title": "Viktor Gaddefors DUNK",
+    "category": "basket",
+    "featured": false,
+    "src": "/images/basket/Viktor Gaddefors DUNK.png",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Viktor Gaddefors fighting.png",
+    "slug": "viktor-gaddefors-fighting",
+    "title": "Viktor Gaddefors fighting",
+    "category": "basket",
+    "featured": false,
+    "src": "/images/basket/Viktor Gaddefors fighting.png",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Viktor Gaddefors Layup king.png",
+    "slug": "viktor-gaddefors-layup-king",
+    "title": "Viktor Gaddefors Layup king",
+    "category": "basket",
+    "featured": false,
+    "src": "/images/basket/Viktor Gaddefors Layup king.png",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Viktor Gaddefors penalty shot.jpg",
+    "slug": "viktor-gaddefors-penalty-shot",
+    "title": "Viktor Gaddefors penalty shot",
+    "category": "basket",
+    "featured": false,
+    "src": "/images/basket/Viktor Gaddefors penalty shot.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Viktor Gaddefors pose.jpeg",
+    "slug": "viktor-gaddefors-pose",
+    "title": "Viktor Gaddefors pose",
+    "category": "basket",
+    "featured": false,
+    "src": "/images/basket/Viktor Gaddefors pose.jpeg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Viktor Gaddefors scores again.jpg",
+    "slug": "viktor-gaddefors-scores-again",
+    "title": "Viktor Gaddefors scores again",
+    "category": "basket",
+    "featured": false,
+    "src": "/images/basket/Viktor Gaddefors scores again.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Viktor Gaddefors Superstar.jpg",
+    "slug": "viktor-gaddefors-superstar",
+    "title": "Viktor Gaddefors Superstar",
+    "category": "basket",
+    "featured": false,
+    "src": "/images/basket/Viktor Gaddefors Superstar.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Viktor Gaddefors.jpg",
+    "slug": "viktor-gaddefors",
+    "title": "Viktor Gaddefors",
+    "category": "basket",
+    "featured": false,
+    "src": "/images/basket/Viktor Gaddefors.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "William Kermoury Layup.png",
+    "slug": "william-kermoury-layup",
+    "title": "William Kermoury Layup",
+    "category": "basket",
+    "featured": false,
+    "src": "/images/basket/William Kermoury Layup.png",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
     }
   },
   {
@@ -1033,40 +2733,6 @@
       "focalLength": null,
       "aperture": "f/2.8",
       "shutterSpeed": "1/200 s",
-      "iso": 100
-    }
-  },
-  {
-    "filename": "birds-2.jpg",
-    "slug": "birds-2",
-    "title": "birds-2",
-    "category": "birds",
-    "featured": false,
-    "src": "/images/birds/birds-2.jpg",
-    "exif": {
-      "date": null,
-      "camera": "NIKON D500",
-      "lens": null,
-      "focalLength": null,
-      "aperture": "f/2.8",
-      "shutterSpeed": "1/5000 s",
-      "iso": 200
-    }
-  },
-  {
-    "filename": "birds-21.jpg",
-    "slug": "birds-21",
-    "title": "birds-21",
-    "category": "birds",
-    "featured": false,
-    "src": "/images/birds/birds-21.jpg",
-    "exif": {
-      "date": null,
-      "camera": "NIKON D500",
-      "lens": null,
-      "focalLength": null,
-      "aperture": "f/2.8",
-      "shutterSpeed": "1/1600 s",
       "iso": 100
     }
   },
@@ -1122,12 +2788,216 @@
     }
   },
   {
-    "filename": "birds-5.jpg",
-    "slug": "birds-5",
-    "title": "birds-5",
+    "filename": "Gråhäger 10.jpg",
+    "slug": "gra-ha-ger-10",
+    "title": "Gråhäger 10",
     "category": "birds",
     "featured": false,
-    "src": "/images/birds/birds-5.jpg",
+    "src": "/images/birds/Gråhäger 10.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Gråhäger 11.jpg",
+    "slug": "gra-ha-ger-11",
+    "title": "Gråhäger 11",
+    "category": "birds",
+    "featured": false,
+    "src": "/images/birds/Gråhäger 11.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Gråhäger 12.png",
+    "slug": "gra-ha-ger-12",
+    "title": "Gråhäger 12",
+    "category": "birds",
+    "featured": false,
+    "src": "/images/birds/Gråhäger 12.png",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Gråhäger 13.jpg",
+    "slug": "gra-ha-ger-13",
+    "title": "Gråhäger 13",
+    "category": "birds",
+    "featured": false,
+    "src": "/images/birds/Gråhäger 13.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Gråhäger 14.png",
+    "slug": "gra-ha-ger-14",
+    "title": "Gråhäger 14",
+    "category": "birds",
+    "featured": false,
+    "src": "/images/birds/Gråhäger 14.png",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Gråhäger 15.jpg",
+    "slug": "gra-ha-ger-15",
+    "title": "Gråhäger 15",
+    "category": "birds",
+    "featured": false,
+    "src": "/images/birds/Gråhäger 15.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D500",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/2.8",
+      "shutterSpeed": "1/2500 s",
+      "iso": 200
+    }
+  },
+  {
+    "filename": "Gråhäger 16.png",
+    "slug": "gra-ha-ger-16",
+    "title": "Gråhäger 16",
+    "category": "birds",
+    "featured": false,
+    "src": "/images/birds/Gråhäger 16.png",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Gråhäger 17.png",
+    "slug": "gra-ha-ger-17",
+    "title": "Gråhäger 17",
+    "category": "birds",
+    "featured": false,
+    "src": "/images/birds/Gråhäger 17.png",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Gråhäger 18.png",
+    "slug": "gra-ha-ger-18",
+    "title": "Gråhäger 18",
+    "category": "birds",
+    "featured": false,
+    "src": "/images/birds/Gråhäger 18.png",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Gråhäger 19.png",
+    "slug": "gra-ha-ger-19",
+    "title": "Gråhäger 19",
+    "category": "birds",
+    "featured": false,
+    "src": "/images/birds/Gråhäger 19.png",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Gråhäger 2.jpg",
+    "slug": "gra-ha-ger-2",
+    "title": "Gråhäger 2",
+    "category": "birds",
+    "featured": false,
+    "src": "/images/birds/Gråhäger 2.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D500",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/2.8",
+      "shutterSpeed": "1/5000 s",
+      "iso": 200
+    }
+  },
+  {
+    "filename": "Gråhäger 20.png",
+    "slug": "gra-ha-ger-20",
+    "title": "Gråhäger 20",
+    "category": "birds",
+    "featured": false,
+    "src": "/images/birds/Gråhäger 20.png",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Gråhäger 3.jpg",
+    "slug": "gra-ha-ger-3",
+    "title": "Gråhäger 3",
+    "category": "birds",
+    "featured": false,
+    "src": "/images/birds/Gråhäger 3.jpg",
     "exif": {
       "date": null,
       "camera": "NIKON D850",
@@ -1139,80 +3009,12 @@
     }
   },
   {
-    "filename": "birds-63.jpg",
-    "slug": "birds-63",
-    "title": "birds-63",
+    "filename": "Gråhäger 4.jpg",
+    "slug": "gra-ha-ger-4",
+    "title": "Gråhäger 4",
     "category": "birds",
     "featured": false,
-    "src": "/images/birds/birds-63.jpg",
-    "exif": {
-      "date": null,
-      "camera": "NIKON D500",
-      "lens": null,
-      "focalLength": null,
-      "aperture": "f/2.8",
-      "shutterSpeed": "1/2500 s",
-      "iso": 200
-    }
-  },
-  {
-    "filename": "birds-65.jpg",
-    "slug": "birds-65",
-    "title": "birds-65",
-    "category": "birds",
-    "featured": false,
-    "src": "/images/birds/birds-65.jpg",
-    "exif": {
-      "date": null,
-      "camera": "NIKON D610",
-      "lens": null,
-      "focalLength": null,
-      "aperture": "f/6.3",
-      "shutterSpeed": "1/500 s",
-      "iso": 200
-    }
-  },
-  {
-    "filename": "birds-67.jpg",
-    "slug": "birds-67",
-    "title": "birds-67",
-    "category": "birds",
-    "featured": false,
-    "src": "/images/birds/birds-67.jpg",
-    "exif": {
-      "date": null,
-      "camera": "NIKON D610",
-      "lens": null,
-      "focalLength": null,
-      "aperture": "f/6.3",
-      "shutterSpeed": "1/80 s",
-      "iso": 100
-    }
-  },
-  {
-    "filename": "birds-69.jpg",
-    "slug": "birds-69",
-    "title": "birds-69",
-    "category": "birds",
-    "featured": false,
-    "src": "/images/birds/birds-69.jpg",
-    "exif": {
-      "date": null,
-      "camera": "NIKON D610",
-      "lens": null,
-      "focalLength": null,
-      "aperture": "f/6.3",
-      "shutterSpeed": "1/100 s",
-      "iso": 100
-    }
-  },
-  {
-    "filename": "birds-7.jpg",
-    "slug": "birds-7",
-    "title": "birds-7",
-    "category": "birds",
-    "featured": false,
-    "src": "/images/birds/birds-7.jpg",
+    "src": "/images/birds/Gråhäger 4.jpg",
     "exif": {
       "date": null,
       "camera": "NIKON D850",
@@ -1224,12 +3026,12 @@
     }
   },
   {
-    "filename": "birds-71.jpg",
-    "slug": "birds-71",
-    "title": "birds-71",
+    "filename": "Gråhäger 7.jpg",
+    "slug": "gra-ha-ger-7",
+    "title": "Gråhäger 7",
     "category": "birds",
     "featured": false,
-    "src": "/images/birds/birds-71.jpg",
+    "src": "/images/birds/Gråhäger 7.jpg",
     "exif": {
       "date": null,
       "camera": "NIKON D500",
@@ -1241,12 +3043,12 @@
     }
   },
   {
-    "filename": "birds-73.jpg",
-    "slug": "birds-73",
-    "title": "birds-73",
+    "filename": "Gråhäger 8.jpg",
+    "slug": "gra-ha-ger-8",
+    "title": "Gråhäger 8",
     "category": "birds",
     "featured": false,
-    "src": "/images/birds/birds-73.jpg",
+    "src": "/images/birds/Gråhäger 8.jpg",
     "exif": {
       "date": null,
       "camera": "NIKON D500",
@@ -1258,114 +3060,29 @@
     }
   },
   {
-    "filename": "birds-75.jpg",
-    "slug": "birds-75",
-    "title": "birds-75",
+    "filename": "Gråhäger.jpg",
+    "slug": "gra-ha-ger",
+    "title": "Gråhäger",
     "category": "birds",
     "featured": false,
-    "src": "/images/birds/birds-75.jpg",
+    "src": "/images/birds/Gråhäger.jpg",
     "exif": {
       "date": null,
-      "camera": "NIKON D500",
+      "camera": "NIKON D850",
       "lens": null,
       "focalLength": null,
-      "aperture": "f/6.3",
-      "shutterSpeed": "1/1000 s",
-      "iso": 2500
+      "aperture": "f/2.8",
+      "shutterSpeed": "1/1600 s",
+      "iso": 800
     }
   },
   {
-    "filename": "birds-77.jpg",
-    "slug": "birds-77",
-    "title": "birds-77",
+    "filename": "Kungsfiskare 11.jpg",
+    "slug": "kungsfiskare-11",
+    "title": "Kungsfiskare 11",
     "category": "birds",
     "featured": false,
-    "src": "/images/birds/birds-77.jpg",
-    "exif": {
-      "date": null,
-      "camera": "NIKON D500",
-      "lens": null,
-      "focalLength": null,
-      "aperture": "f/6.3",
-      "shutterSpeed": "1/1000 s",
-      "iso": 4000
-    }
-  },
-  {
-    "filename": "birds-79.jpg",
-    "slug": "birds-79",
-    "title": "birds-79",
-    "category": "birds",
-    "featured": false,
-    "src": "/images/birds/birds-79.jpg",
-    "exif": {
-      "date": null,
-      "camera": "NIKON D500",
-      "lens": null,
-      "focalLength": null,
-      "aperture": "f/6.3",
-      "shutterSpeed": "1/1000 s",
-      "iso": 4500
-    }
-  },
-  {
-    "filename": "birds-81.jpg",
-    "slug": "birds-81",
-    "title": "birds-81",
-    "category": "birds",
-    "featured": false,
-    "src": "/images/birds/birds-81.jpg",
-    "exif": {
-      "date": null,
-      "camera": "NIKON D500",
-      "lens": null,
-      "focalLength": null,
-      "aperture": "f/6.3",
-      "shutterSpeed": "1/1000 s",
-      "iso": 3200
-    }
-  },
-  {
-    "filename": "birds-85.jpg",
-    "slug": "birds-85",
-    "title": "birds-85",
-    "category": "birds",
-    "featured": false,
-    "src": "/images/birds/birds-85.jpg",
-    "exif": {
-      "date": null,
-      "camera": "NIKON D500",
-      "lens": null,
-      "focalLength": null,
-      "aperture": "f/6.3",
-      "shutterSpeed": "1/1000 s",
-      "iso": 1600
-    }
-  },
-  {
-    "filename": "birds-87.jpg",
-    "slug": "birds-87",
-    "title": "birds-87",
-    "category": "birds",
-    "featured": false,
-    "src": "/images/birds/birds-87.jpg",
-    "exif": {
-      "date": null,
-      "camera": "NIKON D500",
-      "lens": null,
-      "focalLength": null,
-      "aperture": "f/6.3",
-      "shutterSpeed": "1/2000 s",
-      "iso": 5000
-    }
-  },
-  {
-    "filename": "Birds-88.jpg",
-    "slug": "birds-88",
-    "title": "Birds-88",
-    "category": "birds",
-    "featured": false,
-    "src": "/images/birds/Birds-88.jpg",
+    "src": "/images/birds/Kungsfiskare 11.jpg",
     "exif": {
       "date": null,
       "camera": null,
@@ -1377,12 +3094,12 @@
     }
   },
   {
-    "filename": "Birds-89.jpg",
-    "slug": "birds-89",
-    "title": "Birds-89",
+    "filename": "Kungsfiskare 12.jpg",
+    "slug": "kungsfiskare-12",
+    "title": "Kungsfiskare 12",
     "category": "birds",
     "featured": false,
-    "src": "/images/birds/Birds-89.jpg",
+    "src": "/images/birds/Kungsfiskare 12.jpg",
     "exif": {
       "date": null,
       "camera": null,
@@ -1394,12 +3111,97 @@
     }
   },
   {
-    "filename": "birds-9.jpg",
-    "slug": "birds-9",
-    "title": "birds-9",
+    "filename": "Kungsfiskare 13.jpg",
+    "slug": "kungsfiskare-13",
+    "title": "Kungsfiskare 13",
     "category": "birds",
     "featured": false,
-    "src": "/images/birds/birds-9.jpg",
+    "src": "/images/birds/Kungsfiskare 13.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Kungsfiskare 15.jpg",
+    "slug": "kungsfiskare-15",
+    "title": "Kungsfiskare 15",
+    "category": "birds",
+    "featured": false,
+    "src": "/images/birds/Kungsfiskare 15.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Kungsfiskare 16.jpg",
+    "slug": "kungsfiskare-16",
+    "title": "Kungsfiskare 16",
+    "category": "birds",
+    "featured": false,
+    "src": "/images/birds/Kungsfiskare 16.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Kungsfiskare 17.jpg",
+    "slug": "kungsfiskare-17",
+    "title": "Kungsfiskare 17",
+    "category": "birds",
+    "featured": false,
+    "src": "/images/birds/Kungsfiskare 17.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Kungsfiskare 18.png",
+    "slug": "kungsfiskare-18",
+    "title": "Kungsfiskare 18",
+    "category": "birds",
+    "featured": false,
+    "src": "/images/birds/Kungsfiskare 18.png",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Kungsfiskare 2.jpg",
+    "slug": "kungsfiskare-2",
+    "title": "Kungsfiskare 2",
+    "category": "birds",
+    "featured": false,
+    "src": "/images/birds/Kungsfiskare 2.jpg",
     "exif": {
       "date": null,
       "camera": "NIKON D500",
@@ -1411,12 +3213,12 @@
     }
   },
   {
-    "filename": "Birds-92-extra.png",
-    "slug": "birds-92-extra",
-    "title": "Birds-92-extra",
+    "filename": "Kungsfiskare 20.png",
+    "slug": "kungsfiskare-20",
+    "title": "Kungsfiskare 20",
     "category": "birds",
     "featured": false,
-    "src": "/images/birds/Birds-92-extra.png",
+    "src": "/images/birds/Kungsfiskare 20.png",
     "exif": {
       "date": null,
       "camera": null,
@@ -1428,12 +3230,12 @@
     }
   },
   {
-    "filename": "Birds-92.jpg",
-    "slug": "birds-92",
-    "title": "Birds-92",
+    "filename": "Kungsfiskare 21.png",
+    "slug": "kungsfiskare-21",
+    "title": "Kungsfiskare 21",
     "category": "birds",
     "featured": false,
-    "src": "/images/birds/Birds-92.jpg",
+    "src": "/images/birds/Kungsfiskare 21.png",
     "exif": {
       "date": null,
       "camera": null,
@@ -1445,12 +3247,12 @@
     }
   },
   {
-    "filename": "Birds-93.png",
-    "slug": "birds-93",
-    "title": "Birds-93",
+    "filename": "Kungsfiskare 22.png",
+    "slug": "kungsfiskare-22",
+    "title": "Kungsfiskare 22",
     "category": "birds",
     "featured": false,
-    "src": "/images/birds/Birds-93.png",
+    "src": "/images/birds/Kungsfiskare 22.png",
     "exif": {
       "date": null,
       "camera": null,
@@ -1462,105 +3264,105 @@
     }
   },
   {
-    "filename": "Birds-94.jpg",
-    "slug": "birds-94",
-    "title": "Birds-94",
+    "filename": "Kungsfiskare 3.jpg",
+    "slug": "kungsfiskare-3",
+    "title": "Kungsfiskare 3",
     "category": "birds",
     "featured": false,
-    "src": "/images/birds/Birds-94.jpg",
+    "src": "/images/birds/Kungsfiskare 3.jpg",
     "exif": {
       "date": null,
       "camera": "NIKON D500",
       "lens": null,
       "focalLength": null,
       "aperture": "f/2.8",
-      "shutterSpeed": "1/2500 s",
+      "shutterSpeed": "1/400 s",
       "iso": 200
     }
   },
   {
-    "filename": "Birds-95.png",
-    "slug": "birds-95",
-    "title": "Birds-95",
+    "filename": "Kungsfiskare 4.jpg",
+    "slug": "kungsfiskare-4",
+    "title": "Kungsfiskare 4",
     "category": "birds",
     "featured": false,
-    "src": "/images/birds/Birds-95.png",
+    "src": "/images/birds/Kungsfiskare 4.jpg",
     "exif": {
       "date": null,
-      "camera": null,
+      "camera": "NIKON D500",
       "lens": null,
       "focalLength": null,
-      "aperture": null,
-      "shutterSpeed": null,
-      "iso": null
+      "aperture": "f/2.8",
+      "shutterSpeed": "1/500 s",
+      "iso": 200
     }
   },
   {
-    "filename": "Birds-96.png",
-    "slug": "birds-96",
-    "title": "Birds-96",
+    "filename": "Kungsfiskare 5.jpg",
+    "slug": "kungsfiskare-5",
+    "title": "Kungsfiskare 5",
     "category": "birds",
     "featured": false,
-    "src": "/images/birds/Birds-96.png",
+    "src": "/images/birds/Kungsfiskare 5.jpg",
     "exif": {
       "date": null,
-      "camera": null,
+      "camera": "NIKON D500",
       "lens": null,
       "focalLength": null,
-      "aperture": null,
-      "shutterSpeed": null,
-      "iso": null
+      "aperture": "f/2.8",
+      "shutterSpeed": "1/400 s",
+      "iso": 200
     }
   },
   {
-    "filename": "Birds-97.png",
-    "slug": "birds-97",
-    "title": "Birds-97",
+    "filename": "Kungsfiskare 6.jpg",
+    "slug": "kungsfiskare-6",
+    "title": "Kungsfiskare 6",
     "category": "birds",
     "featured": false,
-    "src": "/images/birds/Birds-97.png",
+    "src": "/images/birds/Kungsfiskare 6.jpg",
     "exif": {
       "date": null,
-      "camera": null,
+      "camera": "NIKON D610",
       "lens": null,
       "focalLength": null,
-      "aperture": null,
-      "shutterSpeed": null,
-      "iso": null
+      "aperture": "f/6.3",
+      "shutterSpeed": "1/500 s",
+      "iso": 200
     }
   },
   {
-    "filename": "Birds-98.png",
-    "slug": "birds-98",
-    "title": "Birds-98",
+    "filename": "Kungsfiskare 8.jpg",
+    "slug": "kungsfiskare-8",
+    "title": "Kungsfiskare 8",
     "category": "birds",
     "featured": false,
-    "src": "/images/birds/Birds-98.png",
+    "src": "/images/birds/Kungsfiskare 8.jpg",
     "exif": {
       "date": null,
-      "camera": null,
+      "camera": "NIKON D610",
       "lens": null,
       "focalLength": null,
-      "aperture": null,
-      "shutterSpeed": null,
-      "iso": null
+      "aperture": "f/6.3",
+      "shutterSpeed": "1/80 s",
+      "iso": 100
     }
   },
   {
-    "filename": "Birds-99.png",
-    "slug": "birds-99",
-    "title": "Birds-99",
+    "filename": "Kungsfiskare 9.jpg",
+    "slug": "kungsfiskare-9",
+    "title": "Kungsfiskare 9",
     "category": "birds",
     "featured": false,
-    "src": "/images/birds/Birds-99.png",
+    "src": "/images/birds/Kungsfiskare 9.jpg",
     "exif": {
       "date": null,
-      "camera": null,
+      "camera": "NIKON D610",
       "lens": null,
       "focalLength": null,
-      "aperture": null,
-      "shutterSpeed": null,
-      "iso": null
+      "aperture": "f/6.3",
+      "shutterSpeed": "1/100 s",
+      "iso": 100
     }
   },
   {
@@ -1578,6 +3380,40 @@
       "aperture": "f/6.3",
       "shutterSpeed": "1/500 s",
       "iso": 200
+    }
+  },
+  {
+    "filename": "Svan.jpg",
+    "slug": "svan",
+    "title": "Svan",
+    "category": "birds",
+    "featured": false,
+    "src": "/images/birds/Svan.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D500",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/2.8",
+      "shutterSpeed": "1/2500 s",
+      "iso": 200
+    }
+  },
+  {
+    "filename": "Svanfamilj.jpg",
+    "slug": "svanfamilj",
+    "title": "Svanfamilj",
+    "category": "birds",
+    "featured": false,
+    "src": "/images/birds/Svanfamilj.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D500",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/2.8",
+      "shutterSpeed": "1/1600 s",
+      "iso": 100
     }
   },
   {
@@ -2635,20 +4471,139 @@
     }
   },
   {
-    "filename": "fotboll-1.jpg",
-    "slug": "fotboll-1",
-    "title": "fotboll-1",
+    "filename": "Alexander Isak 2.jpg",
+    "slug": "alexander-isak-2",
+    "title": "Alexander Isak 2",
     "category": "fotboll",
     "featured": false,
-    "src": "/images/fotboll/fotboll-1.jpg",
+    "src": "/images/fotboll/Alexander Isak 2.jpg",
     "exif": {
       "date": null,
       "camera": "NIKON D500",
       "lens": null,
       "focalLength": null,
-      "aperture": "f/2.8",
-      "shutterSpeed": "1/800 s",
-      "iso": 900
+      "aperture": "f/6.3",
+      "shutterSpeed": "1/640 s",
+      "iso": 2800
+    }
+  },
+  {
+    "filename": "Alexander Isak.jpg",
+    "slug": "alexander-isak",
+    "title": "Alexander Isak",
+    "category": "fotboll",
+    "featured": false,
+    "src": "/images/fotboll/Alexander Isak.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D500",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/5.6",
+      "shutterSpeed": "1/500 s",
+      "iso": 1250
+    }
+  },
+  {
+    "filename": "Alice Carlsson.png",
+    "slug": "alice-carlsson",
+    "title": "Alice Carlsson",
+    "category": "fotboll",
+    "featured": false,
+    "src": "/images/fotboll/Alice Carlsson.png",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Andreas Granqvist 2.jpg",
+    "slug": "andreas-granqvist-2",
+    "title": "Andreas Granqvist 2",
+    "category": "fotboll",
+    "featured": false,
+    "src": "/images/fotboll/Andreas Granqvist 2.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D600",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/6.3",
+      "shutterSpeed": "1/400 s",
+      "iso": 800
+    }
+  },
+  {
+    "filename": "Andreas Granqvist.jpg",
+    "slug": "andreas-granqvist",
+    "title": "Andreas Granqvist",
+    "category": "fotboll",
+    "featured": false,
+    "src": "/images/fotboll/Andreas Granqvist.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D500",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/6",
+      "shutterSpeed": "1/640 s",
+      "iso": 3600
+    }
+  },
+  {
+    "filename": "Andreas Isaksson.jpg",
+    "slug": "andreas-isaksson",
+    "title": "Andreas Isaksson",
+    "category": "fotboll",
+    "featured": false,
+    "src": "/images/fotboll/Andreas Isaksson.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D500",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/6.3",
+      "shutterSpeed": "1/320 s",
+      "iso": 320
+    }
+  },
+  {
+    "filename": "Dejan Kulusevski.jpg",
+    "slug": "dejan-kulusevski",
+    "title": "Dejan Kulusevski",
+    "category": "fotboll",
+    "featured": false,
+    "src": "/images/fotboll/Dejan Kulusevski.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Emil Forsberg.jpg",
+    "slug": "emil-forsberg",
+    "title": "Emil Forsberg",
+    "category": "fotboll",
+    "featured": false,
+    "src": "/images/fotboll/Emil Forsberg.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D500",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/5.6",
+      "shutterSpeed": "1/640 s",
+      "iso": 1800
     }
   },
   {
@@ -2686,23 +4641,6 @@
     }
   },
   {
-    "filename": "fotboll-15.jpg",
-    "slug": "fotboll-15",
-    "title": "fotboll-15",
-    "category": "fotboll",
-    "featured": false,
-    "src": "/images/fotboll/fotboll-15.jpg",
-    "exif": {
-      "date": null,
-      "camera": "NIKON D500",
-      "lens": null,
-      "focalLength": null,
-      "aperture": "f/2.8",
-      "shutterSpeed": "1/800 s",
-      "iso": 140
-    }
-  },
-  {
     "filename": "fotboll-17.jpg",
     "slug": "fotboll-17",
     "title": "fotboll-17",
@@ -2737,23 +4675,6 @@
     }
   },
   {
-    "filename": "fotboll-43.jpg",
-    "slug": "fotboll-43",
-    "title": "fotboll-43",
-    "category": "fotboll",
-    "featured": false,
-    "src": "/images/fotboll/fotboll-43.jpg",
-    "exif": {
-      "date": null,
-      "camera": "NIKON D850",
-      "lens": null,
-      "focalLength": null,
-      "aperture": "f/2.8",
-      "shutterSpeed": "1/800 s",
-      "iso": 400
-    }
-  },
-  {
     "filename": "fotboll-45.jpg",
     "slug": "fotboll-45",
     "title": "fotboll-45",
@@ -2768,142 +4689,6 @@
       "aperture": "f/6.3",
       "shutterSpeed": "1/320 s",
       "iso": 800
-    }
-  },
-  {
-    "filename": "fotboll-47.jpg",
-    "slug": "fotboll-47",
-    "title": "fotboll-47",
-    "category": "fotboll",
-    "featured": false,
-    "src": "/images/fotboll/fotboll-47.jpg",
-    "exif": {
-      "date": null,
-      "camera": "NIKON D500",
-      "lens": null,
-      "focalLength": null,
-      "aperture": "f/5.6",
-      "shutterSpeed": "1/500 s",
-      "iso": 1250
-    }
-  },
-  {
-    "filename": "fotboll-51.jpg",
-    "slug": "fotboll-51",
-    "title": "fotboll-51",
-    "category": "fotboll",
-    "featured": false,
-    "src": "/images/fotboll/fotboll-51.jpg",
-    "exif": {
-      "date": null,
-      "camera": "NIKON D500",
-      "lens": null,
-      "focalLength": null,
-      "aperture": "f/5.3",
-      "shutterSpeed": "1/640 s",
-      "iso": 2200
-    }
-  },
-  {
-    "filename": "fotboll-53.jpg",
-    "slug": "fotboll-53",
-    "title": "fotboll-53",
-    "category": "fotboll",
-    "featured": false,
-    "src": "/images/fotboll/fotboll-53.jpg",
-    "exif": {
-      "date": null,
-      "camera": "NIKON D500",
-      "lens": null,
-      "focalLength": null,
-      "aperture": "f/5.6",
-      "shutterSpeed": "1/640 s",
-      "iso": 1600
-    }
-  },
-  {
-    "filename": "fotboll-55.jpg",
-    "slug": "fotboll-55",
-    "title": "fotboll-55",
-    "category": "fotboll",
-    "featured": false,
-    "src": "/images/fotboll/fotboll-55.jpg",
-    "exif": {
-      "date": null,
-      "camera": "NIKON D500",
-      "lens": null,
-      "focalLength": null,
-      "aperture": "f/6",
-      "shutterSpeed": "1/640 s",
-      "iso": 3600
-    }
-  },
-  {
-    "filename": "fotboll-57.jpg",
-    "slug": "fotboll-57",
-    "title": "fotboll-57",
-    "category": "fotboll",
-    "featured": false,
-    "src": "/images/fotboll/fotboll-57.jpg",
-    "exif": {
-      "date": null,
-      "camera": "NIKON D500",
-      "lens": null,
-      "focalLength": null,
-      "aperture": "f/5.6",
-      "shutterSpeed": "1/640 s",
-      "iso": 1800
-    }
-  },
-  {
-    "filename": "fotboll-59.jpg",
-    "slug": "fotboll-59",
-    "title": "fotboll-59",
-    "category": "fotboll",
-    "featured": false,
-    "src": "/images/fotboll/fotboll-59.jpg",
-    "exif": {
-      "date": null,
-      "camera": "NIKON D500",
-      "lens": null,
-      "focalLength": null,
-      "aperture": "f/6.3",
-      "shutterSpeed": "1/640 s",
-      "iso": 2800
-    }
-  },
-  {
-    "filename": "fotboll-67.jpg",
-    "slug": "fotboll-67",
-    "title": "fotboll-67",
-    "category": "fotboll",
-    "featured": false,
-    "src": "/images/fotboll/fotboll-67.jpg",
-    "exif": {
-      "date": null,
-      "camera": null,
-      "lens": null,
-      "focalLength": null,
-      "aperture": null,
-      "shutterSpeed": null,
-      "iso": null
-    }
-  },
-  {
-    "filename": "fotboll-69.jpg",
-    "slug": "fotboll-69",
-    "title": "fotboll-69",
-    "category": "fotboll",
-    "featured": false,
-    "src": "/images/fotboll/fotboll-69.jpg",
-    "exif": {
-      "date": null,
-      "camera": "NIKON D500",
-      "lens": null,
-      "focalLength": null,
-      "aperture": "f/6.3",
-      "shutterSpeed": "1/320 s",
-      "iso": 320
     }
   },
   {
@@ -2930,23 +4715,6 @@
     "category": "fotboll",
     "featured": false,
     "src": "/images/fotboll/fotboll-71.jpg",
-    "exif": {
-      "date": null,
-      "camera": "NIKON D600",
-      "lens": null,
-      "focalLength": null,
-      "aperture": "f/6.3",
-      "shutterSpeed": "1/320 s",
-      "iso": 800
-    }
-  },
-  {
-    "filename": "fotboll-73.jpg",
-    "slug": "fotboll-73",
-    "title": "fotboll-73",
-    "category": "fotboll",
-    "featured": false,
-    "src": "/images/fotboll/fotboll-73.jpg",
     "exif": {
       "date": null,
       "camera": "NIKON D600",
@@ -2992,29 +4760,148 @@
     }
   },
   {
-    "filename": "fotboll-79.jpg",
-    "slug": "fotboll-79",
-    "title": "fotboll-79",
+    "filename": "Hosam Aiesh.png",
+    "slug": "hosam-aiesh",
+    "title": "Hosam Aiesh",
     "category": "fotboll",
     "featured": false,
-    "src": "/images/fotboll/fotboll-79.jpg",
+    "src": "/images/fotboll/Hosam Aiesh.png",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Jesper Karlström.jpg",
+    "slug": "jesper-karlstro-m",
+    "title": "Jesper Karlström",
+    "category": "fotboll",
+    "featured": false,
+    "src": "/images/fotboll/Jesper Karlström.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Kristoffer Olsson 2.png",
+    "slug": "kristoffer-olsson-2",
+    "title": "Kristoffer Olsson 2",
+    "category": "fotboll",
+    "featured": false,
+    "src": "/images/fotboll/Kristoffer Olsson 2.png",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Kristoffer Olsson.jpg",
+    "slug": "kristoffer-olsson",
+    "title": "Kristoffer Olsson",
+    "category": "fotboll",
+    "featured": false,
+    "src": "/images/fotboll/Kristoffer Olsson.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D500",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/5.6",
+      "shutterSpeed": "1/640 s",
+      "iso": 1600
+    }
+  },
+  {
+    "filename": "Linda Motlhalo.jpg",
+    "slug": "linda-motlhalo",
+    "title": "Linda Motlhalo",
+    "category": "fotboll",
+    "featured": false,
+    "src": "/images/fotboll/Linda Motlhalo.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D500",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/2.8",
+      "shutterSpeed": "1/800 s",
+      "iso": 140
+    }
+  },
+  {
+    "filename": "Madelen Janogy.jpg",
+    "slug": "madelen-janogy",
+    "title": "Madelen Janogy",
+    "category": "fotboll",
+    "featured": false,
+    "src": "/images/fotboll/Madelen Janogy.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D850",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/2.8",
+      "shutterSpeed": "1/800 s",
+      "iso": 400
+    }
+  },
+  {
+    "filename": "Marcus Berg 2.jpg",
+    "slug": "marcus-berg-2",
+    "title": "Marcus Berg 2",
+    "category": "fotboll",
+    "featured": false,
+    "src": "/images/fotboll/Marcus Berg 2.jpg",
     "exif": {
       "date": null,
       "camera": "NIKON D600",
       "lens": null,
       "focalLength": null,
       "aperture": "f/6.3",
-      "shutterSpeed": "1/400 s",
+      "shutterSpeed": "1/320 s",
       "iso": 800
     }
   },
   {
-    "filename": "fotboll-81.png",
-    "slug": "fotboll-81",
-    "title": "fotboll-81",
+    "filename": "Marcus Berg.jpg",
+    "slug": "marcus-berg",
+    "title": "Marcus Berg",
     "category": "fotboll",
     "featured": false,
-    "src": "/images/fotboll/fotboll-81.png",
+    "src": "/images/fotboll/Marcus Berg.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D500",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/2.8",
+      "shutterSpeed": "1/800 s",
+      "iso": 900
+    }
+  },
+  {
+    "filename": "Nahir Besara.jpg",
+    "slug": "nahir-besara",
+    "title": "Nahir Besara",
+    "category": "fotboll",
+    "featured": false,
+    "src": "/images/fotboll/Nahir Besara.jpg",
     "exif": {
       "date": null,
       "camera": null,
@@ -3026,12 +4913,29 @@
     }
   },
   {
-    "filename": "fotboll-83.png",
-    "slug": "fotboll-83",
-    "title": "fotboll-83",
+    "filename": "Robin Quaison.jpg",
+    "slug": "robin-quaison",
+    "title": "Robin Quaison",
     "category": "fotboll",
     "featured": false,
-    "src": "/images/fotboll/fotboll-83.png",
+    "src": "/images/fotboll/Robin Quaison.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D500",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/5.3",
+      "shutterSpeed": "1/640 s",
+      "iso": 2200
+    }
+  },
+  {
+    "filename": "Rodri-Rodrigo Hernández Cascante.png",
+    "slug": "rodri-rodrigo-herna-ndez-cascante",
+    "title": "Rodri-Rodrigo Hernández Cascante",
+    "category": "fotboll",
+    "featured": false,
+    "src": "/images/fotboll/Rodri-Rodrigo Hernández Cascante.png",
     "exif": {
       "date": null,
       "camera": null,
@@ -3043,80 +4947,12 @@
     }
   },
   {
-    "filename": "fotboll-85.png",
-    "slug": "fotboll-85",
-    "title": "fotboll-85",
+    "filename": "Simone Boye Sørensen 2.jpg",
+    "slug": "simone-boye-s-rensen-2",
+    "title": "Simone Boye Sørensen 2",
     "category": "fotboll",
     "featured": false,
-    "src": "/images/fotboll/fotboll-85.png",
-    "exif": {
-      "date": null,
-      "camera": null,
-      "lens": null,
-      "focalLength": null,
-      "aperture": null,
-      "shutterSpeed": null,
-      "iso": null
-    }
-  },
-  {
-    "filename": "Fotboll-A01.jpg",
-    "slug": "fotboll-a01",
-    "title": "Fotboll-A01",
-    "category": "fotboll",
-    "featured": false,
-    "src": "/images/fotboll/Fotboll-A01.jpg",
-    "exif": {
-      "date": null,
-      "camera": null,
-      "lens": null,
-      "focalLength": null,
-      "aperture": null,
-      "shutterSpeed": null,
-      "iso": null
-    }
-  },
-  {
-    "filename": "Fotboll-A012.jpg",
-    "slug": "fotboll-a012",
-    "title": "Fotboll-A012",
-    "category": "fotboll",
-    "featured": false,
-    "src": "/images/fotboll/Fotboll-A012.jpg",
-    "exif": {
-      "date": null,
-      "camera": null,
-      "lens": null,
-      "focalLength": null,
-      "aperture": null,
-      "shutterSpeed": null,
-      "iso": null
-    }
-  },
-  {
-    "filename": "fotboll-B01.jpg",
-    "slug": "fotboll-b01",
-    "title": "fotboll-B01",
-    "category": "fotboll",
-    "featured": false,
-    "src": "/images/fotboll/fotboll-B01.jpg",
-    "exif": {
-      "date": null,
-      "camera": null,
-      "lens": null,
-      "focalLength": null,
-      "aperture": null,
-      "shutterSpeed": null,
-      "iso": null
-    }
-  },
-  {
-    "filename": "Fotboll-B05.png",
-    "slug": "fotboll-b05",
-    "title": "Fotboll-B05",
-    "category": "fotboll",
-    "featured": false,
-    "src": "/images/fotboll/Fotboll-B05.png",
+    "src": "/images/fotboll/Simone Boye Sørensen 2.jpg",
     "exif": {
       "date": null,
       "camera": null,
@@ -3162,6 +4998,74 @@
     }
   },
   {
+    "filename": "Ebba Andersson.jpg",
+    "slug": "ebba-andersson",
+    "title": "Ebba Andersson",
+    "category": "innebandy",
+    "featured": false,
+    "src": "/images/innebandy/Ebba Andersson.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Ella Lindström.jpg",
+    "slug": "ella-lindstro-m",
+    "title": "Ella Lindström",
+    "category": "innebandy",
+    "featured": false,
+    "src": "/images/innebandy/Ella Lindström.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Ellen Rasmussen.jpg",
+    "slug": "ellen-rasmussen",
+    "title": "Ellen Rasmussen",
+    "category": "innebandy",
+    "featured": false,
+    "src": "/images/innebandy/Ellen Rasmussen.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D610",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/2.8",
+      "shutterSpeed": "1/800 s",
+      "iso": 4500
+    }
+  },
+  {
+    "filename": "Emil Ruud.jpg",
+    "slug": "emil-ruud",
+    "title": "Emil Ruud",
+    "category": "innebandy",
+    "featured": false,
+    "src": "/images/innebandy/Emil Ruud.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
     "filename": "Falun-Storvreta.jpg",
     "slug": "falun-storvreta",
     "title": "Falun-Storvreta",
@@ -3179,97 +5083,12 @@
     }
   },
   {
-    "filename": "Goal.jpg",
-    "slug": "goal",
-    "title": "Goal",
+    "filename": "Felicia Forsmark.jpg",
+    "slug": "felicia-forsmark",
+    "title": "Felicia Forsmark",
     "category": "innebandy",
     "featured": false,
-    "src": "/images/innebandy/Goal.jpg",
-    "exif": {
-      "date": null,
-      "camera": "NIKON D500",
-      "lens": null,
-      "focalLength": null,
-      "aperture": "f/2.8",
-      "shutterSpeed": "1/640 s",
-      "iso": 2000
-    }
-  },
-  {
-    "filename": "innebandy-12.jpg",
-    "slug": "innebandy-12",
-    "title": "innebandy-12",
-    "category": "innebandy",
-    "featured": false,
-    "src": "/images/innebandy/innebandy-12.jpg",
-    "exif": {
-      "date": null,
-      "camera": "NIKON D500",
-      "lens": null,
-      "focalLength": null,
-      "aperture": "f/2.8",
-      "shutterSpeed": "1/640 s",
-      "iso": 2000
-    }
-  },
-  {
-    "filename": "innebandy-14.jpg",
-    "slug": "innebandy-14",
-    "title": "innebandy-14",
-    "category": "innebandy",
-    "featured": false,
-    "src": "/images/innebandy/innebandy-14.jpg",
-    "exif": {
-      "date": null,
-      "camera": "NIKON D500",
-      "lens": null,
-      "focalLength": null,
-      "aperture": "f/2.8",
-      "shutterSpeed": "1/640 s",
-      "iso": 2000
-    }
-  },
-  {
-    "filename": "innebandy-16.jpg",
-    "slug": "innebandy-16",
-    "title": "innebandy-16",
-    "category": "innebandy",
-    "featured": false,
-    "src": "/images/innebandy/innebandy-16.jpg",
-    "exif": {
-      "date": null,
-      "camera": "NIKON D500",
-      "lens": null,
-      "focalLength": null,
-      "aperture": "f/2.8",
-      "shutterSpeed": "1/640 s",
-      "iso": 3200
-    }
-  },
-  {
-    "filename": "innebandy-18.jpg",
-    "slug": "innebandy-18",
-    "title": "innebandy-18",
-    "category": "innebandy",
-    "featured": false,
-    "src": "/images/innebandy/innebandy-18.jpg",
-    "exif": {
-      "date": null,
-      "camera": "NIKON D500",
-      "lens": null,
-      "focalLength": null,
-      "aperture": "f/2.8",
-      "shutterSpeed": "1/640 s",
-      "iso": 3200
-    }
-  },
-  {
-    "filename": "innebandy-22.jpg",
-    "slug": "innebandy-22",
-    "title": "innebandy-22",
-    "category": "innebandy",
-    "featured": false,
-    "src": "/images/innebandy/innebandy-22.jpg",
+    "src": "/images/innebandy/Felicia Forsmark.jpg",
     "exif": {
       "date": null,
       "camera": null,
@@ -3281,15 +5100,15 @@
     }
   },
   {
-    "filename": "innebandy-25.jpg",
-    "slug": "innebandy-25",
-    "title": "innebandy-25",
+    "filename": "Glenn Boström.jpg",
+    "slug": "glenn-bostro-m",
+    "title": "Glenn Boström",
     "category": "innebandy",
     "featured": false,
-    "src": "/images/innebandy/innebandy-25.jpg",
+    "src": "/images/innebandy/Glenn Boström.jpg",
     "exif": {
       "date": null,
-      "camera": "NIKON D500",
+      "camera": "NIKON D850",
       "lens": null,
       "focalLength": null,
       "aperture": "f/2.8",
@@ -3312,57 +5131,6 @@
       "aperture": "f/2.8",
       "shutterSpeed": "1/640 s",
       "iso": 5000
-    }
-  },
-  {
-    "filename": "innebandy-37.jpg",
-    "slug": "innebandy-37",
-    "title": "innebandy-37",
-    "category": "innebandy",
-    "featured": false,
-    "src": "/images/innebandy/innebandy-37.jpg",
-    "exif": {
-      "date": null,
-      "camera": "NIKON D610",
-      "lens": null,
-      "focalLength": null,
-      "aperture": "f/2.8",
-      "shutterSpeed": "1/1000 s",
-      "iso": 4000
-    }
-  },
-  {
-    "filename": "innebandy-39.jpg",
-    "slug": "innebandy-39",
-    "title": "innebandy-39",
-    "category": "innebandy",
-    "featured": false,
-    "src": "/images/innebandy/innebandy-39.jpg",
-    "exif": {
-      "date": null,
-      "camera": "NIKON D610",
-      "lens": null,
-      "focalLength": null,
-      "aperture": "f/2.8",
-      "shutterSpeed": "1/800 s",
-      "iso": 4500
-    }
-  },
-  {
-    "filename": "innebandy-43.jpg",
-    "slug": "innebandy-43",
-    "title": "innebandy-43",
-    "category": "innebandy",
-    "featured": false,
-    "src": "/images/innebandy/innebandy-43.jpg",
-    "exif": {
-      "date": null,
-      "camera": null,
-      "lens": null,
-      "focalLength": null,
-      "aperture": null,
-      "shutterSpeed": null,
-      "iso": null
     }
   },
   {
@@ -3434,40 +5202,6 @@
     }
   },
   {
-    "filename": "innebandy-6.jpg",
-    "slug": "innebandy-6",
-    "title": "innebandy-6",
-    "category": "innebandy",
-    "featured": false,
-    "src": "/images/innebandy/innebandy-6.jpg",
-    "exif": {
-      "date": null,
-      "camera": null,
-      "lens": null,
-      "focalLength": null,
-      "aperture": null,
-      "shutterSpeed": null,
-      "iso": null
-    }
-  },
-  {
-    "filename": "innebandy-60.jpg",
-    "slug": "innebandy-60",
-    "title": "innebandy-60",
-    "category": "innebandy",
-    "featured": false,
-    "src": "/images/innebandy/innebandy-60.jpg",
-    "exif": {
-      "date": null,
-      "camera": "NIKON D850",
-      "lens": null,
-      "focalLength": null,
-      "aperture": "f/2.8",
-      "shutterSpeed": "1/640 s",
-      "iso": 2000
-    }
-  },
-  {
     "filename": "innebandy-62.jpg",
     "slug": "innebandy-62",
     "title": "innebandy-62",
@@ -3482,159 +5216,6 @@
       "aperture": "f/2.8",
       "shutterSpeed": "1/400 s",
       "iso": 800
-    }
-  },
-  {
-    "filename": "innebandy-64.jpg",
-    "slug": "innebandy-64",
-    "title": "innebandy-64",
-    "category": "innebandy",
-    "featured": false,
-    "src": "/images/innebandy/innebandy-64.jpg",
-    "exif": {
-      "date": null,
-      "camera": "NIKON D800",
-      "lens": null,
-      "focalLength": null,
-      "aperture": "f/2.8",
-      "shutterSpeed": "1/320 s",
-      "iso": 640
-    }
-  },
-  {
-    "filename": "innebandy-66.jpg",
-    "slug": "innebandy-66",
-    "title": "innebandy-66",
-    "category": "innebandy",
-    "featured": false,
-    "src": "/images/innebandy/innebandy-66.jpg",
-    "exif": {
-      "date": null,
-      "camera": null,
-      "lens": null,
-      "focalLength": null,
-      "aperture": null,
-      "shutterSpeed": null,
-      "iso": null
-    }
-  },
-  {
-    "filename": "innebandy-69.png",
-    "slug": "innebandy-69",
-    "title": "innebandy-69",
-    "category": "innebandy",
-    "featured": false,
-    "src": "/images/innebandy/innebandy-69.png",
-    "exif": {
-      "date": null,
-      "camera": null,
-      "lens": null,
-      "focalLength": null,
-      "aperture": null,
-      "shutterSpeed": null,
-      "iso": null
-    }
-  },
-  {
-    "filename": "Innebandy-70.png",
-    "slug": "innebandy-70",
-    "title": "Innebandy-70",
-    "category": "innebandy",
-    "featured": false,
-    "src": "/images/innebandy/Innebandy-70.png",
-    "exif": {
-      "date": null,
-      "camera": null,
-      "lens": null,
-      "focalLength": null,
-      "aperture": null,
-      "shutterSpeed": null,
-      "iso": null
-    }
-  },
-  {
-    "filename": "Innebandy-71.png",
-    "slug": "innebandy-71",
-    "title": "Innebandy-71",
-    "category": "innebandy",
-    "featured": false,
-    "src": "/images/innebandy/Innebandy-71.png",
-    "exif": {
-      "date": null,
-      "camera": null,
-      "lens": null,
-      "focalLength": null,
-      "aperture": null,
-      "shutterSpeed": null,
-      "iso": null
-    }
-  },
-  {
-    "filename": "Innebandy-72.jpg",
-    "slug": "innebandy-72",
-    "title": "Innebandy-72",
-    "category": "innebandy",
-    "featured": false,
-    "src": "/images/innebandy/Innebandy-72.jpg",
-    "exif": {
-      "date": null,
-      "camera": null,
-      "lens": null,
-      "focalLength": null,
-      "aperture": null,
-      "shutterSpeed": null,
-      "iso": null
-    }
-  },
-  {
-    "filename": "Innebandy-A01-extra.jpg",
-    "slug": "innebandy-a01-extra",
-    "title": "Innebandy-A01-extra",
-    "category": "innebandy",
-    "featured": false,
-    "src": "/images/innebandy/Innebandy-A01-extra.jpg",
-    "exif": {
-      "date": null,
-      "camera": null,
-      "lens": null,
-      "focalLength": null,
-      "aperture": null,
-      "shutterSpeed": null,
-      "iso": null
-    }
-  },
-  {
-    "filename": "Innebandy-A01.jpg",
-    "slug": "innebandy-a01",
-    "title": "Innebandy-A01",
-    "category": "innebandy",
-    "featured": false,
-    "src": "/images/innebandy/Innebandy-A01.jpg",
-    "exif": {
-      "date": null,
-      "camera": null,
-      "lens": null,
-      "focalLength": null,
-      "aperture": null,
-      "shutterSpeed": null,
-      "iso": null
-    }
-  },
-  {
-    "filename": "Innebandy-A011.jpg",
-    "slug": "innebandy-a011",
-    "title": "Innebandy-A011",
-    "category": "innebandy",
-    "featured": false,
-    "src": "/images/innebandy/Innebandy-A011.jpg",
-    "exif": {
-      "date": null,
-      "camera": null,
-      "lens": null,
-      "focalLength": null,
-      "aperture": null,
-      "shutterSpeed": null,
-      "iso": null
     }
   },
   {
@@ -3672,57 +5253,6 @@
     }
   },
   {
-    "filename": "Innebandy-A014.jpg",
-    "slug": "innebandy-a014",
-    "title": "Innebandy-A014",
-    "category": "innebandy",
-    "featured": false,
-    "src": "/images/innebandy/Innebandy-A014.jpg",
-    "exif": {
-      "date": null,
-      "camera": null,
-      "lens": null,
-      "focalLength": null,
-      "aperture": null,
-      "shutterSpeed": null,
-      "iso": null
-    }
-  },
-  {
-    "filename": "Innebandy-A015.jpg",
-    "slug": "innebandy-a015",
-    "title": "Innebandy-A015",
-    "category": "innebandy",
-    "featured": false,
-    "src": "/images/innebandy/Innebandy-A015.jpg",
-    "exif": {
-      "date": null,
-      "camera": null,
-      "lens": null,
-      "focalLength": null,
-      "aperture": null,
-      "shutterSpeed": null,
-      "iso": null
-    }
-  },
-  {
-    "filename": "Innebandy-A016.jpg",
-    "slug": "innebandy-a016",
-    "title": "Innebandy-A016",
-    "category": "innebandy",
-    "featured": false,
-    "src": "/images/innebandy/Innebandy-A016.jpg",
-    "exif": {
-      "date": null,
-      "camera": null,
-      "lens": null,
-      "focalLength": null,
-      "aperture": null,
-      "shutterSpeed": null,
-      "iso": null
-    }
-  },
-  {
     "filename": "Innebandy-A017.jpg",
     "slug": "innebandy-a017",
     "title": "Innebandy-A017",
@@ -3740,114 +5270,12 @@
     }
   },
   {
-    "filename": "Innebandy-A018.jpg",
-    "slug": "innebandy-a018",
-    "title": "Innebandy-A018",
-    "category": "innebandy",
-    "featured": false,
-    "src": "/images/innebandy/Innebandy-A018.jpg",
-    "exif": {
-      "date": null,
-      "camera": null,
-      "lens": null,
-      "focalLength": null,
-      "aperture": null,
-      "shutterSpeed": null,
-      "iso": null
-    }
-  },
-  {
-    "filename": "Innebandy-A019.jpg",
-    "slug": "innebandy-a019",
-    "title": "Innebandy-A019",
-    "category": "innebandy",
-    "featured": false,
-    "src": "/images/innebandy/Innebandy-A019.jpg",
-    "exif": {
-      "date": null,
-      "camera": null,
-      "lens": null,
-      "focalLength": null,
-      "aperture": null,
-      "shutterSpeed": null,
-      "iso": null
-    }
-  },
-  {
-    "filename": "Innebandy-A02.jpg",
-    "slug": "innebandy-a02",
-    "title": "Innebandy-A02",
-    "category": "innebandy",
-    "featured": false,
-    "src": "/images/innebandy/Innebandy-A02.jpg",
-    "exif": {
-      "date": null,
-      "camera": null,
-      "lens": null,
-      "focalLength": null,
-      "aperture": null,
-      "shutterSpeed": null,
-      "iso": null
-    }
-  },
-  {
     "filename": "Innebandy-A10.jpg",
     "slug": "innebandy-a10",
     "title": "Innebandy-A10",
     "category": "innebandy",
     "featured": false,
     "src": "/images/innebandy/Innebandy-A10.jpg",
-    "exif": {
-      "date": null,
-      "camera": null,
-      "lens": null,
-      "focalLength": null,
-      "aperture": null,
-      "shutterSpeed": null,
-      "iso": null
-    }
-  },
-  {
-    "filename": "Innebandy-A12.jpg",
-    "slug": "innebandy-a12",
-    "title": "Innebandy-A12",
-    "category": "innebandy",
-    "featured": false,
-    "src": "/images/innebandy/Innebandy-A12.jpg",
-    "exif": {
-      "date": null,
-      "camera": null,
-      "lens": null,
-      "focalLength": null,
-      "aperture": null,
-      "shutterSpeed": null,
-      "iso": null
-    }
-  },
-  {
-    "filename": "Innebandy-A13.jpg",
-    "slug": "innebandy-a13",
-    "title": "Innebandy-A13",
-    "category": "innebandy",
-    "featured": false,
-    "src": "/images/innebandy/Innebandy-A13.jpg",
-    "exif": {
-      "date": null,
-      "camera": null,
-      "lens": null,
-      "focalLength": null,
-      "aperture": null,
-      "shutterSpeed": null,
-      "iso": null
-    }
-  },
-  {
-    "filename": "Innebandy-A14.jpg",
-    "slug": "innebandy-a14",
-    "title": "Innebandy-A14",
-    "category": "innebandy",
-    "featured": false,
-    "src": "/images/innebandy/Innebandy-A14.jpg",
     "exif": {
       "date": null,
       "camera": null,
@@ -3893,12 +5321,199 @@
     }
   },
   {
-    "filename": "Innebandy-A17.jpg",
-    "slug": "innebandy-a17",
-    "title": "Innebandy-A17",
+    "filename": "Kim Nilsson.jpg",
+    "slug": "kim-nilsson",
+    "title": "Kim Nilsson",
     "category": "innebandy",
     "featured": false,
-    "src": "/images/innebandy/Innebandy-A17.jpg",
+    "src": "/images/innebandy/Kim Nilsson.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Lucas Rigogiannis 3.png",
+    "slug": "lucas-rigogiannis-3",
+    "title": "Lucas Rigogiannis 3",
+    "category": "innebandy",
+    "featured": false,
+    "src": "/images/innebandy/Lucas Rigogiannis 3.png",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Lucas Rigogiannis-Oscar Fondelius.jpg",
+    "slug": "lucas-rigogiannis-oscar-fondelius",
+    "title": "Lucas Rigogiannis-Oscar Fondelius",
+    "category": "innebandy",
+    "featured": false,
+    "src": "/images/innebandy/Lucas Rigogiannis-Oscar Fondelius.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D500",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/2.8",
+      "shutterSpeed": "1/640 s",
+      "iso": 2000
+    }
+  },
+  {
+    "filename": "Lucas Rigogiannis.jpg",
+    "slug": "lucas-rigogiannis",
+    "title": "Lucas Rigogiannis",
+    "category": "innebandy",
+    "featured": false,
+    "src": "/images/innebandy/Lucas Rigogiannis.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Maja Viström.jpg",
+    "slug": "maja-vistro-m",
+    "title": "Maja Viström",
+    "category": "innebandy",
+    "featured": false,
+    "src": "/images/innebandy/Maja Viström.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D500",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/2.8",
+      "shutterSpeed": "1/640 s",
+      "iso": 3200
+    }
+  },
+  {
+    "filename": "melie Wibron - Elin Gabrielsson.jpg",
+    "slug": "melie-wibron-elin-gabrielsson",
+    "title": "melie Wibron - Elin Gabrielsson",
+    "category": "innebandy",
+    "featured": false,
+    "src": "/images/innebandy/melie Wibron - Elin Gabrielsson.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D500",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/2.8",
+      "shutterSpeed": "1/640 s",
+      "iso": 2000
+    }
+  },
+  {
+    "filename": "My Kippilä.jpg",
+    "slug": "my-kippila",
+    "title": "My Kippilä",
+    "category": "innebandy",
+    "featured": false,
+    "src": "/images/innebandy/My Kippilä.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Omar Aldeeb - Emil Nilsen.jpg",
+    "slug": "omar-aldeeb-emil-nilsen",
+    "title": "Omar Aldeeb - Emil Nilsen",
+    "category": "innebandy",
+    "featured": false,
+    "src": "/images/innebandy/Omar Aldeeb - Emil Nilsen.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D500",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/2.8",
+      "shutterSpeed": "1/640 s",
+      "iso": 3200
+    }
+  },
+  {
+    "filename": "Oona Kauppi 2.jpg",
+    "slug": "oona-kauppi-2",
+    "title": "Oona Kauppi 2",
+    "category": "innebandy",
+    "featured": false,
+    "src": "/images/innebandy/Oona Kauppi 2.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D610",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/2.8",
+      "shutterSpeed": "1/1000 s",
+      "iso": 4000
+    }
+  },
+  {
+    "filename": "Oona Kauppi.jpg",
+    "slug": "oona-kauppi",
+    "title": "Oona Kauppi",
+    "category": "innebandy",
+    "featured": false,
+    "src": "/images/innebandy/Oona Kauppi.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D500",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/2.8",
+      "shutterSpeed": "1/640 s",
+      "iso": 2000
+    }
+  },
+  {
+    "filename": "Oscar Fondelius.jpg",
+    "slug": "oscar-fondelius",
+    "title": "Oscar Fondelius",
+    "category": "innebandy",
+    "featured": false,
+    "src": "/images/innebandy/Oscar Fondelius.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Oscar Janthe.jpg",
+    "slug": "oscar-janthe",
+    "title": "Oscar Janthe",
+    "category": "innebandy",
+    "featured": false,
+    "src": "/images/innebandy/Oscar Janthe.jpg",
     "exif": {
       "date": null,
       "camera": null,
@@ -3918,6 +5533,108 @@
     "src": "/images/innebandy/Packe-1~2.jpg",
     "exif": {
       "date": "2024-09-28",
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Philippa Blom.jpg",
+    "slug": "philippa-blom",
+    "title": "Philippa Blom",
+    "category": "innebandy",
+    "featured": false,
+    "src": "/images/innebandy/Philippa Blom.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON D800",
+      "lens": null,
+      "focalLength": null,
+      "aperture": "f/2.8",
+      "shutterSpeed": "1/320 s",
+      "iso": 640
+    }
+  },
+  {
+    "filename": "Ranja Varli 2.jpg",
+    "slug": "ranja-varli-2",
+    "title": "Ranja Varli 2",
+    "category": "innebandy",
+    "featured": false,
+    "src": "/images/innebandy/Ranja Varli 2.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Ranja Varli.png",
+    "slug": "ranja-varli",
+    "title": "Ranja Varli",
+    "category": "innebandy",
+    "featured": false,
+    "src": "/images/innebandy/Ranja Varli.png",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Rikke Ingebrigtsli Hansen.jpg",
+    "slug": "rikke-ingebrigtsli-hansen",
+    "title": "Rikke Ingebrigtsli Hansen",
+    "category": "innebandy",
+    "featured": false,
+    "src": "/images/innebandy/Rikke Ingebrigtsli Hansen.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Sarah Schöning.jpg",
+    "slug": "sarah-scho-ning",
+    "title": "Sarah Schöning",
+    "category": "innebandy",
+    "featured": false,
+    "src": "/images/innebandy/Sarah Schöning.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "SM-GULD 2.jpg",
+    "slug": "sm-guld-2",
+    "title": "SM-GULD 2",
+    "category": "innebandy",
+    "featured": false,
+    "src": "/images/innebandy/SM-GULD 2.jpg",
+    "exif": {
+      "date": null,
       "camera": null,
       "lens": null,
       "focalLength": null,
@@ -3961,12 +5678,63 @@
     }
   },
   {
-    "filename": "Valdemar Ahlrot.jpg",
-    "slug": "valdemar-ahlrot",
-    "title": "Valdemar Ahlrot",
+    "filename": "Thea Lindén.jpg",
+    "slug": "thea-linde-n",
+    "title": "Thea Lindén",
     "category": "innebandy",
     "featured": false,
-    "src": "/images/innebandy/Valdemar Ahlrot.jpg",
+    "src": "/images/innebandy/Thea Lindén.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Therese Gustafsson.jpg",
+    "slug": "therese-gustafsson",
+    "title": "Therese Gustafsson",
+    "category": "innebandy",
+    "featured": false,
+    "src": "/images/innebandy/Therese Gustafsson.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Valdemar Ahlroth 2.jpg",
+    "slug": "valdemar-ahlroth-2",
+    "title": "Valdemar Ahlroth 2",
+    "category": "innebandy",
+    "featured": false,
+    "src": "/images/innebandy/Valdemar Ahlroth 2.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Valdemar Ahlroth.jpg",
+    "slug": "valdemar-ahlroth",
+    "title": "Valdemar Ahlroth",
+    "category": "innebandy",
+    "featured": false,
+    "src": "/images/innebandy/Valdemar Ahlroth.jpg",
     "exif": {
       "date": null,
       "camera": null,
