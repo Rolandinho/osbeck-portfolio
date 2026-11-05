@@ -476,6 +476,23 @@
     }
   },
   {
+    "filename": "All hands on deck-Topaz-DeNoiseAI.png",
+    "slug": "all-hands-on-deck-topaz-denoiseai",
+    "title": "All hands on deck-Topaz-DeNoiseAI",
+    "category": "basket",
+    "featured": false,
+    "src": "/images/basket/All hands on deck-Topaz-DeNoiseAI.png",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
     "filename": "All hands on deck.png",
     "slug": "all-hands-on-deck",
     "title": "All hands on deck",
@@ -1224,12 +1241,29 @@
     }
   },
   {
-    "filename": "Josefine Enander guard.jpg",
-    "slug": "josefine-enander-guard",
-    "title": "Josefine Enander guard",
+    "filename": "Josefin Enander guard 4.jpg",
+    "slug": "josefin-enander-guard-4",
+    "title": "Josefin Enander guard 4",
     "category": "basket",
     "featured": false,
-    "src": "/images/basket/Josefine Enander guard.jpg",
+    "src": "/images/basket/Josefin Enander guard 4.jpg",
+    "exif": {
+      "date": "2026-11-05",
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Josefin Enander guard.png",
+    "slug": "josefin-enander-guard",
+    "title": "Josefin Enander guard",
+    "category": "basket",
+    "featured": false,
+    "src": "/images/basket/Josefin Enander guard.png",
     "exif": {
       "date": null,
       "camera": null,
@@ -1247,23 +1281,6 @@
     "category": "basket",
     "featured": false,
     "src": "/images/basket/Klara Holm fighter star.png",
-    "exif": {
-      "date": null,
-      "camera": null,
-      "lens": null,
-      "focalLength": null,
-      "aperture": null,
-      "shutterSpeed": null,
-      "iso": null
-    }
-  },
-  {
-    "filename": "Klara Holm Focused for penalty shot.jpg",
-    "slug": "klara-holm-focused-for-penalty-shot",
-    "title": "Klara Holm Focused for penalty shot",
-    "category": "basket",
-    "featured": false,
-    "src": "/images/basket/Klara Holm Focused for penalty shot.jpg",
     "exif": {
       "date": null,
       "camera": null,
@@ -1969,23 +1986,6 @@
       "aperture": null,
       "shutterSpeed": null,
       "iso": null
-    }
-  },
-  {
-    "filename": "Matilda Claeson.jpg",
-    "slug": "matilda-claeson",
-    "title": "Matilda Claeson",
-    "category": "basket",
-    "featured": false,
-    "src": "/images/basket/Matilda Claeson.jpg",
-    "exif": {
-      "date": null,
-      "camera": "NIKON D610",
-      "lens": null,
-      "focalLength": null,
-      "aperture": "f/2.8",
-      "shutterSpeed": "1/400 s",
-      "iso": 640
     }
   },
   {
@@ -3502,6 +3502,91 @@
     }
   },
   {
+    "filename": "Tomas o Sara 5.jpg",
+    "slug": "tomas-o-sara-5",
+    "title": "Tomas o Sara 5",
+    "category": "brollop",
+    "featured": false,
+    "src": "/images/brollop/Tomas o Sara 5.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON Z 9",
+      "lens": null,
+      "focalLength": "58 mm",
+      "aperture": "f/8",
+      "shutterSpeed": "1/160 s",
+      "iso": 800
+    }
+  },
+  {
+    "filename": "Tomas o Sara-1.jpg",
+    "slug": "tomas-o-sara-1",
+    "title": "Tomas o Sara-1",
+    "category": "brollop",
+    "featured": false,
+    "src": "/images/brollop/Tomas o Sara-1.jpg",
+    "exif": {
+      "date": null,
+      "camera": "NIKON Z 9",
+      "lens": null,
+      "focalLength": "58 mm",
+      "aperture": "f/8",
+      "shutterSpeed": "1/160 s",
+      "iso": 800
+    }
+  },
+  {
+    "filename": "Tomas o Sara-17.jpg",
+    "slug": "tomas-o-sara-17",
+    "title": "Tomas o Sara-17",
+    "category": "brollop",
+    "featured": false,
+    "src": "/images/brollop/Tomas o Sara-17.jpg",
+    "exif": {
+      "date": "2026-10-31",
+      "camera": "NIKON Z 9",
+      "lens": "VR 24-70mm f/2.8E",
+      "focalLength": "48 mm",
+      "aperture": "f/5",
+      "shutterSpeed": "1/200 s",
+      "iso": 400
+    }
+  },
+  {
+    "filename": "Tomas o Sara-3.jpg",
+    "slug": "tomas-o-sara-3",
+    "title": "Tomas o Sara-3",
+    "category": "brollop",
+    "featured": false,
+    "src": "/images/brollop/Tomas o Sara-3.jpg",
+    "exif": {
+      "date": "2026-10-31",
+      "camera": "NIKON Z 9",
+      "lens": "VR 24-70mm f/2.8E",
+      "focalLength": "58 mm",
+      "aperture": "f/8",
+      "shutterSpeed": "1/160 s",
+      "iso": 800
+    }
+  },
+  {
+    "filename": "Tomas o Sara-56.jpg",
+    "slug": "tomas-o-sara-56",
+    "title": "Tomas o Sara-56",
+    "category": "brollop",
+    "featured": false,
+    "src": "/images/brollop/Tomas o Sara-56.jpg",
+    "exif": {
+      "date": "2026-10-31",
+      "camera": "NIKON Z 9",
+      "lens": "VR 24-70mm f/2.8E",
+      "focalLength": "40 mm",
+      "aperture": "f/5",
+      "shutterSpeed": "1/320 s",
+      "iso": 1600
+    }
+  },
+  {
     "filename": "wedding-1.jpg",
     "slug": "wedding-1",
     "title": "wedding-1",
@@ -4488,6 +4573,23 @@
     }
   },
   {
+    "filename": "Alexander Isak Sweden.png",
+    "slug": "alexander-isak-sweden",
+    "title": "Alexander Isak Sweden",
+    "category": "fotboll",
+    "featured": false,
+    "src": "/images/fotboll/Alexander Isak Sweden.png",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
     "filename": "Alexander Isak.jpg",
     "slug": "alexander-isak",
     "title": "Alexander Isak",
@@ -4573,12 +4675,80 @@
     }
   },
   {
+    "filename": "Astrit Selmani 2.png",
+    "slug": "astrit-selmani-2",
+    "title": "Astrit Selmani 2",
+    "category": "fotboll",
+    "featured": false,
+    "src": "/images/fotboll/Astrit Selmani 2.png",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Astrit Selmani.png",
+    "slug": "astrit-selmani",
+    "title": "Astrit Selmani",
+    "category": "fotboll",
+    "featured": false,
+    "src": "/images/fotboll/Astrit Selmani.png",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Bajen trixar.png",
+    "slug": "bajen-trixar",
+    "title": "Bajen trixar",
+    "category": "fotboll",
+    "featured": false,
+    "src": "/images/fotboll/Bajen trixar.png",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
     "filename": "Dejan Kulusevski.jpg",
     "slug": "dejan-kulusevski",
     "title": "Dejan Kulusevski",
     "category": "fotboll",
     "featured": false,
     "src": "/images/fotboll/Dejan Kulusevski.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Derby Bajen-DIF.png",
+    "slug": "derby-bajen-dif",
+    "title": "Derby Bajen-DIF",
+    "category": "fotboll",
+    "featured": false,
+    "src": "/images/fotboll/Derby Bajen-DIF.png",
     "exif": {
       "date": null,
       "camera": null,
@@ -4760,6 +4930,108 @@
     }
   },
   {
+    "filename": "Gustav Ludde Ludwigson jumping.png",
+    "slug": "gustav-ludde-ludwigson-jumping",
+    "title": "Gustav Ludde Ludwigson jumping",
+    "category": "fotboll",
+    "featured": false,
+    "src": "/images/fotboll/Gustav Ludde Ludwigson jumping.png",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Gustav Ludde Ludwigsonrun.png",
+    "slug": "gustav-ludde-ludwigsonrun",
+    "title": "Gustav Ludde Ludwigsonrun",
+    "category": "fotboll",
+    "featured": false,
+    "src": "/images/fotboll/Gustav Ludde Ludwigsonrun.png",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Gustav Ludwigson segergest.png",
+    "slug": "gustav-ludwigson-segergest",
+    "title": "Gustav Ludwigson segergest",
+    "category": "fotboll",
+    "featured": false,
+    "src": "/images/fotboll/Gustav Ludwigson segergest.png",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Gustav Ludwigson vrål.png",
+    "slug": "gustav-ludwigson-vra-l",
+    "title": "Gustav Ludwigson vrål",
+    "category": "fotboll",
+    "featured": false,
+    "src": "/images/fotboll/Gustav Ludwigson vrål.png",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Hammarby Fotboll.png",
+    "slug": "hammarby-fotboll",
+    "title": "Hammarby Fotboll",
+    "category": "fotboll",
+    "featured": false,
+    "src": "/images/fotboll/Hammarby Fotboll.png",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Hanging nick Hammarby.png",
+    "slug": "hanging-nick-hammarby",
+    "title": "Hanging nick Hammarby",
+    "category": "fotboll",
+    "featured": false,
+    "src": "/images/fotboll/Hanging nick Hammarby.png",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
     "filename": "Hosam Aiesh.png",
     "slug": "hosam-aiesh",
     "title": "Hosam Aiesh",
@@ -4845,6 +5117,74 @@
     }
   },
   {
+    "filename": "Lipsill.png",
+    "slug": "lipsill",
+    "title": "Lipsill",
+    "category": "fotboll",
+    "featured": false,
+    "src": "/images/fotboll/Lipsill.png",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Långa bollar tack.png",
+    "slug": "la-nga-bollar-tack",
+    "title": "Långa bollar tack",
+    "category": "fotboll",
+    "featured": false,
+    "src": "/images/fotboll/Långa bollar tack.png",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Madelen Janogy fight.png",
+    "slug": "madelen-janogy-fight",
+    "title": "Madelen Janogy fight",
+    "category": "fotboll",
+    "featured": false,
+    "src": "/images/fotboll/Madelen Janogy fight.png",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Madelen Janogy score.png",
+    "slug": "madelen-janogy-score",
+    "title": "Madelen Janogy score",
+    "category": "fotboll",
+    "featured": false,
+    "src": "/images/fotboll/Madelen Janogy score.png",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
     "filename": "Madelen Janogy.jpg",
     "slug": "madelen-janogy",
     "title": "Madelen Janogy",
@@ -4859,6 +5199,23 @@
       "aperture": "f/2.8",
       "shutterSpeed": "1/800 s",
       "iso": 400
+    }
+  },
+  {
+    "filename": "Madelen Janogy.png",
+    "slug": "madelen-janogy-png",
+    "title": "Madelen Janogy",
+    "category": "fotboll",
+    "featured": false,
+    "src": "/images/fotboll/Madelen Janogy.png",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
     }
   },
   {
@@ -4981,12 +5338,63 @@
     }
   },
   {
-    "filename": "Sveriges-15.png",
-    "slug": "sveriges-15",
-    "title": "Sveriges-15",
+    "filename": "Victor Nilsson Lindelöf.png",
+    "slug": "victor-nilsson-lindelo-f",
+    "title": "Victor Nilsson Lindelöf",
     "category": "fotboll",
     "featured": false,
-    "src": "/images/fotboll/Sveriges-15.png",
+    "src": "/images/fotboll/Victor Nilsson Lindelöf.png",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Alexander Galante Carlström jump high.png",
+    "slug": "alexander-galante-carlstro-m-jump-high",
+    "title": "Alexander Galante Carlström jump high",
+    "category": "innebandy",
+    "featured": false,
+    "src": "/images/innebandy/Alexander Galante Carlström jump high.png",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Alexander Galante Carström fighting spirit.png",
+    "slug": "alexander-galante-carstro-m-fighting-spirit",
+    "title": "Alexander Galante Carström fighting spirit",
+    "category": "innebandy",
+    "featured": false,
+    "src": "/images/innebandy/Alexander Galante Carström fighting spirit.png",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Alexander Rudd Sweden.png",
+    "slug": "alexander-rudd-sweden",
+    "title": "Alexander Rudd Sweden",
+    "category": "innebandy",
+    "featured": false,
+    "src": "/images/innebandy/Alexander Rudd Sweden.png",
     "exif": {
       "date": null,
       "camera": null,
@@ -5004,6 +5412,23 @@
     "category": "innebandy",
     "featured": false,
     "src": "/images/innebandy/Ebba Andersson.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Elin Wemmer.png",
+    "slug": "elin-wemmer",
+    "title": "Elin Wemmer",
+    "category": "innebandy",
+    "featured": false,
+    "src": "/images/innebandy/Elin Wemmer.png",
     "exif": {
       "date": null,
       "camera": null,
@@ -5080,6 +5505,23 @@
       "aperture": "f/2.8",
       "shutterSpeed": "1/400 s",
       "iso": 800
+    }
+  },
+  {
+    "filename": "Felicia Forsmark GOAL.jpg",
+    "slug": "felicia-forsmark-goal",
+    "title": "Felicia Forsmark GOAL",
+    "category": "innebandy",
+    "featured": false,
+    "src": "/images/innebandy/Felicia Forsmark GOAL.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
     }
   },
   {
@@ -5321,6 +5763,108 @@
     }
   },
   {
+    "filename": "JEssika Hellsén fokuserar.png",
+    "slug": "jessika-hellse-n-fokuserar",
+    "title": "JEssika Hellsén fokuserar",
+    "category": "innebandy",
+    "featured": false,
+    "src": "/images/innebandy/JEssika Hellsén fokuserar.png",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Jessika Hellsén.png",
+    "slug": "jessika-hellse-n",
+    "title": "Jessika Hellsén",
+    "category": "innebandy",
+    "featured": false,
+    "src": "/images/innebandy/Jessika Hellsén.png",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Jonas Adriansson för Sverige.png",
+    "slug": "jonas-adriansson-fo-r-sverige",
+    "title": "Jonas Adriansson för Sverige",
+    "category": "innebandy",
+    "featured": false,
+    "src": "/images/innebandy/Jonas Adriansson för Sverige.png",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Jonas Adriansson VM-final 2018.png",
+    "slug": "jonas-adriansson-vm-final-2018",
+    "title": "Jonas Adriansson VM-final 2018",
+    "category": "innebandy",
+    "featured": false,
+    "src": "/images/innebandy/Jonas Adriansson VM-final 2018.png",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Jonas Adriansson.png",
+    "slug": "jonas-adriansson",
+    "title": "Jonas Adriansson",
+    "category": "innebandy",
+    "featured": false,
+    "src": "/images/innebandy/Jonas Adriansson.png",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Kim Nilsson Face Off.png",
+    "slug": "kim-nilsson-face-off",
+    "title": "Kim Nilsson Face Off",
+    "category": "innebandy",
+    "featured": false,
+    "src": "/images/innebandy/Kim Nilsson Face Off.png",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
     "filename": "Kim Nilsson.jpg",
     "slug": "kim-nilsson",
     "title": "Kim Nilsson",
@@ -5389,6 +5933,23 @@
     }
   },
   {
+    "filename": "Maja Höög.png",
+    "slug": "maja-ho-o-g",
+    "title": "Maja Höög",
+    "category": "innebandy",
+    "featured": false,
+    "src": "/images/innebandy/Maja Höög.png",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
     "filename": "Maja Viström.jpg",
     "slug": "maja-vistro-m",
     "title": "Maja Viström",
@@ -5429,6 +5990,23 @@
     "category": "innebandy",
     "featured": false,
     "src": "/images/innebandy/My Kippilä.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Nico Salo Soumi.png",
+    "slug": "nico-salo-soumi",
+    "title": "Nico Salo Soumi",
+    "category": "innebandy",
+    "featured": false,
+    "src": "/images/innebandy/Nico Salo Soumi.png",
     "exif": {
       "date": null,
       "camera": null,
@@ -5593,6 +6171,40 @@
     }
   },
   {
+    "filename": "Rasmus Enström i närkamp.png",
+    "slug": "rasmus-enstro-m-i-na-rkamp",
+    "title": "Rasmus Enström i närkamp",
+    "category": "innebandy",
+    "featured": false,
+    "src": "/images/innebandy/Rasmus Enström i närkamp.png",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Rasmus Enström shot.png",
+    "slug": "rasmus-enstro-m-shot",
+    "title": "Rasmus Enström shot",
+    "category": "innebandy",
+    "featured": false,
+    "src": "/images/innebandy/Rasmus Enström shot.png",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
     "filename": "Rikke Ingebrigtsli Hansen.jpg",
     "slug": "rikke-ingebrigtsli-hansen",
     "title": "Rikke Ingebrigtsli Hansen",
@@ -5610,12 +6222,46 @@
     }
   },
   {
+    "filename": "Robin Nilsberth VM 2018.png",
+    "slug": "robin-nilsberth-vm-2018",
+    "title": "Robin Nilsberth VM 2018",
+    "category": "innebandy",
+    "featured": false,
+    "src": "/images/innebandy/Robin Nilsberth VM 2018.png",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
     "filename": "Sarah Schöning.jpg",
     "slug": "sarah-scho-ning",
     "title": "Sarah Schöning",
     "category": "innebandy",
     "featured": false,
     "src": "/images/innebandy/Sarah Schöning.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Segerglädje i Västergård Arena.png",
+    "slug": "segergla-dje-i-va-sterga-rd-arena",
+    "title": "Segerglädje i Västergård Arena",
+    "category": "innebandy",
+    "featured": false,
+    "src": "/images/innebandy/Segerglädje i Västergård Arena.png",
     "exif": {
       "date": null,
       "camera": null,
@@ -5678,6 +6324,74 @@
     }
   },
   {
+    "filename": "Telge SIBK Action.png",
+    "slug": "telge-sibk-action",
+    "title": "Telge SIBK Action",
+    "category": "innebandy",
+    "featured": false,
+    "src": "/images/innebandy/Telge SIBK Action.png",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Telge SIBK Innebandy.png",
+    "slug": "telge-sibk-innebandy",
+    "title": "Telge SIBK Innebandy",
+    "category": "innebandy",
+    "featured": false,
+    "src": "/images/innebandy/Telge SIBK Innebandy.png",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Telge SIBK on the move.png",
+    "slug": "telge-sibk-on-the-move",
+    "title": "Telge SIBK on the move",
+    "category": "innebandy",
+    "featured": false,
+    "src": "/images/innebandy/Telge SIBK on the move.png",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Telge SIBK Shot.png",
+    "slug": "telge-sibk-shot",
+    "title": "Telge SIBK Shot",
+    "category": "innebandy",
+    "featured": false,
+    "src": "/images/innebandy/Telge SIBK Shot.png",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
     "filename": "Thea Lindén.jpg",
     "slug": "thea-linde-n",
     "title": "Thea Lindén",
@@ -5701,6 +6415,40 @@
     "category": "innebandy",
     "featured": false,
     "src": "/images/innebandy/Therese Gustafsson.jpg",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Tobias Gustafsson i närkamp.png",
+    "slug": "tobias-gustafsson-i-na-rkamp",
+    "title": "Tobias Gustafsson i närkamp",
+    "category": "innebandy",
+    "featured": false,
+    "src": "/images/innebandy/Tobias Gustafsson i närkamp.png",
+    "exif": {
+      "date": null,
+      "camera": null,
+      "lens": null,
+      "focalLength": null,
+      "aperture": null,
+      "shutterSpeed": null,
+      "iso": null
+    }
+  },
+  {
+    "filename": "Tobias Gustafsson-Alexander Galante Carlström.png",
+    "slug": "tobias-gustafsson-alexander-galante-carlstro-m",
+    "title": "Tobias Gustafsson-Alexander Galante Carlström",
+    "category": "innebandy",
+    "featured": false,
+    "src": "/images/innebandy/Tobias Gustafsson-Alexander Galante Carlström.png",
     "exif": {
       "date": null,
       "camera": null,
