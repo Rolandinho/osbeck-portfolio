@@ -1955,6 +1955,23 @@
     }
   },
   {
+    "filename": "Martin Pahlmblad SM-Guld.jpg",
+    "slug": "martin-pahlmblad-sm-guld",
+    "title": "Martin Pahlmblad SM-Guld",
+    "category": "basket",
+    "featured": false,
+    "src": "/images/basket/Martin Pahlmblad SM-Guld.jpg",
+    "exif": {
+      "date": "2019-05-12",
+      "camera": "NIKON CORPORATION NIKON D800",
+      "lens": "122.0-300.0 mm f/2.8",
+      "focalLength": "122 mm",
+      "aperture": "f/2.8",
+      "shutterSpeed": "1/320 s",
+      "iso": 800
+    }
+  },
+  {
     "filename": "Martin Pahlmblad superstar.png",
     "slug": "martin-pahlmblad-superstar",
     "title": "Martin Pahlmblad superstar",
